@@ -1,0 +1,113 @@
+{
+  "zonaFuente": "Etc/GMT+5",
+  "servidor": "America",
+  "eventos": [
+    {
+      "id": "pesca-altamar",
+      "tipo": "aficion",
+      "categoria": "pesca",
+      "nombre": "Pesca en altamar",
+      "repeticion": "diaria",
+      "horas": [
+        "12:00",
+        "21:00"
+      ],
+      "duracionMin": 10,
+      "avisoMinAntes": 15
+    },
+    {
+      "id": "insectos-atraer",
+      "tipo": "aficion",
+      "categoria": "insectos",
+      "nombre": "Atrae a los insectos",
+      "repeticion": "diaria",
+      "horas": [
+        "11:00",
+        "20:00"
+      ],
+      "duracionMin": 30,
+      "avisoMinAntes": 15
+    },
+    {
+      "id": "aves-nido-de-cientos",
+      "tipo": "aficion",
+      "categoria": "aves",
+      "nombre": "Nido de cientos",
+      "repeticion": "diaria",
+      "horas": [
+        "17:00"
+      ],
+      "duracionMin": 30,
+      "avisoMinAntes": 15
+    },
+    {
+      "id": "adivinacion-escarabajos",
+      "tipo": "aficion",
+      "categoria": "insectos",
+      "temporadaId": "festival-noche-adivinacion",
+      "nombre": "Escarabajos peloteros mutantes",
+      "repeticion": "diaria",
+      "horas": [
+        "13:00"
+      ],
+      "inicio": "2026-10-17T06:00",
+      "fin": "2026-11-21T05:59",
+      "duracionMin": 11,
+      "avisoMinAntes": 15
+    },
+    {
+      "id": "adivinacion-cuervos",
+      "tipo": "aficion",
+      "categoria": "aves",
+      "temporadaId": "festival-noche-adivinacion",
+      "nombre": "Tesoro de los cuervos",
+      "repeticion": "diaria",
+      "horas": [
+        "16:00"
+      ],
+      "inicio": "2026-10-17T06:00",
+      "fin": "2026-11-21T05:59",
+      "duracionMin": 6,
+      "avisoMinAntes": 15
+    },
+    {
+      "id": "adivinacion-cardumen",
+      "tipo": "aficion",
+      "categoria": "pesca",
+      "temporadaId": "festival-noche-adivinacion",
+      "nombre": "Cardumen espectral (sepias y ángeles de mar)",
+      "repeticion": "diaria",
+      "horas": [
+        "18:00"
+      ],
+      "inicio": "2026-10-17T06:00",
+      "fin": "2026-11-21T05:59",
+      "duracionMin": 6,
+      "avisoMinAntes": 15
+    },
+    {
+      "id": "halloween-noche-grimkin",
+      "tipo": "temporada",
+      "categoria": "temporada",
+      "nombre": "Halloween: Noche Grimkin",
+      "inicio": "2026-10-30T06:00",
+      "fin": "2026-11-16T05:59"
+    },
+    {
+      "id": "halloween-tienda-dulces",
+      "tipo": "temporada",
+      "categoria": "temporada",
+      "nombre": "Tienda de canje de dulces de Halloween",
+      "inicio": "2026-10-30T06:00",
+      "fin": "2026-11-23T05:59"
+    },
+    {
+      "id": "festival-noche-adivinacion",
+      "tipo": "temporada",
+      "categoria": "temporada",
+      "nombre": "Festival Noche de Adivinación",
+      "inicio": "2026-10-10T06:00",
+      "fin": "2026-11-21T05:59"
+    }
+  ]
+}
