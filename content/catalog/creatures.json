@@ -3534,7 +3534,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-long-toothed-fruit-bat.webp",
+      "imageUrl": "",
       "description": "Ave de la guía. Se anota en Isla del bosque. Horario y clima van en los datos, no en este texto."
     },
     {
@@ -3794,7 +3794,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-tanzanian-woolly-bat.webp",
+      "imageUrl": "",
       "description": "Ave de la guía. Se anota en Isla del bosque. Horario y clima van en los datos, no en este texto."
     },
     {
@@ -5806,7 +5806,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 13,
-      "imageUrl": "asset:catalog/images/bird-black-peafowl.webp",
+      "imageUrl": "",
       "description": "Ave de la guía. Se anota en [EVENTO] Nido de las aves. Horario y clima van en los datos, no en este texto."
     },
     {
@@ -8783,7 +8783,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-green-flower-chafer.webp",
+      "imageUrl": "",
       "description": "Insecto de la guía. Se anota en Torre de cervatillo. Horario y clima van en los datos, no en este texto."
     },
     {
@@ -8837,7 +8837,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-iridescent-rhinoceros-beetle.webp",
+      "imageUrl": "",
       "description": "Insecto de la guía. Se anota en Evento de escarabajos coloridos. Horario y clima van en los datos, no en este texto."
     },
     {

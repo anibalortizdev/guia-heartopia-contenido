@@ -1,17 +1,1807 @@
 {
-  "contentVersion": 2,
+  "contentVersion": 3,
   "minAppVersionCode": 25,
   "publishedOn": "2026-11-10",
   "files": [
     {
       "path": "catalog/creatures.json",
-      "size": 267032,
-      "sha256": "f357e094835d2a55d30d1936b68f966438ac7dc8b0302c665e00eceb92fb59ca"
+      "size": 266771,
+      "sha256": "17f571bb761ebccc014f795632ec58ce17964f1bfffd9ea8a0b278e92be1009b"
     },
     {
       "path": "calendar/clima-2026.json",
       "size": 756553,
       "sha256": "f80829197cd37974ff6b5c1fb7afa266263b18b402fd1109e728d97003c9a6bf"
+    },
+    {
+      "path": "catalog/images/bird-african-olive-pigeon.webp",
+      "size": 27366,
+      "sha256": "3bbdf34ee1dd29020e5c3512767a8a3b62f99c73c6effbc81db8df3f6e21cad5"
+    },
+    {
+      "path": "catalog/images/bird-american-flamingo.webp",
+      "size": 19910,
+      "sha256": "003951985f54c26574434e3f79a1e2b13eb30ecac57b07e826aef35eba4f4f2e"
+    },
+    {
+      "path": "catalog/images/bird-amur-falcon.webp",
+      "size": 17104,
+      "sha256": "55e60de6d9846dad6a3a4e559f0990186762e23a970f8307b25c50faf22dee38"
+    },
+    {
+      "path": "catalog/images/bird-apple-raven.webp",
+      "size": 23608,
+      "sha256": "3b2edd742e7f4190c6d861a92eaa0e99903b08b5e9512445b47c185f966d83d8"
+    },
+    {
+      "path": "catalog/images/bird-atlantic-puffin.webp",
+      "size": 26452,
+      "sha256": "12cfa7a29cc4b6e137e8755cc6d1154f86f929c222d5351122301642bde14c7e"
+    },
+    {
+      "path": "catalog/images/bird-audouins-gull.webp",
+      "size": 27698,
+      "sha256": "310adda2417a9a410b367a7cd2a1b78a7dbe970cc47f3589002bbd6c7e7e01f1"
+    },
+    {
+      "path": "catalog/images/bird-azores-bullfinch.webp",
+      "size": 26192,
+      "sha256": "c2e442b284c41a7abbc5ee0b7ca7b8ec2920997aa3fbf35d1e349f2363d8b682"
+    },
+    {
+      "path": "catalog/images/bird-azure-tit.webp",
+      "size": 38046,
+      "sha256": "ef7702be030fe2634ff2ac6d60e3dee19083a7fe786dd57cc1b3b59b727a3356"
+    },
+    {
+      "path": "catalog/images/bird-baikal-teal.webp",
+      "size": 14606,
+      "sha256": "d50a8e73c1a6e9885b98eb9e35c54d3c5b46c3eb3fc71ed6d9eb4e787399385e"
+    },
+    {
+      "path": "catalog/images/bird-bearded-reedling.webp",
+      "size": 29486,
+      "sha256": "8bf05491defc09fd61349cc7c74e723648df9c942dc935d47f3c3f6219728da1"
+    },
+    {
+      "path": "catalog/images/bird-black-stork.webp",
+      "size": 9946,
+      "sha256": "376dcfabc51da67934a5afd08784127373280be0134a18471542c3e9e3dcab5b"
+    },
+    {
+      "path": "catalog/images/bird-black-swan.webp",
+      "size": 34096,
+      "sha256": "7a9cf843ad133bb5e69ec6ed9e6588aed0c8392d449d69e097e1da03e1b00292"
+    },
+    {
+      "path": "catalog/images/bird-blue-and-yellow-macaw.webp",
+      "size": 19602,
+      "sha256": "6ae25e61e8cba27dae5438dea73fa9ad14db44d24cd7d57d285d1ce37877f3f4"
+    },
+    {
+      "path": "catalog/images/bird-blue-brick-sparrow.webp",
+      "size": 9654,
+      "sha256": "72c8be87bb1d0d5bd2a3b61d97b51e8dde645bc8fe12355a19f7496ff7d033ec"
+    },
+    {
+      "path": "catalog/images/bird-blue-footed-booby.webp",
+      "size": 16464,
+      "sha256": "c7b260b46af6f09e70dcfb61192c78e8ea663ed883065d04e8c287e7796ff636"
+    },
+    {
+      "path": "catalog/images/bird-blue-headed-quail-dove.webp",
+      "size": 59498,
+      "sha256": "aedc939456beb62113f0161231a979eba7f824734efafd14af02a4792c19f9f5"
+    },
+    {
+      "path": "catalog/images/bird-blue-hoopoe.webp",
+      "size": 36142,
+      "sha256": "291e44c4b8f716ed1103bb423cabeba5414f42845aeab420e0f3bed7a5fa2909"
+    },
+    {
+      "path": "catalog/images/bird-blue-peafowl.webp",
+      "size": 40024,
+      "sha256": "21bb0d5c58833587e1ced97dd9fbd521746b37d99b3a2947d595c4c739e3f723"
+    },
+    {
+      "path": "catalog/images/bird-blue-suit-dove.webp",
+      "size": 57018,
+      "sha256": "94f47d2dc79c3148a1757139f509e5c8c7c9a4286ba4cadb78de23df1aea95ca"
+    },
+    {
+      "path": "catalog/images/bird-brown-noddy.webp",
+      "size": 15328,
+      "sha256": "04392a061f4fc7ec96eb5849680e31eae391a80db416f99a95ea96064fdd8cf2"
+    },
+    {
+      "path": "catalog/images/bird-cinnamon-ground-dove.webp",
+      "size": 65094,
+      "sha256": "6a6067e61888cc742e3898dd8aacb674e97a627a9d4093e6c76773a44db5a9e8"
+    },
+    {
+      "path": "catalog/images/bird-colorful-brick-sparrow.webp",
+      "size": 9654,
+      "sha256": "72c8be87bb1d0d5bd2a3b61d97b51e8dde645bc8fe12355a19f7496ff7d033ec"
+    },
+    {
+      "path": "catalog/images/bird-colorful-hoopoe.webp",
+      "size": 36142,
+      "sha256": "291e44c4b8f716ed1103bb423cabeba5414f42845aeab420e0f3bed7a5fa2909"
+    },
+    {
+      "path": "catalog/images/bird-common-kestrel.webp",
+      "size": 14452,
+      "sha256": "49070aa20ee2a0546a461f5f883721f53035d4dd180673aa77f621a50990db10"
+    },
+    {
+      "path": "catalog/images/bird-double-barred-finch.webp",
+      "size": 16662,
+      "sha256": "122855109b253aa67c2baccf62a05f514a7a0179aa9abc622fcefa79dd5feb7c"
+    },
+    {
+      "path": "catalog/images/bird-eagle-owl.webp",
+      "size": 70048,
+      "sha256": "a34813115b30545d08268e1939f2635893e76396a877edfe2d2a2aa91c1ccd96"
+    },
+    {
+      "path": "catalog/images/bird-eastern-bluebird.webp",
+      "size": 15090,
+      "sha256": "48639971f57582d2019ce06f473220e46693f9437d1babedcc5a6559dc003696"
+    },
+    {
+      "path": "catalog/images/bird-eastern-screech-owl.webp",
+      "size": 75532,
+      "sha256": "52676b90b5ab53b93f427affa10cbcbffed913a0971700c71c898d17a0101e4a"
+    },
+    {
+      "path": "catalog/images/bird-eurasian-bullfinch.webp",
+      "size": 16272,
+      "sha256": "118ec15e46d6e8f4c977634301649e8bf8c92032d01abd18cd9485f71050dcb8"
+    },
+    {
+      "path": "catalog/images/bird-eurasian-chaffinch.webp",
+      "size": 25226,
+      "sha256": "af498959aafd496df04785018f769c10ac7e01c424c80b40227b27e727a3ab94"
+    },
+    {
+      "path": "catalog/images/bird-eurasian-collared-dove.webp",
+      "size": 20620,
+      "sha256": "f0780f84a6a6d1ff241b5217883d5159f941badc6519b0b84591891a42c5275e"
+    },
+    {
+      "path": "catalog/images/bird-eurasian-golden-oriole.webp",
+      "size": 23348,
+      "sha256": "5af0854d52b0acf3003974d9d2380f885ad709e9db7ccea854551590d61afbf7"
+    },
+    {
+      "path": "catalog/images/bird-eurasian-nuthatch.webp",
+      "size": 54644,
+      "sha256": "82cb3ac7e973e885c7de3e7a57ebb66837ca6e57427d88672d61ff6b357dd10f"
+    },
+    {
+      "path": "catalog/images/bird-eurasian-wigeon.webp",
+      "size": 11816,
+      "sha256": "98070d42e919b2072e6861d29c1d379f79d9914c3a0f6c448bedf48e7353919f"
+    },
+    {
+      "path": "catalog/images/bird-eurasian-wren.webp",
+      "size": 12950,
+      "sha256": "1906751a36f8c03544f71d61964e118acc282a1c98eb90d672dcb9b6ff155e3e"
+    },
+    {
+      "path": "catalog/images/bird-european-bee-eater.webp",
+      "size": 15398,
+      "sha256": "271993208bf22088462ce0bf5acd0b0897efb991087971f70453bd13021df706"
+    },
+    {
+      "path": "catalog/images/bird-european-robin.webp",
+      "size": 8048,
+      "sha256": "3b1b10746e216860d6400c946c4bc4aef18c14dafd21b29bc99d87fcd02988d8"
+    },
+    {
+      "path": "catalog/images/bird-european-shag.webp",
+      "size": 24258,
+      "sha256": "1ff92fce26ab922e8d348637d5ca1978a528ca0be9f59c8e1782e3678e54554f"
+    },
+    {
+      "path": "catalog/images/bird-gray-suit-dove.webp",
+      "size": 57018,
+      "sha256": "94f47d2dc79c3148a1757139f509e5c8c7c9a4286ba4cadb78de23df1aea95ca"
+    },
+    {
+      "path": "catalog/images/bird-great-green-macaw.webp",
+      "size": 44856,
+      "sha256": "dd9c79d5cc0ded5e5edfc8ebd2c63ef1dd3de849165f8bda4f0c70a64b37a58b"
+    },
+    {
+      "path": "catalog/images/bird-great-tit.webp",
+      "size": 18058,
+      "sha256": "8cba70d17d609ef98361974250b7091b70a8559ff416fe2a7da58119c94eab94"
+    },
+    {
+      "path": "catalog/images/bird-greater-flamingo.webp",
+      "size": 77004,
+      "sha256": "68bb17a0aa230e86b363774dfdc5fa1835e428104a9fdf16072001c0922e40ef"
+    },
+    {
+      "path": "catalog/images/bird-green-brick-sparrow.webp",
+      "size": 9654,
+      "sha256": "72c8be87bb1d0d5bd2a3b61d97b51e8dde645bc8fe12355a19f7496ff7d033ec"
+    },
+    {
+      "path": "catalog/images/bird-green-hoopoe.webp",
+      "size": 36142,
+      "sha256": "291e44c4b8f716ed1103bb423cabeba5414f42845aeab420e0f3bed7a5fa2909"
+    },
+    {
+      "path": "catalog/images/bird-green-peafowl.webp",
+      "size": 51696,
+      "sha256": "40ceb6bae6ca47861bd1ee05377547578d53aa4ebe17e5d7db9a7f0e483d56e2"
+    },
+    {
+      "path": "catalog/images/bird-green-suit-dove.webp",
+      "size": 57018,
+      "sha256": "94f47d2dc79c3148a1757139f509e5c8c7c9a4286ba4cadb78de23df1aea95ca"
+    },
+    {
+      "path": "catalog/images/bird-grey-mantled-albatross.webp",
+      "size": 50252,
+      "sha256": "b1f55b41e2d8106f8570cb7e4d104d1b09d9e301d575b84c04614d532a9cf45e"
+    },
+    {
+      "path": "catalog/images/bird-hawfinch.webp",
+      "size": 13332,
+      "sha256": "7cbd2def885f9133f078372191c1bd8d60dc26920eaf2a56ce8575641771d008"
+    },
+    {
+      "path": "catalog/images/bird-honduran-white-bat.webp",
+      "size": 12794,
+      "sha256": "d9debd97d5e4152022a497a2e9c7d4cf1d6c86c0c7fa51c65d6c776c6fd9cd8a"
+    },
+    {
+      "path": "catalog/images/bird-imperial-shag.webp",
+      "size": 14156,
+      "sha256": "9a9054268843e4dbbe3ba9d73c860199d9698b5d26b1a8f83d4e1d37509c59a1"
+    },
+    {
+      "path": "catalog/images/bird-inca-tern.webp",
+      "size": 30972,
+      "sha256": "473bb13ce0617124c7db2612b431a5b822252402ccb4d9a2f234fdd2f1ea63dc"
+    },
+    {
+      "path": "catalog/images/bird-jambu-fruit-dove.webp",
+      "size": 29954,
+      "sha256": "2430b42d71a79cfc834ea6ad2a4d472c6745dde4407ab99c84cac251bb893d9b"
+    },
+    {
+      "path": "catalog/images/bird-king-eider.webp",
+      "size": 12824,
+      "sha256": "2dcd8c2c11e944e93dec4ff3ed526ec23255584692b99a5452d7155f394e0ec0"
+    },
+    {
+      "path": "catalog/images/bird-lady-amherst-pheasant.webp",
+      "size": 30736,
+      "sha256": "07b102956049b4707da9f459936c07c2d11016f50621a119654e93d4dea43b6e"
+    },
+    {
+      "path": "catalog/images/bird-lears-macaw.webp",
+      "size": 61694,
+      "sha256": "b0f9f3037915b364e612d2e47d2f1fdd850ad745694b7c842d6d39e962706e45"
+    },
+    {
+      "path": "catalog/images/bird-lesser-flamingo.webp",
+      "size": 18444,
+      "sha256": "6905ec9371917c2358acf177bac075f85a5ab96c7b150803f5414e0074a610d4"
+    },
+    {
+      "path": "catalog/images/bird-long-eared-owl.webp",
+      "size": 32836,
+      "sha256": "e38ce6ec6e1307138bc86f00a22b9b1b125cab5a6c91de3bf5b29c594a1e11da"
+    },
+    {
+      "path": "catalog/images/bird-long-tailed-tit.webp",
+      "size": 9786,
+      "sha256": "3ed57f1f193c3d860fec84234feadcdf0b2023aa740338c54d8ac0a34bea92aa"
+    },
+    {
+      "path": "catalog/images/bird-mallard.webp",
+      "size": 42156,
+      "sha256": "355530490aa6b2d029c386aa92ecb8c9ef89ceada27c57a60cff97c4b4dfe3da"
+    },
+    {
+      "path": "catalog/images/bird-mandarin-raven.webp",
+      "size": 23608,
+      "sha256": "3b2edd742e7f4190c6d861a92eaa0e99903b08b5e9512445b47c185f966d83d8"
+    },
+    {
+      "path": "catalog/images/bird-northern-white-faced-owl.webp",
+      "size": 37290,
+      "sha256": "4db0b0939aad60d67e2604dc7e14411b5438edea3ed8f2fe99196fb7648e2163"
+    },
+    {
+      "path": "catalog/images/bird-orange-hoopoe.webp",
+      "size": 36142,
+      "sha256": "291e44c4b8f716ed1103bb423cabeba5414f42845aeab420e0f3bed7a5fa2909"
+    },
+    {
+      "path": "catalog/images/bird-palau-scops-owl.webp",
+      "size": 30356,
+      "sha256": "7dbc2ef67c14b2da19754b64a3a3058c98ff4ffcd3c1d6ca13b18934b3489acf"
+    },
+    {
+      "path": "catalog/images/bird-paradise-tanager.webp",
+      "size": 10398,
+      "sha256": "cb0f7df247fa35c8bc5cfca7ca7b3c0f8a1435ff96e045a1e11bb1a4df671175"
+    },
+    {
+      "path": "catalog/images/bird-peregrine-falcon.webp",
+      "size": 15746,
+      "sha256": "20bf2f914d56856c6b7bf47386a806e4b29e5a46e8fd1ec17f8cf42a6addb6da"
+    },
+    {
+      "path": "catalog/images/bird-pied-imperial-pigeon.webp",
+      "size": 19080,
+      "sha256": "e0b87fcdd988c05a0cfe77c8bdcb2f9a311531cc2553d8e098fe71553e8ebd02"
+    },
+    {
+      "path": "catalog/images/bird-pine-grosbeak.webp",
+      "size": 19628,
+      "sha256": "9434ddc91a9958b7a74d0e4b80853f23f0e002e3a6078de5e6e851c4a8ebf9c6"
+    },
+    {
+      "path": "catalog/images/bird-pink-brick-sparrow.webp",
+      "size": 9654,
+      "sha256": "72c8be87bb1d0d5bd2a3b61d97b51e8dde645bc8fe12355a19f7496ff7d033ec"
+    },
+    {
+      "path": "catalog/images/bird-pink-necked-green-pigeon.webp",
+      "size": 29256,
+      "sha256": "b7d379ec98e9398111b78a3504d863f06985e5334b151adb904e05a4419dd70f"
+    },
+    {
+      "path": "catalog/images/bird-pink-pigeon.webp",
+      "size": 49436,
+      "sha256": "733c025a0f74132af9aa42901bc87f0652cc18187a589973acd53cf4b723ad13"
+    },
+    {
+      "path": "catalog/images/bird-pomarine-skua.webp",
+      "size": 17584,
+      "sha256": "a261802a647a94e8540ee8fd33be59912ba80bb07548ff2d6834e4795a7ef656"
+    },
+    {
+      "path": "catalog/images/bird-przevalskis-parrotbill.webp",
+      "size": 19064,
+      "sha256": "e4ed2de1b718812759ce5d9f2f22dd8492466dc85e0e508f500dfbd48ef214e0"
+    },
+    {
+      "path": "catalog/images/bird-pumpkin-raven.webp",
+      "size": 23608,
+      "sha256": "3b2edd742e7f4190c6d861a92eaa0e99903b08b5e9512445b47c185f966d83d8"
+    },
+    {
+      "path": "catalog/images/bird-purple-brick-sparrow.webp",
+      "size": 9654,
+      "sha256": "72c8be87bb1d0d5bd2a3b61d97b51e8dde645bc8fe12355a19f7496ff7d033ec"
+    },
+    {
+      "path": "catalog/images/bird-red-and-green-macaw.webp",
+      "size": 17644,
+      "sha256": "dc1f6c58c165cf2248b6b1ab78359132309142dedea4bf3a94c50bc96f6482b5"
+    },
+    {
+      "path": "catalog/images/bird-red-browed-finch.webp",
+      "size": 12542,
+      "sha256": "c8799122aef862bd39ba3901e38a8ab4e1f5afef66b4804003e84db436057cb8"
+    },
+    {
+      "path": "catalog/images/bird-red-faced-cormorant.webp",
+      "size": 18858,
+      "sha256": "b5d7fbc1942c081c284a999bdd865472dfd82e4e4a401000e500a22f53a228cf"
+    },
+    {
+      "path": "catalog/images/bird-red-hoopoe.webp",
+      "size": 36142,
+      "sha256": "291e44c4b8f716ed1103bb423cabeba5414f42845aeab420e0f3bed7a5fa2909"
+    },
+    {
+      "path": "catalog/images/bird-red-suit-dove.webp",
+      "size": 57018,
+      "sha256": "94f47d2dc79c3148a1757139f509e5c8c7c9a4286ba4cadb78de23df1aea95ca"
+    },
+    {
+      "path": "catalog/images/bird-redpoll.webp",
+      "size": 23020,
+      "sha256": "e057e0150d29d44b8357ab3b3c71d048d6ab81f473273cb81f290186d549670f"
+    },
+    {
+      "path": "catalog/images/bird-regent-bowerbird.webp",
+      "size": 19758,
+      "sha256": "343b05b8efed0fc092764e39b93132e607f93c89f0dc0cd0a7aee61c00b933f5"
+    },
+    {
+      "path": "catalog/images/bird-roseate-spoonbill.webp",
+      "size": 39714,
+      "sha256": "1ec5be0f839ca4ef98815bdfdffb66b223cc835c10ecab2191614fc295e98d59"
+    },
+    {
+      "path": "catalog/images/bird-ruddy-shelduck.webp",
+      "size": 27130,
+      "sha256": "8980028106d74e8bce5892a9610b3f03b0d5012ad74e8560f167d43ff27a11e7"
+    },
+    {
+      "path": "catalog/images/bird-seagull.webp",
+      "size": 29474,
+      "sha256": "06b1883c08da3f96a187fcb934bc9030a1ea34d85aaa5d71f6532a557aab0f00"
+    },
+    {
+      "path": "catalog/images/bird-silver-throated-tit.webp",
+      "size": 11788,
+      "sha256": "0c565b220ae2d0ea27ff44ad017ce63d0122894ce2327ca2a22fdd3e4230562a"
+    },
+    {
+      "path": "catalog/images/bird-smew.webp",
+      "size": 9394,
+      "sha256": "7efd16bc0bbf621395d75b3f341204527e3bb2dd4b8e5310289de2914042af33"
+    },
+    {
+      "path": "catalog/images/bird-snowy-owl.webp",
+      "size": 18168,
+      "sha256": "db53729b044510d2f71e7822f6163350f4e3114b98e9c738154ec5a0a331dc25"
+    },
+    {
+      "path": "catalog/images/bird-spectacled-owl.webp",
+      "size": 16624,
+      "sha256": "e0abf38f2d5da7b7dbdf5f1cab852af4aa828d75d6172ed63c904a189bf5564c"
+    },
+    {
+      "path": "catalog/images/bird-stock-dove.webp",
+      "size": 23286,
+      "sha256": "6fc4ffb8d632c3cab394db11033139864661dfc16999b0808f9e32dc05f52c6c"
+    },
+    {
+      "path": "catalog/images/bird-strawberry-raven.webp",
+      "size": 23608,
+      "sha256": "3b2edd742e7f4190c6d861a92eaa0e99903b08b5e9512445b47c185f966d83d8"
+    },
+    {
+      "path": "catalog/images/bird-striped-suit-dove.webp",
+      "size": 57018,
+      "sha256": "94f47d2dc79c3148a1757139f509e5c8c7c9a4286ba4cadb78de23df1aea95ca"
+    },
+    {
+      "path": "catalog/images/bird-tern.webp",
+      "size": 9022,
+      "sha256": "155c5f441c1fa84aabeeb53b44eac52c3959ad4f61f6124d8ee94a3b4a1b119b"
+    },
+    {
+      "path": "catalog/images/bird-truffle-raven.webp",
+      "size": 23608,
+      "sha256": "3b2edd742e7f4190c6d861a92eaa0e99903b08b5e9512445b47c185f966d83d8"
+    },
+    {
+      "path": "catalog/images/bird-verditer-flycatcher.webp",
+      "size": 12636,
+      "sha256": "421c6cc162c1a5282f5756fc6d6a77cce97efc5e7508a4f7308f691d38f0a811"
+    },
+    {
+      "path": "catalog/images/bird-violet-backed-starling.webp",
+      "size": 17382,
+      "sha256": "61bc06b76a27b0ab4a5d7c71940b3574a6f5c65faa1f178000ae6a07c76c3937"
+    },
+    {
+      "path": "catalog/images/bird-wallaces-fruit-dove.webp",
+      "size": 26668,
+      "sha256": "456974807db592f6f844e2034c5f69d5f440e74f15a692f74c6eb139cd85a6d1"
+    },
+    {
+      "path": "catalog/images/bird-wandering-albatross.webp",
+      "size": 25906,
+      "sha256": "d2ebf8fe5ca474318ab977272b40d4490baf1d120ffdc5397c3bf5c595df59e1"
+    },
+    {
+      "path": "catalog/images/bird-white-headed-duck.webp",
+      "size": 34564,
+      "sha256": "d4f1214953b46c04b9e0283e5c90d05576df5a8b53afc6a692fecb4b78380157"
+    },
+    {
+      "path": "catalog/images/bird-white-peafowl.webp",
+      "size": 81632,
+      "sha256": "2a6eb05c9083531d815bbe098bb9427a4b14c2d72124baae2c4dcd8f1d1bbfc7"
+    },
+    {
+      "path": "catalog/images/bird-white-spoonbill.webp",
+      "size": 20682,
+      "sha256": "ae10ac4fbe6b7a2ecfdbe5034ad2a5d900a3fb6f7acab7fc3846b862f1a579b0"
+    },
+    {
+      "path": "catalog/images/bird-white-wagtail.webp",
+      "size": 21910,
+      "sha256": "237286a7519a2b940dabc0e8e67577e2c9867b46ff6cc57e0d9705a37f5ff143"
+    },
+    {
+      "path": "catalog/images/bird-white-winged-tern.webp",
+      "size": 21726,
+      "sha256": "54aa94aaddb4ac179c1bfaafb05ae5d54d23b31e88256f02648f06b23e359312"
+    },
+    {
+      "path": "catalog/images/bird-whooper-swan.webp",
+      "size": 18268,
+      "sha256": "43087290bbe6a3c3ee4f086af9c07098224485c36f3f450f694eea75a394dd3d"
+    },
+    {
+      "path": "catalog/images/bird-winter-eurasian-wigeon.webp",
+      "size": 11816,
+      "sha256": "98070d42e919b2072e6861d29c1d379f79d9914c3a0f6c448bedf48e7353919f"
+    },
+    {
+      "path": "catalog/images/bird-winter-greater-flamingo.webp",
+      "size": 77004,
+      "sha256": "68bb17a0aa230e86b363774dfdc5fa1835e428104a9fdf16072001c0922e40ef"
+    },
+    {
+      "path": "catalog/images/bird-winter-mallard.webp",
+      "size": 42156,
+      "sha256": "355530490aa6b2d029c386aa92ecb8c9ef89ceada27c57a60cff97c4b4dfe3da"
+    },
+    {
+      "path": "catalog/images/bird-winter-mandarin-duck.webp",
+      "size": 30366,
+      "sha256": "b6a5655f692a458c8dcb0fe681a64f67b355100fb13c3365324120e0803991ed"
+    },
+    {
+      "path": "catalog/images/bird-winter-smew.webp",
+      "size": 9394,
+      "sha256": "7efd16bc0bbf621395d75b3f341204527e3bb2dd4b8e5310289de2914042af33"
+    },
+    {
+      "path": "catalog/images/bird-wonga-pigeon.webp",
+      "size": 22758,
+      "sha256": "08ffb27dd660a1f24cb3e04abc4fe40ff24a357e5c0fc739b89c92e6e3ecbedb"
+    },
+    {
+      "path": "catalog/images/bird-woodchat-shrike.webp",
+      "size": 7380,
+      "sha256": "1468b38a7be4866361b4ad56310715d5a29b08771674b2d3e1ce9995e9f365aa"
+    },
+    {
+      "path": "catalog/images/bird-yellow-bellied-flycatcher.webp",
+      "size": 19890,
+      "sha256": "ac4164d6f5048f6019f08a5d03178b0e31e2cd2dcc446c99f88ea83bc7429751"
+    },
+    {
+      "path": "catalog/images/fish-angelfish.webp",
+      "size": 17906,
+      "sha256": "fb1df7dca6fe39d2bf71c6d9d4f90c3fd81675d30e1ba1d5e7c25f328c159f1f"
+    },
+    {
+      "path": "catalog/images/fish-anglerfish.webp",
+      "size": 53798,
+      "sha256": "72675b1e14152d9be585f4de5a43b1ea005aa965aa239bc81594fcafb62c1565"
+    },
+    {
+      "path": "catalog/images/fish-arctic-char.webp",
+      "size": 35660,
+      "sha256": "a08552097dcce5480873dd27b211e60875ee8c41fa2eac9b2a57caf69c27113f"
+    },
+    {
+      "path": "catalog/images/fish-asian-arowana.webp",
+      "size": 15492,
+      "sha256": "e2d1ebb3c0268755d22db4bd0763e8634a2745cc45c6bf6eb27d74106fbb3417"
+    },
+    {
+      "path": "catalog/images/fish-atlantic-mackerel.webp",
+      "size": 70048,
+      "sha256": "71420fe1b4e59e4f28e940734bbf72cb0efc3390b976d2a9ff78045503502a41"
+    },
+    {
+      "path": "catalog/images/fish-atlantic-pygmy-octopus.webp",
+      "size": 9720,
+      "sha256": "b1501f004764209aa35a4ab0439e4b45af69e5acfa41200cd03f0a90e18c84f3"
+    },
+    {
+      "path": "catalog/images/fish-atlantic-salmon.webp",
+      "size": 8532,
+      "sha256": "6018529a9dbb740ab4681f684b822cbaf06698e4aa9791916f3ecc3b0d00048f"
+    },
+    {
+      "path": "catalog/images/fish-azure-demoiselle.webp",
+      "size": 26012,
+      "sha256": "5fbcd8358310cfefb76ce180a4077b4d51236b8527a1cd24743b078a64f4335b"
+    },
+    {
+      "path": "catalog/images/fish-barbel.webp",
+      "size": 22940,
+      "sha256": "29592f7cc7d810ec1c2bc5d715b24a0a33cdbe96e55642ea7b1ed9fa48934d6f"
+    },
+    {
+      "path": "catalog/images/fish-beltfish.webp",
+      "size": 23266,
+      "sha256": "98d2d950bf7799a19f5f87507c82b215cd1949a8afeee0e78eccddf99af5bfb1"
+    },
+    {
+      "path": "catalog/images/fish-black-garfish.webp",
+      "size": 9190,
+      "sha256": "0006988f4fa4f131d504c1f79a0874daf995dc175601551b9362e86ec4c38b67"
+    },
+    {
+      "path": "catalog/images/fish-blackspot-seabream.webp",
+      "size": 28392,
+      "sha256": "dfd43a5fa4ea2270d659089d435dea7ece03c22f6fb87299a2c40b621de99190"
+    },
+    {
+      "path": "catalog/images/fish-blackspot-sergeant.webp",
+      "size": 28368,
+      "sha256": "d138711af4e1c2459130b6d684000ee6c8518b3f3039b79738de4b4c809d9926"
+    },
+    {
+      "path": "catalog/images/fish-blue-and-yellow-wrasse.webp",
+      "size": 11512,
+      "sha256": "e90bed46d4e2dfc5f6e07e43746b6cdee4ac1d37f40e52e9b13e7ca8ec9b2e29"
+    },
+    {
+      "path": "catalog/images/fish-blue-brick-clownfish.webp",
+      "size": 11080,
+      "sha256": "f20c636e58ee8851ed38689638bab3dc867d11c32239400388b6777bbdfe4a46"
+    },
+    {
+      "path": "catalog/images/fish-blue-european-crayfish.webp",
+      "size": 19666,
+      "sha256": "96d2eb6313b0fcfe9c079e82bf85cea7fdc9feeab1db00af782d7f7064a85c24"
+    },
+    {
+      "path": "catalog/images/fish-blue-sea-angel.webp",
+      "size": 4422,
+      "sha256": "1b5990761165e84609d4c07530da692a0b88f059295b6110b04bdc7c0a3df501"
+    },
+    {
+      "path": "catalog/images/fish-bluefin-tuna.webp",
+      "size": 6902,
+      "sha256": "f4a4c232f16df3b3a99621b91c515dd7c66481ab1e3a164770fa94dfdcc3ea08"
+    },
+    {
+      "path": "catalog/images/fish-bluegill.webp",
+      "size": 11536,
+      "sha256": "2f6802ff2037dfad1e4594a70742ed57f929771c49f9f73a377e2475275a04a9"
+    },
+    {
+      "path": "catalog/images/fish-brown-garfish.webp",
+      "size": 9190,
+      "sha256": "0006988f4fa4f131d504c1f79a0874daf995dc175601551b9362e86ec4c38b67"
+    },
+    {
+      "path": "catalog/images/fish-burbot.webp",
+      "size": 46828,
+      "sha256": "7e556dd9b9bc9767f7da7d5ad43a2db33e8e7be024cdbb5a0d0bd026b06d1d6c"
+    },
+    {
+      "path": "catalog/images/fish-butterfly-koi.webp",
+      "size": 24546,
+      "sha256": "823b128d6c18734f0b063ef425ae6ffa2c32f58d14664a8cf6fa032b6ebfa091"
+    },
+    {
+      "path": "catalog/images/fish-chum-salmon.webp",
+      "size": 13402,
+      "sha256": "b7d64d44f8e5764a6d95a2b7bae0bcf9d2e35caf426661d3cb931779b4d1f097"
+    },
+    {
+      "path": "catalog/images/fish-clownfish.webp",
+      "size": 11080,
+      "sha256": "f20c636e58ee8851ed38689638bab3dc867d11c32239400388b6777bbdfe4a46"
+    },
+    {
+      "path": "catalog/images/fish-colorful-brick-clownfish.webp",
+      "size": 11080,
+      "sha256": "f20c636e58ee8851ed38689638bab3dc867d11c32239400388b6777bbdfe4a46"
+    },
+    {
+      "path": "catalog/images/fish-common-bleak.webp",
+      "size": 13936,
+      "sha256": "67b38984e86acf7b100afe6ac2ce85141f98f0e7baffe373883b5cc0e74c9807"
+    },
+    {
+      "path": "catalog/images/fish-common-carp.webp",
+      "size": 14342,
+      "sha256": "27a39be4e16c0b742ef52fb4e8413a7c9c254584d2b332dbd5b4281e1a2e7e2f"
+    },
+    {
+      "path": "catalog/images/fish-common-chub.webp",
+      "size": 53818,
+      "sha256": "df895cf571523a5305f12511fa9ea642fc254f090fd45e8cec4571faa07b73e7"
+    },
+    {
+      "path": "catalog/images/fish-common-octopus.webp",
+      "size": 61632,
+      "sha256": "68344f12f7bd9b812f4e5cf893a29824505556fdb413d1622ae907baa9bab0b9"
+    },
+    {
+      "path": "catalog/images/fish-common-prawn.webp",
+      "size": 41702,
+      "sha256": "78f490cabb5c27166903de4c40fd79c514126867a51584919ef64b7dd76b0754"
+    },
+    {
+      "path": "catalog/images/fish-common-rudd.webp",
+      "size": 15182,
+      "sha256": "52be213c028cd89b9b58513fe2b952079d46b0e8ab1f62a918bbfd0d3eed4ca0"
+    },
+    {
+      "path": "catalog/images/fish-common-whitefish.webp",
+      "size": 38076,
+      "sha256": "cf501197e995c87c16f237a9e0e27ac57c6d03fc105ff38535e6e281af7cdd2a"
+    },
+    {
+      "path": "catalog/images/fish-crucian-carp.webp",
+      "size": 64482,
+      "sha256": "890bc47d195beba069fb7e242f0a02fbf1289d10637f4b39d8bf6496f2b2b7dd"
+    },
+    {
+      "path": "catalog/images/fish-director-common-octopus-w-cinnamon-hat.webp",
+      "size": 61632,
+      "sha256": "68344f12f7bd9b812f4e5cf893a29824505556fdb413d1622ae907baa9bab0b9"
+    },
+    {
+      "path": "catalog/images/fish-director-common-octopus-w-patterned-hat.webp",
+      "size": 61632,
+      "sha256": "68344f12f7bd9b812f4e5cf893a29824505556fdb413d1622ae907baa9bab0b9"
+    },
+    {
+      "path": "catalog/images/fish-director-pygmy-octopus-w-brown-hat.webp",
+      "size": 9720,
+      "sha256": "b1501f004764209aa35a4ab0439e4b45af69e5acfa41200cd03f0a90e18c84f3"
+    },
+    {
+      "path": "catalog/images/fish-director-pygmy-octopus-w-cyan-hat.webp",
+      "size": 9720,
+      "sha256": "b1501f004764209aa35a4ab0439e4b45af69e5acfa41200cd03f0a90e18c84f3"
+    },
+    {
+      "path": "catalog/images/fish-director-pygmy-octopus-w-navy-hat.webp",
+      "size": 9720,
+      "sha256": "b1501f004764209aa35a4ab0439e4b45af69e5acfa41200cd03f0a90e18c84f3"
+    },
+    {
+      "path": "catalog/images/fish-edible-frog.webp",
+      "size": 21762,
+      "sha256": "f211cae586935cb58fe6586c373b0f801fc122630b5df21c79bbee6dad080372"
+    },
+    {
+      "path": "catalog/images/fish-european-crayfish.webp",
+      "size": 19666,
+      "sha256": "96d2eb6313b0fcfe9c079e82bf85cea7fdc9feeab1db00af782d7f7064a85c24"
+    },
+    {
+      "path": "catalog/images/fish-european-eel.webp",
+      "size": 2956,
+      "sha256": "3e158e6ab3ba5c8b4e4fda828cd682bd94cbc7a7d411e3ed0ca70047a00a1661"
+    },
+    {
+      "path": "catalog/images/fish-european-flying-squid.webp",
+      "size": 13206,
+      "sha256": "e5a78a1353a9581e078a15a98abda914a4fe1ccbbeac2f4485dab56c578ba274"
+    },
+    {
+      "path": "catalog/images/fish-european-lobster.webp",
+      "size": 67296,
+      "sha256": "20c2c6d08c38e6b9a7242385c95a75c9bb4c7557b2ca06649ce5ff44e8c83948"
+    },
+    {
+      "path": "catalog/images/fish-european-mudminnow.webp",
+      "size": 21026,
+      "sha256": "cbba078b7d1ffa492fc09ff011d1e550b758b9cec507b0c69b3c02337ea05f10"
+    },
+    {
+      "path": "catalog/images/fish-european-perch.webp",
+      "size": 31192,
+      "sha256": "5c1450715f4d52a180cafe7b56cd68955399159802edf118b7222247dfc6cb7a"
+    },
+    {
+      "path": "catalog/images/fish-european-plaice.webp",
+      "size": 24068,
+      "sha256": "54db8c604a9387a81d1b3ccab4b467b3ea27f2d2999d2caccdad2043ccf5fd2c"
+    },
+    {
+      "path": "catalog/images/fish-european-smelt.webp",
+      "size": 16396,
+      "sha256": "201c1d2da2f5a43e3f235dee4df0d155e635c236e3e82a7b22611c4e9c5e4633"
+    },
+    {
+      "path": "catalog/images/fish-false-scad.webp",
+      "size": 21102,
+      "sha256": "c50dca986be01a987dc595097b70757107ba8e2f573157b2591c889ddb7a7c8c"
+    },
+    {
+      "path": "catalog/images/fish-firefly-squid.webp",
+      "size": 7362,
+      "sha256": "124c37bebb73b982b3dcc653fed53bdafe2045e0a00e8c528fa4bdab6bea4552"
+    },
+    {
+      "path": "catalog/images/fish-flatback-turtle.webp",
+      "size": 14570,
+      "sha256": "a90b69acbd391f237637693a7db825d5a44ec5bedba4f9f1bcb343a74321aaa4"
+    },
+    {
+      "path": "catalog/images/fish-freshwater-blenny.webp",
+      "size": 47292,
+      "sha256": "84846a31c323b8833195df8e54d88d5b153f2a3c612e287e20689d6f39a41b08"
+    },
+    {
+      "path": "catalog/images/fish-frostspore-king-crab.webp",
+      "size": 37060,
+      "sha256": "870721e8d7a6f162b5ee35a4efb0815a4ee33a4f31ea19e5c069c5bcdd9b668a"
+    },
+    {
+      "path": "catalog/images/fish-frostspore-ocean-sunfish.webp",
+      "size": 10030,
+      "sha256": "a997618b01423481f2d45c39751985cd7affe56c6a763c575108c278c2331556"
+    },
+    {
+      "path": "catalog/images/fish-frostspore-puffer-fish.webp",
+      "size": 10232,
+      "sha256": "c77e96f7e042f7628d1e2cd5f6a856cb4cb3ce3a7e4658758b7529fcae060cb9"
+    },
+    {
+      "path": "catalog/images/fish-frostspore-seahorse.webp",
+      "size": 28042,
+      "sha256": "390b5419c3650dce155e23d8dbb1c2447228a9679ccf04f9caf3c4d65bff8543"
+    },
+    {
+      "path": "catalog/images/fish-frostspore-whale-shark.webp",
+      "size": 19214,
+      "sha256": "b5c8112c1a1045aaf56ba5708b6353a5dd3fcfa0308b83232c2ea95a8c038098"
+    },
+    {
+      "path": "catalog/images/fish-giant-oarfish.webp",
+      "size": 26664,
+      "sha256": "130446914c9b4057c3e4ad6c4d011cf5a4e1f7cf9b7772a1a245849cf1a57cf9"
+    },
+    {
+      "path": "catalog/images/fish-goby.webp",
+      "size": 63348,
+      "sha256": "2bcb55e6dfa9ec59487def996f62db77a2869dc0962dea6e21aed8dcbcc1a681"
+    },
+    {
+      "path": "catalog/images/fish-golden-cuttlefish.webp",
+      "size": 36190,
+      "sha256": "779d76fcee4500bd8beeccbf38296c38fe085fc44f802904d03b9e94c47fad73"
+    },
+    {
+      "path": "catalog/images/fish-golden-garfish.webp",
+      "size": 9190,
+      "sha256": "0006988f4fa4f131d504c1f79a0874daf995dc175601551b9362e86ec4c38b67"
+    },
+    {
+      "path": "catalog/images/fish-golden-king-crab.webp",
+      "size": 33134,
+      "sha256": "8de5bdd36e2593cee3c23eb657ff79e68b939f2cd2725c17afb2e8d83ac96f55"
+    },
+    {
+      "path": "catalog/images/fish-goldfish.webp",
+      "size": 25054,
+      "sha256": "93dd5e431f887a048cd45e08d219c9f38e43782282ebb24f87acf006a2ca18d3"
+    },
+    {
+      "path": "catalog/images/fish-grayling.webp",
+      "size": 28612,
+      "sha256": "9b96a95916056aee82b342f62504cbd05a6bcf9a79986a0cec83a9661a1f9896"
+    },
+    {
+      "path": "catalog/images/fish-green-brick-clownfish.webp",
+      "size": 11080,
+      "sha256": "f20c636e58ee8851ed38689638bab3dc867d11c32239400388b6777bbdfe4a46"
+    },
+    {
+      "path": "catalog/images/fish-green-sea-angel.webp",
+      "size": 4422,
+      "sha256": "1b5990761165e84609d4c07530da692a0b88f059295b6110b04bdc7c0a3df501"
+    },
+    {
+      "path": "catalog/images/fish-green-sea-turtle.webp",
+      "size": 52416,
+      "sha256": "1e3ec6fc0c7230934a232b262273f04d7790eb588428d83f4459b1461a15bab8"
+    },
+    {
+      "path": "catalog/images/fish-haddock.webp",
+      "size": 55364,
+      "sha256": "dff2fa8b524136a8da70d01d70f998e4147dfb5a6cc06a8e45481c8ecbe101ef"
+    },
+    {
+      "path": "catalog/images/fish-hermit-crab.webp",
+      "size": 20984,
+      "sha256": "2055f9f765cc2e84b3260f73c0881fd612b01c4b2d5270e1f20ba122e52c331a"
+    },
+    {
+      "path": "catalog/images/fish-huchen.webp",
+      "size": 23538,
+      "sha256": "1833d3f6f1ba6a7ab15908d998c9904849e0a3a544c726720116a2db6997ae00"
+    },
+    {
+      "path": "catalog/images/fish-japanese-flying-squid.webp",
+      "size": 28244,
+      "sha256": "b807fd44ff40be361b69a8f750484a611e999b214223981f7046171671972cca"
+    },
+    {
+      "path": "catalog/images/fish-king-crab.webp",
+      "size": 37060,
+      "sha256": "870721e8d7a6f162b5ee35a4efb0815a4ee33a4f31ea19e5c069c5bcdd9b668a"
+    },
+    {
+      "path": "catalog/images/fish-large-pearl-mussel.webp",
+      "size": 34698,
+      "sha256": "fbbd1d5eb8bf98b758d00f20f660b9bfd0090e5786cdf9e6257796ee79831714"
+    },
+    {
+      "path": "catalog/images/fish-largemouth-bass.webp",
+      "size": 12342,
+      "sha256": "637376f450c088a85b51218be5d60e564a34816b3e157049e84f6d86e38ca097"
+    },
+    {
+      "path": "catalog/images/fish-lionfish.webp",
+      "size": 19550,
+      "sha256": "476a359376e1441a8c38b70f883cd8a6eab1392155a15f6a976a718f55eb2d59"
+    },
+    {
+      "path": "catalog/images/fish-lionhead.webp",
+      "size": 14422,
+      "sha256": "658e79c8a8980c9f132b8b47784d54cbfe79f86b2eaeef56616aa763027b0496"
+    },
+    {
+      "path": "catalog/images/fish-mahi-mahi.webp",
+      "size": 14194,
+      "sha256": "88ced5b3744d412681dc1c0618ee8dd161fd13734cef17519d2baa5b0aa95bfd"
+    },
+    {
+      "path": "catalog/images/fish-mandarin-fish.webp",
+      "size": 47060,
+      "sha256": "8069a41327930a8d7b91d3129d382421842494a888c7fa46dfd4e804652f7f9d"
+    },
+    {
+      "path": "catalog/images/fish-mediterranean-killifish.webp",
+      "size": 15550,
+      "sha256": "312b3dfcf806d5a850fe66fe2f09c18bc36ba580e5c274943e4b17ee3f355c1e"
+    },
+    {
+      "path": "catalog/images/fish-minnow.webp",
+      "size": 27158,
+      "sha256": "bc0f6a940b12bb18039f07b4cf3f9984afac45668592592fbae5d8e10d629250"
+    },
+    {
+      "path": "catalog/images/fish-moon-jelly.webp",
+      "size": 9976,
+      "sha256": "db037acb0220a382b8e57aa33eea7a75d9fee2c506fd6822506f098618a1ccf6"
+    },
+    {
+      "path": "catalog/images/fish-moonfish.webp",
+      "size": 25634,
+      "sha256": "8ba66909153e3b71aa90bc235583d4b52c3b7a65c1bfbf2d38aa488a95e29fc8"
+    },
+    {
+      "path": "catalog/images/fish-mottled-sculpin.webp",
+      "size": 14042,
+      "sha256": "b6a79da2373bf9af430ea45696915f1b3f5f962554a4a9c1995c2f9bdbe22bfe"
+    },
+    {
+      "path": "catalog/images/fish-mud-sunfish.webp",
+      "size": 12886,
+      "sha256": "c17c4b4750f948209340184bb812b445012920b54773792af5553bbc306d1e6c"
+    },
+    {
+      "path": "catalog/images/fish-mussel.webp",
+      "size": 34454,
+      "sha256": "32b181124e0cc0593410c8a054fb9e1d64677ca6162538fb5040a6f93883627e"
+    },
+    {
+      "path": "catalog/images/fish-northern-pike.webp",
+      "size": 22690,
+      "sha256": "50ad028f5c382f46f87285f3fe6b65bbad462508a6ddb8ea01eb294b4c62197d"
+    },
+    {
+      "path": "catalog/images/fish-nursehound.webp",
+      "size": 25786,
+      "sha256": "c79860cce2ac33276de957c8645d4d3254fdc3b32f41b67e327515d87988bb70"
+    },
+    {
+      "path": "catalog/images/fish-ocean-sunfish.webp",
+      "size": 10030,
+      "sha256": "a997618b01423481f2d45c39751985cd7affe56c6a763c575108c278c2331556"
+    },
+    {
+      "path": "catalog/images/fish-oliver-ridley-turtle.webp",
+      "size": 58344,
+      "sha256": "f0f043bcc81d306745b248b106e793b57d26043268681325d901531554170e86"
+    },
+    {
+      "path": "catalog/images/fish-oriental-shrimp.webp",
+      "size": 6904,
+      "sha256": "4decd0ca7f69acbe53282ac258fb51787713c0f03d64565cef9c370699c9cd30"
+    },
+    {
+      "path": "catalog/images/fish-pale-gold-garfish.webp",
+      "size": 9190,
+      "sha256": "0006988f4fa4f131d504c1f79a0874daf995dc175601551b9362e86ec4c38b67"
+    },
+    {
+      "path": "catalog/images/fish-pharaoh-cuttlefish.webp",
+      "size": 34692,
+      "sha256": "776213384fc28aa9c618bd3e91bc04852ac19614f7c75c92c0d98f828e6461e6"
+    },
+    {
+      "path": "catalog/images/fish-pink-betta.webp",
+      "size": 55392,
+      "sha256": "f61ccbeee5bf6e42be93aef9ecc9e5ba30c3984c9e60c57e88e33f499a6d9b45"
+    },
+    {
+      "path": "catalog/images/fish-puffer-fish.webp",
+      "size": 10232,
+      "sha256": "c77e96f7e042f7628d1e2cd5f6a856cb4cb3ce3a7e4658758b7529fcae060cb9"
+    },
+    {
+      "path": "catalog/images/fish-pumpkinseed.webp",
+      "size": 7944,
+      "sha256": "f0b6916c3f3fce1b9626e9da8d3629b0aa1601d8ff83540fd45232c28c21c25f"
+    },
+    {
+      "path": "catalog/images/fish-purple-brick-clownfish.webp",
+      "size": 11080,
+      "sha256": "f20c636e58ee8851ed38689638bab3dc867d11c32239400388b6777bbdfe4a46"
+    },
+    {
+      "path": "catalog/images/fish-purple-sea-angel.webp",
+      "size": 4422,
+      "sha256": "1b5990761165e84609d4c07530da692a0b88f059295b6110b04bdc7c0a3df501"
+    },
+    {
+      "path": "catalog/images/fish-rabbit-fish.webp",
+      "size": 43434,
+      "sha256": "a11fd2f6e9c495fb7feb74f3a4f7637f8224a446b26dbc71b8a2f1ee7d7635dd"
+    },
+    {
+      "path": "catalog/images/fish-red-bellied-piranha.webp",
+      "size": 26308,
+      "sha256": "6b045ab7b301b35572f3f66860208b0eac34dd094477bffdb3d0522fa518922d"
+    },
+    {
+      "path": "catalog/images/fish-red-brick-clownfish.webp",
+      "size": 11080,
+      "sha256": "f20c636e58ee8851ed38689638bab3dc867d11c32239400388b6777bbdfe4a46"
+    },
+    {
+      "path": "catalog/images/fish-river-crab.webp",
+      "size": 19820,
+      "sha256": "7343fffaa8ad18751010d4b82d5e3dbf3fde63121dfdc180cb31c4e834f81b84"
+    },
+    {
+      "path": "catalog/images/fish-ruffe.webp",
+      "size": 49650,
+      "sha256": "6229a3b3aeed70ed26d3dbd1c50bd69a7e4b93783e9a943e0ddd874dbb42ae2d"
+    },
+    {
+      "path": "catalog/images/fish-sardine.webp",
+      "size": 32510,
+      "sha256": "0f82bd195ea8d444c2bd9a19e07cc873ee38d4e1314bc3168b5e415a25f95d60"
+    },
+    {
+      "path": "catalog/images/fish-scad.webp",
+      "size": 14364,
+      "sha256": "06aec1e15d9372b2c7b5406d87aae3a9f3505788106be53c6e3cfbf69b6bfee4"
+    },
+    {
+      "path": "catalog/images/fish-scallop.webp",
+      "size": 68844,
+      "sha256": "36dc531e33eb53749a44c705c3868d827fc8729452bfd84b3bb556a4114459b6"
+    },
+    {
+      "path": "catalog/images/fish-schneider.webp",
+      "size": 20040,
+      "sha256": "68fe1baf7978fc14729dfb502096957082ff3031ce378807c3b20dbfbd740ce1"
+    },
+    {
+      "path": "catalog/images/fish-sea-bass.webp",
+      "size": 13928,
+      "sha256": "0a90cd13b53e33ce079d48c35b214988a6b17c4869496ab1daae2e0e939604ba"
+    },
+    {
+      "path": "catalog/images/fish-sea-slug.webp",
+      "size": 23066,
+      "sha256": "db95ae2cd9ee8a7e36469ea9907d7f4b8ca103f6cdd10abed94cd5d8a530b661"
+    },
+    {
+      "path": "catalog/images/fish-sea-stickleback.webp",
+      "size": 25100,
+      "sha256": "6fd51874e45ebb98fc79d37c1ba4f1b57380effa9646e65565f93364f7c4e4f9"
+    },
+    {
+      "path": "catalog/images/fish-seahorse.webp",
+      "size": 28042,
+      "sha256": "390b5419c3650dce155e23d8dbb1c2447228a9679ccf04f9caf3c4d65bff8543"
+    },
+    {
+      "path": "catalog/images/fish-shortfin-mako-shark.webp",
+      "size": 17212,
+      "sha256": "925e78f277c45ca459274d4ebe207558c3a44dea113a472c7138ae905fbba4b7"
+    },
+    {
+      "path": "catalog/images/fish-silver-garfish.webp",
+      "size": 9190,
+      "sha256": "0006988f4fa4f131d504c1f79a0874daf995dc175601551b9362e86ec4c38b67"
+    },
+    {
+      "path": "catalog/images/fish-skipjack-tuna.webp",
+      "size": 13890,
+      "sha256": "814c08af7212d818637d02ba243f3c21909516294716942e2c9fe200fc3b1894"
+    },
+    {
+      "path": "catalog/images/fish-smooth-hammerhead.webp",
+      "size": 7172,
+      "sha256": "9c9a09e7a66b8833f72a0138890a6ae0077076d49334d8c0ceded0fa36265470"
+    },
+    {
+      "path": "catalog/images/fish-spined-loach.webp",
+      "size": 11216,
+      "sha256": "965e14809d49fc7601d1d27bcdc3b089b1ddf6c9f0abc6afd8f93016067af6f9"
+    },
+    {
+      "path": "catalog/images/fish-spineless-cuttlefish.webp",
+      "size": 26842,
+      "sha256": "5c0798c7bb6b6dbd75fac7c84d6b033758457b66f62e44524f50297843511572"
+    },
+    {
+      "path": "catalog/images/fish-stone-loach.webp",
+      "size": 27324,
+      "sha256": "88aece0f43837b133a487926d5d740b5534b0c692c2cab7b85d09ade18fd3864"
+    },
+    {
+      "path": "catalog/images/fish-streber.webp",
+      "size": 58940,
+      "sha256": "8b916c30e81660794c7fe4a8e0ef2fcc0a2654ec8d1a7bfb009d0ea4edf4a1b5"
+    },
+    {
+      "path": "catalog/images/fish-striped-red-mullet.webp",
+      "size": 50056,
+      "sha256": "4bd092cc9105add2ae2f3c504be66c676470fdeb9466b76d039abe5761ec4582"
+    },
+    {
+      "path": "catalog/images/fish-swordfish.webp",
+      "size": 2740,
+      "sha256": "53a4345de86c26afb30760b6c032f7aca8a2b5834e0aaf308d589bb0c1b56f81"
+    },
+    {
+      "path": "catalog/images/fish-tadpole.webp",
+      "size": 25492,
+      "sha256": "c623b8bd69c927f0a018309827cd001133b0d4e7a15a911668225390a732ea3a"
+    },
+    {
+      "path": "catalog/images/fish-tench.webp",
+      "size": 50946,
+      "sha256": "690852a5491ecf26c1bc3a467c9ceffca8a31d5de18731548ae293a1f34f5162"
+    },
+    {
+      "path": "catalog/images/fish-three-spined-stickleback.webp",
+      "size": 21806,
+      "sha256": "620997a92caa7caf9f8827c6a0a8ea0263ca9de770d3bd8b3dbce176c2ac4a99"
+    },
+    {
+      "path": "catalog/images/fish-tilapia.webp",
+      "size": 48108,
+      "sha256": "80d511c304e743f8bc1b3d1508728649d9a30dc85bd3897513b0a44e0683a4c3"
+    },
+    {
+      "path": "catalog/images/fish-trout.webp",
+      "size": 10934,
+      "sha256": "1eea1280b3c04c882f6bd3d087b68f0a405ca62ad858c3bfc1fed6311035bb5d"
+    },
+    {
+      "path": "catalog/images/fish-tub-gurnard.webp",
+      "size": 21358,
+      "sha256": "fef4600fc6ebaea62f5d799323ac8a533b31df608cd8ceb0b351799c044f649b"
+    },
+    {
+      "path": "catalog/images/fish-turbot.webp",
+      "size": 46216,
+      "sha256": "cf0440803e6a1bf9af22e1391fb202fce1a22a1ca71988427eb3f659fbaad999"
+    },
+    {
+      "path": "catalog/images/fish-wels-catfish.webp",
+      "size": 11074,
+      "sha256": "76c4fb915bc6548fc6eba81e81cf9fb2affa02fa01c0ee5bbfc9b781e5562396"
+    },
+    {
+      "path": "catalog/images/fish-whale-shark.webp",
+      "size": 19214,
+      "sha256": "b5c8112c1a1045aaf56ba5708b6353a5dd3fcfa0308b83232c2ea95a8c038098"
+    },
+    {
+      "path": "catalog/images/fish-white-faced-surgeonfish.webp",
+      "size": 21000,
+      "sha256": "1c881cbe2e186153ba6e05366c4f3980f20c21e0ba79de3be585c7aca367dc83"
+    },
+    {
+      "path": "catalog/images/fish-zander.webp",
+      "size": 18578,
+      "sha256": "45620cb750e02304d06c94916ede95cfcb54cd1a78dcf9e7ebaa830160e36da3"
+    },
+    {
+      "path": "catalog/images/insect-agrias-butterfly.webp",
+      "size": 22792,
+      "sha256": "1fa8e22d8ce5ec7adaa49ded9410821dd4d4e2d0a72c4fe6e1e5814986763c26"
+    },
+    {
+      "path": "catalog/images/insect-alpine-longhorn-beetle.webp",
+      "size": 35340,
+      "sha256": "64115d308c290b02c82a97dcd789c35455567f166c740a9f992f3468cc69bde7"
+    },
+    {
+      "path": "catalog/images/insect-amethyst-flower-beetle.webp",
+      "size": 13848,
+      "sha256": "074d5480ca498e99b2f4681c91b2db7b4d1f211d3c035278d0eb08514950f7a3"
+    },
+    {
+      "path": "catalog/images/insect-ant.webp",
+      "size": 25568,
+      "sha256": "041faaa24a2272d57b57ab0dcde212cae95ae82403a5ef151715419ecae0cd36"
+    },
+    {
+      "path": "catalog/images/insect-apollo.webp",
+      "size": 32998,
+      "sha256": "63d4cd2175698798bbc42722c631827c72285454575a17a3e9761c0858159585"
+    },
+    {
+      "path": "catalog/images/insect-asian-lady-beetle.webp",
+      "size": 13624,
+      "sha256": "f605f559394a9a9b5e00200ac4f6670a1bf5c61085a460e715eb1e851662e10d"
+    },
+    {
+      "path": "catalog/images/insect-asparagus-beetle.webp",
+      "size": 16944,
+      "sha256": "a22dca2057ef4e8e6b124f2558d1852c4d61395c86953336d6371c0127fd6ad4"
+    },
+    {
+      "path": "catalog/images/insect-atlas-beetle.webp",
+      "size": 15654,
+      "sha256": "840b8582d36182feaa64c44f2ad8e470bc67d05d4007a681fa94906df2c96012"
+    },
+    {
+      "path": "catalog/images/insect-bagworm-moth.webp",
+      "size": 28920,
+      "sha256": "dc2187a6768bd5e720cc3e02ab264ab9b160afe3ccef6613bf73aa9cee1ac7cd"
+    },
+    {
+      "path": "catalog/images/insect-beautiful-demoiselle.webp",
+      "size": 24856,
+      "sha256": "1f04cd706dc2a2a10a351568fd9375c6634aad75547bf611e217a8b9d4f32a05"
+    },
+    {
+      "path": "catalog/images/insect-beautiful-leopard.webp",
+      "size": 40078,
+      "sha256": "6da66301256d685ba379d9bd03521d4557f01406c2fbca5e76cb25cce33e5043"
+    },
+    {
+      "path": "catalog/images/insect-blue-brick-large-red-damselfly.webp",
+      "size": 23134,
+      "sha256": "b2e5e4104f91629928ed0e5e34d224141b58783c5d2d6f7b3f63f28ebbb704ac"
+    },
+    {
+      "path": "catalog/images/insect-blue-milkweed-beetle.webp",
+      "size": 15274,
+      "sha256": "1ce0ef12a9f2a28c12b994262ce2dce6e4164b4269a5c5d88368b7b5281bc7a7"
+    },
+    {
+      "path": "catalog/images/insect-blue-morpho.webp",
+      "size": 26556,
+      "sha256": "8f78963f06db6c9408eff6ac5eb7fbc0f4cdbc0d23ae6ad1931f6333a80dfd2e"
+    },
+    {
+      "path": "catalog/images/insect-blue-shieldbug.webp",
+      "size": 10722,
+      "sha256": "835d17995ee22af935d9a5f06640c080187c3b94dbb0d05c6c870ccc09d722e4"
+    },
+    {
+      "path": "catalog/images/insect-brown-rhinoceros-beetle.webp",
+      "size": 25660,
+      "sha256": "9d7f420a6a4a38ed25b5c40455edc3fb99eb11e65676fa1596e04f7c918ff449"
+    },
+    {
+      "path": "catalog/images/insect-bumblebee.webp",
+      "size": 16778,
+      "sha256": "1e8db72858b201d9fa4b40d1dbccb1ac76ff2106d762551abee2a4467763ca13"
+    },
+    {
+      "path": "catalog/images/insect-cabbage-white.webp",
+      "size": 15422,
+      "sha256": "9876224a59af6f2136ac8db8166bbaa613581723d94512bfc8478f6006888b35"
+    },
+    {
+      "path": "catalog/images/insect-cerulean-carpenter.webp",
+      "size": 38628,
+      "sha256": "92b6f42a3e89f1f8470b778afe5e3b206da120a7327ee94db9a95a1ecff6c2ed"
+    },
+    {
+      "path": "catalog/images/insect-chestnut-tiger.webp",
+      "size": 28296,
+      "sha256": "c3aff5b9b8cd5b4d0bea8dd25f004ce57510b951b1110df1b2a18132660d6021"
+    },
+    {
+      "path": "catalog/images/insect-cicada.webp",
+      "size": 12344,
+      "sha256": "34bd71b5fff91862bff3c79373ef09bca50475d5bdc0278b961712438f406120"
+    },
+    {
+      "path": "catalog/images/insect-colorful-brick-large-red-damselfly.webp",
+      "size": 23134,
+      "sha256": "b2e5e4104f91629928ed0e5e34d224141b58783c5d2d6f7b3f63f28ebbb704ac"
+    },
+    {
+      "path": "catalog/images/insect-comet-moth.webp",
+      "size": 41458,
+      "sha256": "1dee61107fb5f72c5c8d99ce15b11b2c420635b8c5f60df6fac832f0e930314c"
+    },
+    {
+      "path": "catalog/images/insect-common-blue-butterfly.webp",
+      "size": 24804,
+      "sha256": "61ab15db9cae0afeeb0de799672f295136f733704023f4775478677f17bb4d6b"
+    },
+    {
+      "path": "catalog/images/insect-common-brimstone.webp",
+      "size": 32424,
+      "sha256": "4f553ea679946942c9ddd75d5ea2400dbf2d65248b2faf4cbc870566dee8edf3"
+    },
+    {
+      "path": "catalog/images/insect-common-whitetail.webp",
+      "size": 18990,
+      "sha256": "529136a289be55cb00a9a53151267cd3cfdcb9d44156022b058a4beae163d0d5"
+    },
+    {
+      "path": "catalog/images/insect-conehead-mantis.webp",
+      "size": 25140,
+      "sha256": "ce62f638b9ee350f7a65d6f6446bad547310c5585123e7ca74d6417b362e6573"
+    },
+    {
+      "path": "catalog/images/insect-crimson-marsh-glider.webp",
+      "size": 23982,
+      "sha256": "610486bbc17a79f07640f73a4c3d815e4a4cc03fcb64b3177fa1726f21c9b810"
+    },
+    {
+      "path": "catalog/images/insect-elegant-flower-beetle.webp",
+      "size": 20596,
+      "sha256": "d3bd48821cc1cf370d9fe5a405add1e3841a20bd554851bc8046fad356a37968"
+    },
+    {
+      "path": "catalog/images/insect-european-firebug.webp",
+      "size": 26320,
+      "sha256": "9bb6facf205c9ea515f95340665393418341b649ac1e0e6db82fe6b5e5e0a3a1"
+    },
+    {
+      "path": "catalog/images/insect-fire-colored-beetle.webp",
+      "size": 12302,
+      "sha256": "95804defafe314535013375366838c1f5257a6e04d1d0c1b82f918c010e9e9f2"
+    },
+    {
+      "path": "catalog/images/insect-flamer-skimmer.webp",
+      "size": 17388,
+      "sha256": "c6ee48dca1cd589d71f3cffa61a968d09fe7c4e73dcee991f03503f15e143410"
+    },
+    {
+      "path": "catalog/images/insect-four-spotted-ladybug.webp",
+      "size": 27160,
+      "sha256": "cfc3f187171893133734c708e59815a7beb422ce83d01836a9454825e7f7c9f6"
+    },
+    {
+      "path": "catalog/images/insect-four-spotted-skimmer.webp",
+      "size": 9308,
+      "sha256": "904da4a38f614dde911ce52e421043acd56c4e3c33d4439a9c942e1e8ae4503d"
+    },
+    {
+      "path": "catalog/images/insect-frostspore-mother-of-pearl.webp",
+      "size": 20176,
+      "sha256": "5f0c47097ec9eaad87c4821ab94a56ba68b0501d26c85ef19e44e5e98da01c06"
+    },
+    {
+      "path": "catalog/images/insect-frostspore-postman-butterfly.webp",
+      "size": 21812,
+      "sha256": "b8e8572efeb517f7820d859faa4d76d9b5914afd487b6daed98d82ba7adb9148"
+    },
+    {
+      "path": "catalog/images/insect-frostspore-purple-spotted-swallowtail.webp",
+      "size": 59972,
+      "sha256": "dd81efbde4396507f3bd41846e8f0b727108d8832a08f69ae483987723d240e3"
+    },
+    {
+      "path": "catalog/images/insect-frostspore-queen-alexandras-birdwing.webp",
+      "size": 15514,
+      "sha256": "66ae49304ef24d0b9709ed42593aebe64b0efcf178d51631875b445712d2e94f"
+    },
+    {
+      "path": "catalog/images/insect-frostspore-sulkowskys-morpho.webp",
+      "size": 20896,
+      "sha256": "b2f2f192b8e94eca7b7efc9df477de6be804db5d6b2e0c966867068b7b4988dc"
+    },
+    {
+      "path": "catalog/images/insect-giant-asian-mantis.webp",
+      "size": 77756,
+      "sha256": "f50c775da6c184e63e1e3a0f3d26de8b4d257755e26fa18bef0a58379ac02e0c"
+    },
+    {
+      "path": "catalog/images/insect-glasswing-butterfly.webp",
+      "size": 14578,
+      "sha256": "5872deba8ad26d26214a4239fcb6e21f79ed17d8796d9303aea30b00232ebc1b"
+    },
+    {
+      "path": "catalog/images/insect-gold-grasshopper.webp",
+      "size": 13000,
+      "sha256": "4d76b7a283014ad25f6cb0da4b50ecd1032b60443e060a1aee4b67bc3c8a21fd"
+    },
+    {
+      "path": "catalog/images/insect-golden-jewel-scarab.webp",
+      "size": 24850,
+      "sha256": "b4d348590cf0cfd64ca6316929ea679b4cb4cf356a7679944f27e501f0706375"
+    },
+    {
+      "path": "catalog/images/insect-golden-script-supervisor-bumblebee.webp",
+      "size": 16778,
+      "sha256": "1e8db72858b201d9fa4b40d1dbccb1ac76ff2106d762551abee2a4467763ca13"
+    },
+    {
+      "path": "catalog/images/insect-golden-stag-beetle.webp",
+      "size": 10528,
+      "sha256": "25695c158d1243b0ab2d3e409cf22d2457c42e3d82d330d3497f7124c4ca5eed"
+    },
+    {
+      "path": "catalog/images/insect-goliath-beetle.webp",
+      "size": 21346,
+      "sha256": "4ed1c1fadb21c24a9ade66903d9d6320efb1aebe54fb49f4c28d5b33a1de89d8"
+    },
+    {
+      "path": "catalog/images/insect-greater-asian-lady-beetle.webp",
+      "size": 15120,
+      "sha256": "b5f57b75a58f6305686dbeaa14740bbfe43178a0f445ef936f741bd27a1743b6"
+    },
+    {
+      "path": "catalog/images/insect-green-birdwing.webp",
+      "size": 27160,
+      "sha256": "fc39d8b84786bd38eaf01f25e9b5b4da87ada339474194898b4929ea7fed34a2"
+    },
+    {
+      "path": "catalog/images/insect-green-metalwing.webp",
+      "size": 15826,
+      "sha256": "d470e3a06ab38b4d4146216597a76e804479f56de8c38f355dba2284bfaa0100"
+    },
+    {
+      "path": "catalog/images/insect-green-script-supervisor-bumblebee.webp",
+      "size": 16778,
+      "sha256": "1e8db72858b201d9fa4b40d1dbccb1ac76ff2106d762551abee2a4467763ca13"
+    },
+    {
+      "path": "catalog/images/insect-green-snail.webp",
+      "size": 9858,
+      "sha256": "a078a0c9e84f25c4de848d838acc30e82f315532b280d2352d8b3594f6492b8c"
+    },
+    {
+      "path": "catalog/images/insect-green-tiger-beetle.webp",
+      "size": 34756,
+      "sha256": "6d6c63d97929de7caf873aff2327c381d620cf42f4707158c7bc8447794e2f09"
+    },
+    {
+      "path": "catalog/images/insect-grey-horned-firefly.webp",
+      "size": 16048,
+      "sha256": "2c1490f584481b6f016336fa89a419ad1d8f22180a10140e44268308c69727c0"
+    },
+    {
+      "path": "catalog/images/insect-hercules-beetle.webp",
+      "size": 37636,
+      "sha256": "4e30cbce0fb29f7c2d3ea877fd8301a8340164cf35153c36ce3d3e7ea1426a4e"
+    },
+    {
+      "path": "catalog/images/insect-horned-beetle.webp",
+      "size": 31482,
+      "sha256": "c2c19f87d12b3e6e6ca587088da170b8dfecac20d8a5ecd5abacb2180e744324"
+    },
+    {
+      "path": "catalog/images/insect-katydid.webp",
+      "size": 34304,
+      "sha256": "0c037b0753f1f9847e48f5a8a266586b4cce8bec8ff66d6b489aa086883d157d"
+    },
+    {
+      "path": "catalog/images/insect-large-banded-grasshopper.webp",
+      "size": 51990,
+      "sha256": "5c6adbde052434f47345935c6732d7151766f6e2963a6db688eaa09448ef1b87"
+    },
+    {
+      "path": "catalog/images/insect-large-red-damselfly.webp",
+      "size": 23134,
+      "sha256": "b2e5e4104f91629928ed0e5e34d224141b58783c5d2d6f7b3f63f28ebbb704ac"
+    },
+    {
+      "path": "catalog/images/insect-mandarin-dung-beetle.webp",
+      "size": 23730,
+      "sha256": "f5634a779104f8f9e2e06c5f2a6f583c3050d3d5d6069d2a4dff1e1a53392c09"
+    },
+    {
+      "path": "catalog/images/insect-mediterranean-mantis.webp",
+      "size": 8392,
+      "sha256": "114a56887715fc91c7d56d6a53624aa29cf3e815e78d5c53262a490bf485b4d3"
+    },
+    {
+      "path": "catalog/images/insect-mini-moon-moth.webp",
+      "size": 19810,
+      "sha256": "7182a39a8927005931e4ea0cbb642b208048bed1615a5100fc47ebe8f6aebcb6"
+    },
+    {
+      "path": "catalog/images/insect-minotaur-beetle.webp",
+      "size": 35092,
+      "sha256": "122922013167bb35f99eca67f8973e7ed6bf8df0cf0900b3d9407c8b18aeb083"
+    },
+    {
+      "path": "catalog/images/insect-morpho-helena.webp",
+      "size": 15538,
+      "sha256": "d00276f97f469e40c278e546978b33eeb46efb7a0dd34a023299fca6275737b8"
+    },
+    {
+      "path": "catalog/images/insect-morpho-luna.webp",
+      "size": 37526,
+      "sha256": "b9f98eab6b5c39202efa1535afcb5f655d9b31f32b2d906eeaf291552d14d100"
+    },
+    {
+      "path": "catalog/images/insect-mother-of-pearl.webp",
+      "size": 20176,
+      "sha256": "5f0c47097ec9eaad87c4821ab94a56ba68b0501d26c85ef19e44e5e98da01c06"
+    },
+    {
+      "path": "catalog/images/insect-mourning-cloak.webp",
+      "size": 20348,
+      "sha256": "b6b4b8854dbfded872d84509bfd5518680be1d52fd652d4161b7af21629c300d"
+    },
+    {
+      "path": "catalog/images/insect-old-world-swallowtail.webp",
+      "size": 34750,
+      "sha256": "ca471745768eaf57dda988996dc22410c06c69bd5fac1cfed60f5afbe19c7b7e"
+    },
+    {
+      "path": "catalog/images/insect-orange-tip.webp",
+      "size": 16144,
+      "sha256": "15df0d669e4bf2cfd30f057a20a23789af347d94164aa2e94aa5de50705bc5e5"
+    },
+    {
+      "path": "catalog/images/insect-orchid-mantis.webp",
+      "size": 14744,
+      "sha256": "3e47c660a2f3e03544a922b6a3aca2e3f816fa989f7b9caad7317f4da093e77f"
+    },
+    {
+      "path": "catalog/images/insect-peacock-butterfly.webp",
+      "size": 22198,
+      "sha256": "8f0bedad53fcb72298be4d3ef1510e3d4d1da77f45370ad3f81b29890965d7a1"
+    },
+    {
+      "path": "catalog/images/insect-picasso-bug.webp",
+      "size": 14602,
+      "sha256": "6b361de7cefed08580a909c9c6744db6cc4795f77d951d601c1bad0425f9dbff"
+    },
+    {
+      "path": "catalog/images/insect-pink-brick-large-red-damselfly.webp",
+      "size": 23134,
+      "sha256": "b2e5e4104f91629928ed0e5e34d224141b58783c5d2d6f7b3f63f28ebbb704ac"
+    },
+    {
+      "path": "catalog/images/insect-pink-horned-firefly.webp",
+      "size": 16048,
+      "sha256": "2c1490f584481b6f016336fa89a419ad1d8f22180a10140e44268308c69727c0"
+    },
+    {
+      "path": "catalog/images/insect-pink-katydid.webp",
+      "size": 13244,
+      "sha256": "316797a773dea07689d6d2959f8b78d5369b2a2287fc10c5dae7682ef047161d"
+    },
+    {
+      "path": "catalog/images/insect-pink-script-supervisor-bumblebee.webp",
+      "size": 16778,
+      "sha256": "1e8db72858b201d9fa4b40d1dbccb1ac76ff2106d762551abee2a4467763ca13"
+    },
+    {
+      "path": "catalog/images/insect-postman-butterfly.webp",
+      "size": 21812,
+      "sha256": "b8e8572efeb517f7820d859faa4d76d9b5914afd487b6daed98d82ba7adb9148"
+    },
+    {
+      "path": "catalog/images/insect-pumpkin-dung-beetle.webp",
+      "size": 23730,
+      "sha256": "f5634a779104f8f9e2e06c5f2a6f583c3050d3d5d6069d2a4dff1e1a53392c09"
+    },
+    {
+      "path": "catalog/images/insect-purple-brick-large-red-damselfly.webp",
+      "size": 23134,
+      "sha256": "b2e5e4104f91629928ed0e5e34d224141b58783c5d2d6f7b3f63f28ebbb704ac"
+    },
+    {
+      "path": "catalog/images/insect-purple-emperor.webp",
+      "size": 59428,
+      "sha256": "686c7b146fea661258cb73d9cee2145c99094d33a99e4ce6850ade82e7f8f3cd"
+    },
+    {
+      "path": "catalog/images/insect-purple-horned-firefly.webp",
+      "size": 16048,
+      "sha256": "2c1490f584481b6f016336fa89a419ad1d8f22180a10140e44268308c69727c0"
+    },
+    {
+      "path": "catalog/images/insect-purple-script-supervisor-bumblebee.webp",
+      "size": 16778,
+      "sha256": "1e8db72858b201d9fa4b40d1dbccb1ac76ff2106d762551abee2a4467763ca13"
+    },
+    {
+      "path": "catalog/images/insect-purple-spotted-swallowtail.webp",
+      "size": 59972,
+      "sha256": "dd81efbde4396507f3bd41846e8f0b727108d8832a08f69ae483987723d240e3"
+    },
+    {
+      "path": "catalog/images/insect-queen-alexandras-birdwing.webp",
+      "size": 15514,
+      "sha256": "66ae49304ef24d0b9709ed42593aebe64b0efcf178d51631875b445712d2e94f"
+    },
+    {
+      "path": "catalog/images/insect-rainbow-stag-beetle.webp",
+      "size": 18622,
+      "sha256": "d6de1baf42c827c3e32f724850795753b15878b02d5226f457cf9ceb7f1452ff"
+    },
+    {
+      "path": "catalog/images/insect-rajah-brookes-birdwing.webp",
+      "size": 29460,
+      "sha256": "a4862217d8bc5b95fdc9362f2ad1f878064ad24824a59f3187d5e708e04d2a25"
+    },
+    {
+      "path": "catalog/images/insect-red-milkweed-locust.webp",
+      "size": 30088,
+      "sha256": "4a0339ea44943a13cd7a2fd19d90c9a6877aa3a39dbec1198543894f8c3ee8f7"
+    },
+    {
+      "path": "catalog/images/insect-red-script-supervisor-bumblebee.webp",
+      "size": 16778,
+      "sha256": "1e8db72858b201d9fa4b40d1dbccb1ac76ff2106d762551abee2a4467763ca13"
+    },
+    {
+      "path": "catalog/images/insect-scarce-morpho.webp",
+      "size": 16924,
+      "sha256": "bdea94f035768e3fb90a3611d56d26289f9cfd5bc2c1188e359051f5b98f736d"
+    },
+    {
+      "path": "catalog/images/insect-seven-spotted-ladybug.webp",
+      "size": 10060,
+      "sha256": "59b8fc58f93e64ef7908d7c531c8f4ac0d86757cea1ec2779bff0c8962aa2156"
+    },
+    {
+      "path": "catalog/images/insect-shiitake-dung-beetle.webp",
+      "size": 23730,
+      "sha256": "f5634a779104f8f9e2e06c5f2a6f583c3050d3d5d6069d2a4dff1e1a53392c09"
+    },
+    {
+      "path": "catalog/images/insect-siberian-grasshopper.webp",
+      "size": 38586,
+      "sha256": "45c0c92d431689d1595f855f8cc29d7b0a8c3f0e74f69a5fe14da4fb98db0270"
+    },
+    {
+      "path": "catalog/images/insect-silver-jewel-scarab.webp",
+      "size": 11884,
+      "sha256": "8cfba390a0a67007dbddf037dba9ab61505c243fafef994b734a65d7cb4edbe6"
+    },
+    {
+      "path": "catalog/images/insect-spanish-moon-moth.webp",
+      "size": 24702,
+      "sha256": "8a506117784e321828d94706f29d038749a964d8f427a9ff5882c48e3f9dd2a1"
+    },
+    {
+      "path": "catalog/images/insect-splay-footed-carpenter.webp",
+      "size": 46034,
+      "sha256": "08274234c71d4e4f1fdf6068056272c24739646a8544665b054d79276ea71638"
+    },
+    {
+      "path": "catalog/images/insect-stag-beetle.webp",
+      "size": 49496,
+      "sha256": "779cb98016f8776b2841729c424bf78df8356238195aaf1a8bdede713d8d271b"
+    },
+    {
+      "path": "catalog/images/insect-strawberry-dung-beetle.webp",
+      "size": 23730,
+      "sha256": "f5634a779104f8f9e2e06c5f2a6f583c3050d3d5d6069d2a4dff1e1a53392c09"
+    },
+    {
+      "path": "catalog/images/insect-sulkowskys-morpho.webp",
+      "size": 20896,
+      "sha256": "b2f2f192b8e94eca7b7efc9df477de6be804db5d6b2e0c966867068b7b4988dc"
+    },
+    {
+      "path": "catalog/images/insect-sunset-morpho.webp",
+      "size": 24344,
+      "sha256": "bf241e134ba6dd519ab7ab7767c011dfa5fc581071fbee6129e98387b4ac63b9"
+    },
+    {
+      "path": "catalog/images/insect-truffle-dung-beetle.webp",
+      "size": 23730,
+      "sha256": "f5634a779104f8f9e2e06c5f2a6f583c3050d3d5d6069d2a4dff1e1a53392c09"
+    },
+    {
+      "path": "catalog/images/insect-waroona-cuckoo-bee.webp",
+      "size": 21550,
+      "sha256": "111deaf158ce4a47509b7e3421a2722c61867d56575e8db611c979c24e381570"
+    },
+    {
+      "path": "catalog/images/insect-wasp-beetle.webp",
+      "size": 24560,
+      "sha256": "8924590a925b7b3989cdba1bba40c1f590d5aec8bca392ea2f3a16e53de8662b"
+    },
+    {
+      "path": "catalog/images/insect-white-banded-erebus-moth.webp",
+      "size": 28162,
+      "sha256": "bbdfbe34b06f29bcc3bc3975d2d6ac008b24c6b509cdf5182fc33faf3ea191fc"
+    },
+    {
+      "path": "catalog/images/insect-white-witch.webp",
+      "size": 47614,
+      "sha256": "7c0be9422ba5a6f617498e30d28151b6a636e5ed4f971d50260f5980425f6fe4"
+    },
+    {
+      "path": "catalog/images/insect-yellow-brick-large-red-damselfly.webp",
+      "size": 23134,
+      "sha256": "b2e5e4104f91629928ed0e5e34d224141b58783c5d2d6f7b3f63f28ebbb704ac"
+    },
+    {
+      "path": "catalog/images/wildlife-alpaca.webp",
+      "size": 22054,
+      "sha256": "2c6c28f7f9e0e813062cba12fb3ad39da24532830ae58d53bfef6739d5efaa63"
+    },
+    {
+      "path": "catalog/images/wildlife-bunny.webp",
+      "size": 42402,
+      "sha256": "822b13f70d4d4af9886c818adedf082950a0476b343f5bc60678e81e7e6d6824"
+    },
+    {
+      "path": "catalog/images/wildlife-capybara.webp",
+      "size": 34340,
+      "sha256": "9abbfe64e0aacbc8408fff421e5af5bb7251a41e7d120a26e1574b9cfcbb45a7"
+    },
+    {
+      "path": "catalog/images/wildlife-dolphin.webp",
+      "size": 42754,
+      "sha256": "95605aeb964a8eba442e91e7637f8595aa799b7828531d0e8c99d54727b36048"
+    },
+    {
+      "path": "catalog/images/wildlife-ferret.webp",
+      "size": 9426,
+      "sha256": "9bf0ab92860f2442f1d48bd76c126600b9877161c9235cc398a0b23988247974"
+    },
+    {
+      "path": "catalog/images/wildlife-fox.webp",
+      "size": 33746,
+      "sha256": "5b496d7a1b7068a1ed74377f12a6568f50c018ea5ff324f1db2ece1573c48323"
+    },
+    {
+      "path": "catalog/images/wildlife-maltese.webp",
+      "size": 15322,
+      "sha256": "92fd7e5a6474cd7e2dab6d956dc9826b3048f899335bb739be3ee01734f6973f"
+    },
+    {
+      "path": "catalog/images/wildlife-panda.webp",
+      "size": 24312,
+      "sha256": "fee67b12899adec6804a4a27940fe61a740c9f3eeace1635671da78d7892c2b3"
+    },
+    {
+      "path": "catalog/images/wildlife-penguin.webp",
+      "size": 11470,
+      "sha256": "81485d7f5f344e7d52ecc0fe121c2a5fdf970b53ab37b4d2a4b33c48919ce864"
+    },
+    {
+      "path": "catalog/images/wildlife-sea-otter.webp",
+      "size": 23076,
+      "sha256": "e6f5953ca59f3d642a597ada71fceff4be866c0bd55cf117d1ab006904fb407c"
+    },
+    {
+      "path": "catalog/images/wildlife-sika-deer.webp",
+      "size": 40776,
+      "sha256": "4d9c685be001a80b0987c7af9733addbf7104f6f65b50779c315659a255330ca"
+    },
+    {
+      "path": "catalog/creditos.json",
+      "size": 210282,
+      "sha256": "296e9b3d8d33fb1d9b66f09846076b3e901a2c0ad26ae99860d1296fe68594ff"
+    },
+    {
+      "path": "catalog/CREDITOS.md",
+      "size": 81274,
+      "sha256": "a86672a2854dba37622424e44f9b0e3b0f871a1e58f8061fb3cb1ffc527c556c"
     }
   ]
 }
