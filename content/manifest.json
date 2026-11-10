@@ -1,5 +1,5 @@
 {
-  "contentVersion": 4,
+  "contentVersion": 5,
   "minAppVersionCode": 25,
   "publishedOn": "2026-11-10",
   "files": [
@@ -1805,8 +1805,8 @@
     },
     {
       "path": "calendar/eventos.json",
-      "size": 2770,
-      "sha256": "2ca675f12bdc7c748c2f82dbc71398ee15df6f22ee6e0ee9349d8a045e7dd788"
+      "size": 3621,
+      "sha256": "719f9ca86a34cf663e555599eb63fd492c899484e6f6c4b94e6a37ab1bc60f23"
     }
   ]
 }
