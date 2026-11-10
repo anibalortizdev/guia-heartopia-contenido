@@ -1,5 +1,5 @@
 {
-  "contentVersion": 3,
+  "contentVersion": 4,
   "minAppVersionCode": 25,
   "publishedOn": "2026-11-10",
   "files": [
@@ -1802,6 +1802,11 @@
       "path": "catalog/CREDITOS.md",
       "size": 81274,
       "sha256": "a86672a2854dba37622424e44f9b0e3b0f871a1e58f8061fb3cb1ffc527c556c"
+    },
+    {
+      "path": "calendar/eventos.json",
+      "size": 2770,
+      "sha256": "2ca675f12bdc7c748c2f82dbc71398ee15df6f22ee6e0ee9349d8a045e7dd788"
     }
   ]
 }
