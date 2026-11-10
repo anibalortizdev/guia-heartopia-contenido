@@ -6,7 +6,7 @@
       "id": "pesca-altamar",
       "tipo": "aficion",
       "categoria": "pesca",
-      "nombre": "Pesca en altamar",
+      "nombre": "Pesca marina",
       "repeticion": "diaria",
       "horas": [
         "12:00",
@@ -19,7 +19,7 @@
       "id": "insectos-atraer",
       "tipo": "aficion",
       "categoria": "insectos",
-      "nombre": "Atrae a los insectos",
+      "nombre": "Atraer bichos",
       "repeticion": "diaria",
       "horas": [
         "11:00",
@@ -32,7 +32,7 @@
       "id": "aves-nido-de-cientos",
       "tipo": "aficion",
       "categoria": "aves",
-      "nombre": "Nido de cientos",
+      "nombre": "Nido de las aves",
       "repeticion": "diaria",
       "horas": [
         "17:00"
@@ -45,7 +45,7 @@
       "tipo": "aficion",
       "categoria": "insectos",
       "temporadaId": "festival-noche-adivinacion",
-      "nombre": "Escarabajos peloteros mutantes",
+      "nombre": "Mutación de escarabajo pelotero",
       "repeticion": "diaria",
       "horas": [
         "13:00"
@@ -60,7 +60,7 @@
       "tipo": "aficion",
       "categoria": "aves",
       "temporadaId": "festival-noche-adivinacion",
-      "nombre": "Tesoro de los cuervos",
+      "nombre": "Provisiones de cuervo",
       "repeticion": "diaria",
       "horas": [
         "16:00"
@@ -75,7 +75,7 @@
       "tipo": "aficion",
       "categoria": "pesca",
       "temporadaId": "festival-noche-adivinacion",
-      "nombre": "Cardumen espectral (sepias y ángeles de mar)",
+      "nombre": "Oleada de peces luminiscentes",
       "repeticion": "diaria",
       "horas": [
         "18:00"
@@ -89,7 +89,7 @@
       "id": "halloween-noche-grimkin",
       "tipo": "temporada",
       "categoria": "temporada",
-      "nombre": "Halloween: Noche Grimkin",
+      "nombre": "Truco o trato",
       "inicio": "2026-10-30T06:00",
       "fin": "2026-11-16T05:59"
     },
@@ -97,7 +97,7 @@
       "id": "halloween-tienda-dulces",
       "tipo": "temporada",
       "categoria": "temporada",
-      "nombre": "Tienda de canje de dulces de Halloween",
+      "nombre": "Canje de dulces",
       "inicio": "2026-10-30T06:00",
       "fin": "2026-11-23T05:59"
     },
@@ -105,7 +105,39 @@
       "id": "festival-noche-adivinacion",
       "tipo": "temporada",
       "categoria": "temporada",
-      "nombre": "Festival Noche de Adivinación",
+      "nombre": "Encuentros misteriosos",
+      "inicio": "2026-10-10T06:00",
+      "fin": "2026-11-21T05:59"
+    },
+    {
+      "id": "halloween-espectros-misteriosos",
+      "tipo": "temporada",
+      "categoria": "temporada",
+      "nombre": "Espectros misteriosos",
+      "inicio": "2026-10-30T06:00",
+      "fin": "2026-11-16T05:59"
+    },
+    {
+      "id": "halloween-paseo-nocturno",
+      "tipo": "temporada",
+      "categoria": "temporada",
+      "nombre": "Paseo nocturno misterioso",
+      "inicio": "2026-10-30T06:00",
+      "fin": "2026-11-16T05:59"
+    },
+    {
+      "id": "adivinacion-escuadron-buscadulces",
+      "tipo": "temporada",
+      "categoria": "temporada",
+      "nombre": "Escuadrón buscadulces",
+      "inicio": "2026-10-10T06:00",
+      "fin": "2026-11-21T05:59"
+    },
+    {
+      "id": "adivinacion-reportaje-pueblo",
+      "tipo": "temporada",
+      "categoria": "temporada",
+      "nombre": "Reportaje especial del pueblo",
       "inicio": "2026-10-10T06:00",
       "fin": "2026-11-21T05:59"
     }
