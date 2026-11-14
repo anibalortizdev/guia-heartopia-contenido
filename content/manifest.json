@@ -1,12 +1,12 @@
 {
-  "contentVersion": 5,
+  "contentVersion": 6,
   "minAppVersionCode": 25,
-  "publishedOn": "2026-11-10",
+  "publishedOn": "2026-11-13",
   "files": [
     {
       "path": "catalog/creatures.json",
-      "size": 266771,
-      "sha256": "17f571bb761ebccc014f795632ec58ce17964f1bfffd9ea8a0b278e92be1009b"
+      "size": 220463,
+      "sha256": "451646ecf3cb87692c46b52293ebf149ff4d739893475876dea8c8dc1666e823"
     },
     {
       "path": "calendar/clima-2026.json",

@@ -1,7 +1,7 @@
 {
   "source": "https://www.heartodex.com/",
   "extractedOn": "2026-11-07",
-  "note": "Fichas con datos de aparición. El texto breve de cada una está escrito para esta guía.",
+  "note": "Fichas con datos de aparición. Ubicación, horario, clima y nivel van en los datos de cada ficha.",
   "entries": [
     {
       "id": "fish-blue-sea-angel",
@@ -28,8 +28,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-blue-sea-angel.webp",
-      "description": "Pez de la guía. Se anota en Mar antiguo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-blue-sea-angel.webp"
     },
     {
       "id": "fish-green-sea-angel",
@@ -57,8 +56,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-green-sea-angel.webp",
-      "description": "Pez de la guía. Se anota en Evento de oleada de peces luminiscentes, Mar antiguo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-green-sea-angel.webp"
     },
     {
       "id": "fish-golden-cuttlefish",
@@ -85,8 +83,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-golden-cuttlefish.webp",
-      "description": "Pez de la guía. Se anota en Mar antiguo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-golden-cuttlefish.webp"
     },
     {
       "id": "fish-purple-sea-angel",
@@ -114,8 +111,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-purple-sea-angel.webp",
-      "description": "Pez de la guía. Se anota en Evento de oleada de peces luminiscentes, Mar antiguo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-purple-sea-angel.webp"
     },
     {
       "id": "fish-pharaoh-cuttlefish",
@@ -142,8 +138,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-pharaoh-cuttlefish.webp",
-      "description": "Pez de la guía. Se anota en Mar antiguo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-pharaoh-cuttlefish.webp"
     },
     {
       "id": "fish-spineless-cuttlefish",
@@ -170,8 +165,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-spineless-cuttlefish.webp",
-      "description": "Pez de la guía. Se anota en Mar antiguo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-spineless-cuttlefish.webp"
     },
     {
       "id": "fish-schneider",
@@ -198,8 +192,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-schneider.webp",
-      "description": "Pez de la guía. Se anota en Lago Suburbano. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-schneider.webp"
     },
     {
       "id": "fish-common-bleak",
@@ -226,8 +219,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-common-bleak.webp",
-      "description": "Pez de la guía. Se anota en Lago. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-common-bleak.webp"
     },
     {
       "id": "fish-barbel",
@@ -254,8 +246,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-barbel.webp",
-      "description": "Pez de la guía. Se anota en Rio de aguas bajas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-barbel.webp"
     },
     {
       "id": "fish-common-chub",
@@ -282,8 +273,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-common-chub.webp",
-      "description": "Pez de la guía. Se anota en Lago. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-common-chub.webp"
     },
     {
       "id": "fish-oriental-shrimp",
@@ -310,8 +300,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-oriental-shrimp.webp",
-      "description": "Pez de la guía. Se anota en Río. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-oriental-shrimp.webp"
     },
     {
       "id": "fish-common-prawn",
@@ -338,8 +327,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-common-prawn.webp",
-      "description": "Pez de la guía. Se anota en Mar oriental. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-common-prawn.webp"
     },
     {
       "id": "fish-crucian-carp",
@@ -366,8 +354,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-crucian-carp.webp",
-      "description": "Pez de la guía. Se anota en Lago Suburbano. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-crucian-carp.webp"
     },
     {
       "id": "fish-common-whitefish",
@@ -394,8 +381,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-common-whitefish.webp",
-      "description": "Pez de la guía. Se anota en Lago del monte termal. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-common-whitefish.webp"
     },
     {
       "id": "fish-sea-stickleback",
@@ -422,8 +408,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-sea-stickleback.webp",
-      "description": "Pez de la guía. Se anota en Mar antiguo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-sea-stickleback.webp"
     },
     {
       "id": "fish-scad",
@@ -450,8 +435,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-scad.webp",
-      "description": "Pez de la guía. Se anota en Mar de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-scad.webp"
     },
     {
       "id": "fish-skipjack-tuna",
@@ -478,8 +462,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Grande",
-      "imageUrl": "asset:catalog/images/fish-skipjack-tuna.webp",
-      "description": "Pez de la guía. Se anota en Oceano. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-skipjack-tuna.webp"
     },
     {
       "id": "fish-spined-loach",
@@ -506,8 +489,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-spined-loach.webp",
-      "description": "Pez de la guía. Se anota en Rio del gran tronco. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-spined-loach.webp"
     },
     {
       "id": "fish-sea-bass",
@@ -534,8 +516,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-sea-bass.webp",
-      "description": "Pez de la guía. Se anota en Oceano. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-sea-bass.webp"
     },
     {
       "id": "fish-european-perch",
@@ -562,8 +543,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-european-perch.webp",
-      "description": "Pez de la guía. Se anota en Río. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-european-perch.webp"
     },
     {
       "id": "fish-streber",
@@ -590,8 +570,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-streber.webp",
-      "description": "Pez de la guía. Se anota en Rio de crepusculo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-streber.webp"
     },
     {
       "id": "fish-minnow",
@@ -618,8 +597,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-minnow.webp",
-      "description": "Pez de la guía. Se anota en Río Sereno. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-minnow.webp"
     },
     {
       "id": "fish-beltfish",
@@ -646,8 +624,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Grande",
-      "imageUrl": "asset:catalog/images/fish-beltfish.webp",
-      "description": "Pez de la guía. Se anota en Mar susurrante. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-beltfish.webp"
     },
     {
       "id": "fish-striped-red-mullet",
@@ -674,8 +651,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Dorado",
-      "imageUrl": "asset:catalog/images/fish-striped-red-mullet.webp",
-      "description": "Pez de la guía. Se anota en [EVENTO] Pesca marina. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-striped-red-mullet.webp"
     },
     {
       "id": "fish-sardine",
@@ -702,8 +678,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-sardine.webp",
-      "description": "Pez de la guía. Se anota en Oceano. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-sardine.webp"
     },
     {
       "id": "fish-tench",
@@ -730,8 +705,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-tench.webp",
-      "description": "Pez de la guía. Se anota en Lago del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-tench.webp"
     },
     {
       "id": "fish-seahorse",
@@ -757,8 +731,7 @@
       "extractedOn": "2026-11-07",
       "level": 2,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-seahorse.webp",
-      "description": "Pez de la guía. Se anota en Mar de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-seahorse.webp"
     },
     {
       "id": "fish-european-smelt",
@@ -785,8 +758,7 @@
       "extractedOn": "2026-11-07",
       "level": 2,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-european-smelt.webp",
-      "description": "Pez de la guía. Se anota en Lago de la pradera. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-european-smelt.webp"
     },
     {
       "id": "fish-false-scad",
@@ -813,8 +785,7 @@
       "extractedOn": "2026-11-07",
       "level": 2,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-false-scad.webp",
-      "description": "Pez de la guía. Se anota en Mar susurrante. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-false-scad.webp"
     },
     {
       "id": "fish-largemouth-bass",
@@ -840,8 +811,7 @@
       "extractedOn": "2026-11-07",
       "level": 2,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-largemouth-bass.webp",
-      "description": "Pez de la guía. Se anota en Lago del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-largemouth-bass.webp"
     },
     {
       "id": "fish-stone-loach",
@@ -868,8 +838,7 @@
       "extractedOn": "2026-11-07",
       "level": 2,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-stone-loach.webp",
-      "description": "Pez de la guía. Se anota en Lago Suburbano. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-stone-loach.webp"
     },
     {
       "id": "fish-anglerfish",
@@ -896,8 +865,7 @@
       "extractedOn": "2026-11-07",
       "level": 2,
       "shadow": "Dorado",
-      "imageUrl": "asset:catalog/images/fish-anglerfish.webp",
-      "description": "Pez de la guía. Se anota en [EVENTO] Pesca marina. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-anglerfish.webp"
     },
     {
       "id": "fish-common-octopus",
@@ -924,8 +892,7 @@
       "extractedOn": "2026-11-07",
       "level": 2,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-common-octopus.webp",
-      "description": "Pez de la guía. Se anota en [EVENTO] Pesca marina. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-common-octopus.webp"
     },
     {
       "id": "fish-atlantic-pygmy-octopus",
@@ -952,8 +919,7 @@
       "extractedOn": "2026-11-07",
       "level": 2,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-atlantic-pygmy-octopus.webp",
-      "description": "Pez de la guía. Se anota en Mar susurrante. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-atlantic-pygmy-octopus.webp"
     },
     {
       "id": "fish-turbot",
@@ -980,8 +946,7 @@
       "extractedOn": "2026-11-07",
       "level": 2,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-turbot.webp",
-      "description": "Pez de la guía. Se anota en [EVENTO] Pesca marina. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-turbot.webp"
     },
     {
       "id": "fish-hermit-crab",
@@ -1008,8 +973,7 @@
       "extractedOn": "2026-11-07",
       "level": 3,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-hermit-crab.webp",
-      "description": "Pez de la guía. Se anota en Mar oriental. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-hermit-crab.webp"
     },
     {
       "id": "fish-european-crayfish",
@@ -1035,8 +999,7 @@
       "extractedOn": "2026-11-07",
       "level": 3,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-european-crayfish.webp",
-      "description": "Pez de la guía. Se anota en Lago del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-european-crayfish.webp"
     },
     {
       "id": "fish-zander",
@@ -1062,8 +1025,7 @@
       "extractedOn": "2026-11-07",
       "level": 3,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-zander.webp",
-      "description": "Pez de la guía. Se anota en Rio del gran tronco. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-zander.webp"
     },
     {
       "id": "fish-ruffe",
@@ -1088,8 +1050,7 @@
       "extractedOn": "2026-11-07",
       "level": 3,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-ruffe.webp",
-      "description": "Pez de la guía. Se anota en Lago del monte termal. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-ruffe.webp"
     },
     {
       "id": "fish-mud-sunfish",
@@ -1115,8 +1076,7 @@
       "extractedOn": "2026-11-07",
       "level": 3,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-mud-sunfish.webp",
-      "description": "Pez de la guía. Se anota en Lago del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-mud-sunfish.webp"
     },
     {
       "id": "fish-clownfish",
@@ -1143,8 +1103,7 @@
       "extractedOn": "2026-11-07",
       "level": 3,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-clownfish.webp",
-      "description": "Pez de la guía. Se anota en Mar antiguo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-clownfish.webp"
     },
     {
       "id": "fish-edible-frog",
@@ -1171,8 +1130,7 @@
       "extractedOn": "2026-11-07",
       "level": 3,
       "shadow": "Azul",
-      "imageUrl": "asset:catalog/images/fish-edible-frog.webp",
-      "description": "Pez de la guía. Se anota en Lago. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-edible-frog.webp"
     },
     {
       "id": "fish-atlantic-salmon",
@@ -1198,8 +1156,7 @@
       "extractedOn": "2026-11-07",
       "level": 3,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-atlantic-salmon.webp",
-      "description": "Pez de la guía. Se anota en Mar de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-atlantic-salmon.webp"
     },
     {
       "id": "fish-tilapia",
@@ -1226,8 +1183,7 @@
       "extractedOn": "2026-11-07",
       "level": 3,
       "shadow": "Azul",
-      "imageUrl": "asset:catalog/images/fish-tilapia.webp",
-      "description": "Pez de la guía. Se anota en Río. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-tilapia.webp"
     },
     {
       "id": "fish-river-crab",
@@ -1254,8 +1210,7 @@
       "extractedOn": "2026-11-07",
       "level": 4,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-river-crab.webp",
-      "description": "Pez de la guía. Se anota en Lago Suburbano. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-river-crab.webp"
     },
     {
       "id": "fish-common-carp",
@@ -1279,8 +1234,7 @@
       "extractedOn": "2026-11-07",
       "level": 4,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-common-carp.webp",
-      "description": "Pez de la guía. Se anota en Rio de crepusculo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-common-carp.webp"
     },
     {
       "id": "fish-butterfly-koi",
@@ -1306,8 +1260,7 @@
       "extractedOn": "2026-11-07",
       "level": 4,
       "shadow": "Grande",
-      "imageUrl": "asset:catalog/images/fish-butterfly-koi.webp",
-      "description": "Pez de la guía. Se anota en Lago de la pradera. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-butterfly-koi.webp"
     },
     {
       "id": "fish-burbot",
@@ -1332,8 +1285,7 @@
       "extractedOn": "2026-11-07",
       "level": 4,
       "shadow": "Grande",
-      "imageUrl": "asset:catalog/images/fish-burbot.webp",
-      "description": "Pez de la guía. Se anota en Río Sereno. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-burbot.webp"
     },
     {
       "id": "fish-mussel",
@@ -1359,8 +1311,7 @@
       "extractedOn": "2026-11-07",
       "level": 4,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-mussel.webp",
-      "description": "Pez de la guía. Se anota en Lago Suburbano. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-mussel.webp"
     },
     {
       "id": "fish-goby",
@@ -1385,8 +1336,7 @@
       "extractedOn": "2026-11-07",
       "level": 4,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-goby.webp",
-      "description": "Pez de la guía. Se anota en Mar oriental. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-goby.webp"
     },
     {
       "id": "fish-red-bellied-piranha",
@@ -1413,8 +1363,7 @@
       "extractedOn": "2026-11-07",
       "level": 4,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-red-bellied-piranha.webp",
-      "description": "Pez de la guía. Se anota en Rio del gran tronco. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-red-bellied-piranha.webp"
     },
     {
       "id": "fish-european-plaice",
@@ -1439,8 +1388,7 @@
       "extractedOn": "2026-11-07",
       "level": 4,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-european-plaice.webp",
-      "description": "Pez de la guía. Se anota en Mar antiguo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-european-plaice.webp"
     },
     {
       "id": "fish-rabbit-fish",
@@ -1467,8 +1415,7 @@
       "extractedOn": "2026-11-07",
       "level": 4,
       "shadow": "Azul",
-      "imageUrl": "asset:catalog/images/fish-rabbit-fish.webp",
-      "description": "Pez de la guía. Se anota en Oceano. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-rabbit-fish.webp"
     },
     {
       "id": "fish-tadpole",
@@ -1494,8 +1441,7 @@
       "extractedOn": "2026-11-07",
       "level": 4,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-tadpole.webp",
-      "description": "Pez de la guía. Se anota en Lago del monte termal. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-tadpole.webp"
     },
     {
       "id": "fish-freshwater-blenny",
@@ -1522,8 +1468,7 @@
       "extractedOn": "2026-11-07",
       "level": 5,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-freshwater-blenny.webp",
-      "description": "Pez de la guía. Se anota en Rio de crepusculo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-freshwater-blenny.webp"
     },
     {
       "id": "fish-atlantic-mackerel",
@@ -1547,8 +1492,7 @@
       "extractedOn": "2026-11-07",
       "level": 5,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-atlantic-mackerel.webp",
-      "description": "Pez de la guía. Se anota en Mar de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-atlantic-mackerel.webp"
     },
     {
       "id": "fish-european-flying-squid",
@@ -1575,8 +1519,7 @@
       "extractedOn": "2026-11-07",
       "level": 5,
       "shadow": "Dorado",
-      "imageUrl": "asset:catalog/images/fish-european-flying-squid.webp",
-      "description": "Pez de la guía. Se anota en [EVENTO] Pesca marina. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-european-flying-squid.webp"
     },
     {
       "id": "fish-european-lobster",
@@ -1601,8 +1544,7 @@
       "extractedOn": "2026-11-07",
       "level": 5,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-european-lobster.webp",
-      "description": "Pez de la guía. Se anota en Mar susurrante. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-european-lobster.webp"
     },
     {
       "id": "fish-common-rudd",
@@ -1629,8 +1571,7 @@
       "extractedOn": "2026-11-07",
       "level": 5,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-common-rudd.webp",
-      "description": "Pez de la guía. Se anota en Lago Suburbano. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-common-rudd.webp"
     },
     {
       "id": "fish-trout",
@@ -1654,8 +1595,7 @@
       "extractedOn": "2026-11-07",
       "level": 5,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-trout.webp",
-      "description": "Pez de la guía. Se anota en Lago de la pradera. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-trout.webp"
     },
     {
       "id": "fish-large-pearl-mussel",
@@ -1680,8 +1620,7 @@
       "extractedOn": "2026-11-07",
       "level": 6,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-large-pearl-mussel.webp",
-      "description": "Pez de la guía. Se anota en Lago del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-large-pearl-mussel.webp"
     },
     {
       "id": "fish-puffer-fish",
@@ -1706,8 +1645,7 @@
       "extractedOn": "2026-11-07",
       "level": 6,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-puffer-fish.webp",
-      "description": "Pez de la guía. Se anota en Mar antiguo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-puffer-fish.webp"
     },
     {
       "id": "fish-tub-gurnard",
@@ -1732,8 +1670,7 @@
       "extractedOn": "2026-11-07",
       "level": 6,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-tub-gurnard.webp",
-      "description": "Pez de la guía. Se anota en Mar oriental. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-tub-gurnard.webp"
     },
     {
       "id": "fish-chum-salmon",
@@ -1758,8 +1695,7 @@
       "extractedOn": "2026-11-07",
       "level": 6,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-chum-salmon.webp",
-      "description": "Pez de la guía. Se anota en Río Sereno. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-chum-salmon.webp"
     },
     {
       "id": "fish-nursehound",
@@ -1786,8 +1722,7 @@
       "extractedOn": "2026-11-07",
       "level": 6,
       "shadow": "Grande",
-      "imageUrl": "asset:catalog/images/fish-nursehound.webp",
-      "description": "Pez de la guía. Se anota en [EVENTO] Pesca marina. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-nursehound.webp"
     },
     {
       "id": "fish-grayling",
@@ -1814,8 +1749,7 @@
       "extractedOn": "2026-11-07",
       "level": 6,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-grayling.webp",
-      "description": "Pez de la guía. Se anota en Lago Suburbano. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-grayling.webp"
     },
     {
       "id": "fish-european-eel",
@@ -1839,8 +1773,7 @@
       "extractedOn": "2026-11-07",
       "level": 7,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-european-eel.webp",
-      "description": "Pez de la guía. Se anota en Mar antiguo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-european-eel.webp"
     },
     {
       "id": "fish-blackspot-seabream",
@@ -1864,8 +1797,7 @@
       "extractedOn": "2026-11-07",
       "level": 7,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-blackspot-seabream.webp",
-      "description": "Pez de la guía. Se anota en Mar susurrante. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-blackspot-seabream.webp"
     },
     {
       "id": "fish-mediterranean-killifish",
@@ -1890,8 +1822,7 @@
       "extractedOn": "2026-11-07",
       "level": 7,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-mediterranean-killifish.webp",
-      "description": "Pez de la guía. Se anota en Lago Suburbano. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-mediterranean-killifish.webp"
     },
     {
       "id": "fish-three-spined-stickleback",
@@ -1917,8 +1848,7 @@
       "extractedOn": "2026-11-07",
       "level": 7,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-three-spined-stickleback.webp",
-      "description": "Pez de la guía. Se anota en Rio de aguas bajas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-three-spined-stickleback.webp"
     },
     {
       "id": "fish-giant-oarfish",
@@ -1943,8 +1873,7 @@
       "extractedOn": "2026-11-07",
       "level": 7,
       "shadow": "Dorado",
-      "imageUrl": "asset:catalog/images/fish-giant-oarfish.webp",
-      "description": "Pez de la guía. Se anota en [EVENTO] Pesca marina. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-giant-oarfish.webp"
     },
     {
       "id": "fish-mottled-sculpin",
@@ -1969,8 +1898,7 @@
       "extractedOn": "2026-11-07",
       "level": 7,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-mottled-sculpin.webp",
-      "description": "Pez de la guía. Se anota en Lago del monte termal. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-mottled-sculpin.webp"
     },
     {
       "id": "fish-king-crab",
@@ -1994,8 +1922,7 @@
       "extractedOn": "2026-11-07",
       "level": 8,
       "shadow": "Grande",
-      "imageUrl": "asset:catalog/images/fish-king-crab.webp",
-      "description": "Pez de la guía. Se anota en Mar de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-king-crab.webp"
     },
     {
       "id": "fish-golden-king-crab",
@@ -2020,8 +1947,7 @@
       "extractedOn": "2026-11-07",
       "level": 8,
       "shadow": "Dorado",
-      "imageUrl": "asset:catalog/images/fish-golden-king-crab.webp",
-      "description": "Pez de la guía. Se anota en [EVENTO] Pesca marina. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-golden-king-crab.webp"
     },
     {
       "id": "fish-blue-european-crayfish",
@@ -2046,8 +1972,7 @@
       "extractedOn": "2026-11-07",
       "level": 8,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-blue-european-crayfish.webp",
-      "description": "Pez de la guía. Se anota en Lago del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-blue-european-crayfish.webp"
     },
     {
       "id": "fish-haddock",
@@ -2072,8 +1997,7 @@
       "extractedOn": "2026-11-07",
       "level": 8,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-haddock.webp",
-      "description": "Pez de la guía. Se anota en Mar oriental. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-haddock.webp"
     },
     {
       "id": "fish-goldfish",
@@ -2098,8 +2022,7 @@
       "extractedOn": "2026-11-07",
       "level": 8,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-goldfish.webp",
-      "description": "Pez de la guía. Se anota en Lago de la pradera. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-goldfish.webp"
     },
     {
       "id": "fish-european-mudminnow",
@@ -2123,8 +2046,7 @@
       "extractedOn": "2026-11-07",
       "level": 8,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-european-mudminnow.webp",
-      "description": "Pez de la guía. Se anota en Lago Suburbano. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-european-mudminnow.webp"
     },
     {
       "id": "fish-bluefin-tuna",
@@ -2147,8 +2069,7 @@
       "extractedOn": "2026-11-07",
       "level": 9,
       "shadow": "Grande",
-      "imageUrl": "asset:catalog/images/fish-bluefin-tuna.webp",
-      "description": "Pez de la guía. Se anota en Mar susurrante. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-bluefin-tuna.webp"
     },
     {
       "id": "fish-northern-pike",
@@ -2172,8 +2093,7 @@
       "extractedOn": "2026-11-07",
       "level": 9,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-northern-pike.webp",
-      "description": "Pez de la guía. Se anota en Lago Suburbano. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-northern-pike.webp"
     },
     {
       "id": "fish-moonfish",
@@ -2198,8 +2118,7 @@
       "extractedOn": "2026-11-07",
       "level": 9,
       "shadow": "Dorado",
-      "imageUrl": "asset:catalog/images/fish-moonfish.webp",
-      "description": "Pez de la guía. Se anota en [EVENTO] Pesca marina. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-moonfish.webp"
     },
     {
       "id": "fish-ocean-sunfish",
@@ -2224,8 +2143,7 @@
       "extractedOn": "2026-11-07",
       "level": 9,
       "shadow": "Grande",
-      "imageUrl": "asset:catalog/images/fish-ocean-sunfish.webp",
-      "description": "Pez de la guía. Se anota en Mar oriental. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-ocean-sunfish.webp"
     },
     {
       "id": "fish-pumpkinseed",
@@ -2250,8 +2168,7 @@
       "extractedOn": "2026-11-07",
       "level": 9,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-pumpkinseed.webp",
-      "description": "Pez de la guía. Se anota en Lago del monte termal. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-pumpkinseed.webp"
     },
     {
       "id": "fish-huchen",
@@ -2275,8 +2192,7 @@
       "extractedOn": "2026-11-07",
       "level": 9,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-huchen.webp",
-      "description": "Pez de la guía. Se anota en Rio del gran tronco. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-huchen.webp"
     },
     {
       "id": "fish-swordfish",
@@ -2299,8 +2215,7 @@
       "extractedOn": "2026-11-07",
       "level": 10,
       "shadow": "Grande",
-      "imageUrl": "asset:catalog/images/fish-swordfish.webp",
-      "description": "Pez de la guía. Se anota en Mar de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-swordfish.webp"
     },
     {
       "id": "fish-wels-catfish",
@@ -2324,8 +2239,7 @@
       "extractedOn": "2026-11-07",
       "level": 10,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-wels-catfish.webp",
-      "description": "Pez de la guía. Se anota en Lago de la pradera. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-wels-catfish.webp"
     },
     {
       "id": "fish-bluegill",
@@ -2349,8 +2263,7 @@
       "extractedOn": "2026-11-07",
       "level": 10,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-bluegill.webp",
-      "description": "Pez de la guía. Se anota en Lago del monte termal. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-bluegill.webp"
     },
     {
       "id": "fish-shortfin-mako-shark",
@@ -2373,8 +2286,7 @@
       "extractedOn": "2026-11-07",
       "level": 10,
       "shadow": "Dorado",
-      "imageUrl": "asset:catalog/images/fish-shortfin-mako-shark.webp",
-      "description": "Pez de la guía. Se anota en [EVENTO] Pesca marina. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-shortfin-mako-shark.webp"
     },
     {
       "id": "fish-smooth-hammerhead",
@@ -2397,8 +2309,7 @@
       "extractedOn": "2026-11-07",
       "level": 10,
       "shadow": "Grande",
-      "imageUrl": "asset:catalog/images/fish-smooth-hammerhead.webp",
-      "description": "Pez de la guía. Se anota en Mar antiguo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-smooth-hammerhead.webp"
     },
     {
       "id": "fish-arctic-char",
@@ -2422,8 +2333,7 @@
       "extractedOn": "2026-11-07",
       "level": 10,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-arctic-char.webp",
-      "description": "Pez de la guía. Se anota en Lago del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-arctic-char.webp"
     },
     {
       "id": "fish-asian-arowana",
@@ -2447,8 +2357,7 @@
       "extractedOn": "2026-11-07",
       "level": 11,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-asian-arowana.webp",
-      "description": "Pez de la guía. Se anota en Lago de la pradera. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-asian-arowana.webp"
     },
     {
       "id": "fish-blackspot-sergeant",
@@ -2472,8 +2381,7 @@
       "extractedOn": "2026-11-07",
       "level": 11,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-blackspot-sergeant.webp",
-      "description": "Pez de la guía. Se anota en Mar susurrante. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-blackspot-sergeant.webp"
     },
     {
       "id": "fish-lionhead",
@@ -2498,8 +2406,7 @@
       "extractedOn": "2026-11-07",
       "level": 11,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-lionhead.webp",
-      "description": "Pez de la guía. Se anota en Lago del monte termal. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-lionhead.webp"
     },
     {
       "id": "fish-whale-shark",
@@ -2524,8 +2431,7 @@
       "extractedOn": "2026-11-07",
       "level": 11,
       "shadow": "Dorado",
-      "imageUrl": "asset:catalog/images/fish-whale-shark.webp",
-      "description": "Pez de la guía. Se anota en [EVENTO] Pesca marina. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-whale-shark.webp"
     },
     {
       "id": "fish-mahi-mahi",
@@ -2548,8 +2454,7 @@
       "extractedOn": "2026-11-07",
       "level": 12,
       "shadow": "Grande",
-      "imageUrl": "asset:catalog/images/fish-mahi-mahi.webp",
-      "description": "Pez de la guía. Se anota en Mar antiguo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-mahi-mahi.webp"
     },
     {
       "id": "fish-moon-jelly",
@@ -2574,8 +2479,7 @@
       "extractedOn": "2026-11-07",
       "level": 12,
       "shadow": "Dorado",
-      "imageUrl": "asset:catalog/images/fish-moon-jelly.webp",
-      "description": "Pez de la guía. Se anota en [EVENTO] Pesca marina. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-moon-jelly.webp"
     },
     {
       "id": "fish-angelfish",
@@ -2598,8 +2502,7 @@
       "extractedOn": "2026-11-07",
       "level": 12,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-angelfish.webp",
-      "description": "Pez de la guía. Se anota en Lago Suburbano. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-angelfish.webp"
     },
     {
       "id": "fish-pink-betta",
@@ -2623,8 +2526,7 @@
       "extractedOn": "2026-11-07",
       "level": 12,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-pink-betta.webp",
-      "description": "Pez de la guía. Se anota en Lago del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-pink-betta.webp"
     },
     {
       "id": "fish-green-sea-turtle",
@@ -2647,8 +2549,7 @@
       "extractedOn": "2026-11-07",
       "level": 12,
       "shadow": "Grande",
-      "imageUrl": "asset:catalog/images/fish-green-sea-turtle.webp",
-      "description": "Pez de la guía. Se anota en Mar de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-green-sea-turtle.webp"
     },
     {
       "id": "fish-white-faced-surgeonfish",
@@ -2673,8 +2574,7 @@
       "extractedOn": "2026-11-07",
       "level": 13,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-white-faced-surgeonfish.webp",
-      "description": "Pez de la guía. Se anota en Mar antiguo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-white-faced-surgeonfish.webp"
     },
     {
       "id": "fish-lionfish",
@@ -2698,8 +2598,7 @@
       "extractedOn": "2026-11-07",
       "level": 13,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-lionfish.webp",
-      "description": "Pez de la guía. Se anota en Mar de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-lionfish.webp"
     },
     {
       "id": "fish-blue-and-yellow-wrasse",
@@ -2724,8 +2623,7 @@
       "extractedOn": "2026-11-07",
       "level": 14,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-blue-and-yellow-wrasse.webp",
-      "description": "Pez de la guía. Se anota en Mar oriental. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-blue-and-yellow-wrasse.webp"
     },
     {
       "id": "fish-azure-demoiselle",
@@ -2749,8 +2647,7 @@
       "extractedOn": "2026-11-07",
       "level": 14,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-azure-demoiselle.webp",
-      "description": "Pez de la guía. Se anota en Mar susurrante. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-azure-demoiselle.webp"
     },
     {
       "id": "fish-japanese-flying-squid",
@@ -2777,8 +2674,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-japanese-flying-squid.webp",
-      "description": "Pez de la guía. Se anota en Mar de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-japanese-flying-squid.webp"
     },
     {
       "id": "fish-firefly-squid",
@@ -2805,8 +2701,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-firefly-squid.webp",
-      "description": "Pez de la guía. Se anota en Mar de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-firefly-squid.webp"
     },
     {
       "id": "fish-sea-slug",
@@ -2833,8 +2728,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-sea-slug.webp",
-      "description": "Pez de la guía. Se anota en Evento de oleada de peces costeros. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-sea-slug.webp"
     },
     {
       "id": "fish-mandarin-fish",
@@ -2861,8 +2755,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-mandarin-fish.webp",
-      "description": "Pez de la guía. Se anota en Mar de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-mandarin-fish.webp"
     },
     {
       "id": "fish-oliver-ridley-turtle",
@@ -2889,8 +2782,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-oliver-ridley-turtle.webp",
-      "description": "Pez de la guía. Se anota en Mar de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-oliver-ridley-turtle.webp"
     },
     {
       "id": "fish-flatback-turtle",
@@ -2917,8 +2809,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-flatback-turtle.webp",
-      "description": "Pez de la guía. Se anota en Mar de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-flatback-turtle.webp"
     },
     {
       "id": "fish-scallop",
@@ -2945,8 +2836,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-scallop.webp",
-      "description": "Pez de la guía. Se anota en Mar de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-scallop.webp"
     },
     {
       "id": "fish-golden-garfish",
@@ -2973,8 +2863,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Grande",
-      "imageUrl": "asset:catalog/images/fish-golden-garfish.webp",
-      "description": "Pez de la guía. Se anota en Evento de pez gar. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-golden-garfish.webp"
     },
     {
       "id": "fish-pale-gold-garfish",
@@ -3001,8 +2890,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Grande",
-      "imageUrl": "asset:catalog/images/fish-pale-gold-garfish.webp",
-      "description": "Pez de la guía. Se anota en Lago del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-pale-gold-garfish.webp"
     },
     {
       "id": "fish-brown-garfish",
@@ -3029,8 +2917,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Grande",
-      "imageUrl": "asset:catalog/images/fish-brown-garfish.webp",
-      "description": "Pez de la guía. Se anota en Lago del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-brown-garfish.webp"
     },
     {
       "id": "fish-black-garfish",
@@ -3057,8 +2944,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Grande",
-      "imageUrl": "asset:catalog/images/fish-black-garfish.webp",
-      "description": "Pez de la guía. Se anota en Lago del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-black-garfish.webp"
     },
     {
       "id": "fish-silver-garfish",
@@ -3085,8 +2971,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Grande",
-      "imageUrl": "asset:catalog/images/fish-silver-garfish.webp",
-      "description": "Pez de la guía. Se anota en Lago del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-silver-garfish.webp"
     },
     {
       "id": "fish-blue-brick-clownfish",
@@ -3113,8 +2998,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-blue-brick-clownfish.webp",
-      "description": "Pez de la guía. Se anota en Mar oriental. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-blue-brick-clownfish.webp"
     },
     {
       "id": "fish-colorful-brick-clownfish",
@@ -3141,8 +3025,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-colorful-brick-clownfish.webp",
-      "description": "Pez de la guía. Se anota en Evento especial de peces de bloques. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-colorful-brick-clownfish.webp"
     },
     {
       "id": "fish-purple-brick-clownfish",
@@ -3169,8 +3052,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-purple-brick-clownfish.webp",
-      "description": "Pez de la guía. Se anota en Mar oriental. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-purple-brick-clownfish.webp"
     },
     {
       "id": "fish-red-brick-clownfish",
@@ -3197,8 +3079,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-red-brick-clownfish.webp",
-      "description": "Pez de la guía. Se anota en Mar oriental. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-red-brick-clownfish.webp"
     },
     {
       "id": "fish-green-brick-clownfish",
@@ -3225,8 +3106,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-green-brick-clownfish.webp",
-      "description": "Pez de la guía. Se anota en Mar oriental. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-green-brick-clownfish.webp"
     },
     {
       "id": "fish-director-common-octopus-w-cinnamon-hat",
@@ -3253,8 +3133,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Grande",
-      "imageUrl": "asset:catalog/images/fish-director-common-octopus-w-cinnamon-hat.webp",
-      "description": "Pez de la guía. Se anota en Mar de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-director-common-octopus-w-cinnamon-hat.webp"
     },
     {
       "id": "fish-director-common-octopus-w-patterned-hat",
@@ -3281,8 +3160,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Grande",
-      "imageUrl": "asset:catalog/images/fish-director-common-octopus-w-patterned-hat.webp",
-      "description": "Pez de la guía. Se anota en [EVENTO] OctoDiversión. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-director-common-octopus-w-patterned-hat.webp"
     },
     {
       "id": "fish-director-pygmy-octopus-w-cyan-hat",
@@ -3309,8 +3187,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-director-pygmy-octopus-w-cyan-hat.webp",
-      "description": "Pez de la guía. Se anota en Mar de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-director-pygmy-octopus-w-cyan-hat.webp"
     },
     {
       "id": "fish-director-pygmy-octopus-w-navy-hat",
@@ -3337,8 +3214,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-director-pygmy-octopus-w-navy-hat.webp",
-      "description": "Pez de la guía. Se anota en Mar de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-director-pygmy-octopus-w-navy-hat.webp"
     },
     {
       "id": "fish-director-pygmy-octopus-w-brown-hat",
@@ -3365,8 +3241,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-director-pygmy-octopus-w-brown-hat.webp",
-      "description": "Pez de la guía. Se anota en Mar de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-director-pygmy-octopus-w-brown-hat.webp"
     },
     {
       "id": "fish-frostspore-seahorse",
@@ -3394,8 +3269,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Pequeño",
-      "imageUrl": "asset:catalog/images/fish-frostspore-seahorse.webp",
-      "description": "Pez de la guía. Se anota en [EVENTO] Peces de cristal Nevado, Mar antiguo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-frostspore-seahorse.webp"
     },
     {
       "id": "fish-frostspore-king-crab",
@@ -3423,8 +3297,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Grande",
-      "imageUrl": "asset:catalog/images/fish-frostspore-king-crab.webp",
-      "description": "Pez de la guía. Se anota en [EVENTO] Peces de cristal Nevado, Mar antiguo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-frostspore-king-crab.webp"
     },
     {
       "id": "fish-frostspore-puffer-fish",
@@ -3452,8 +3325,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Mediano",
-      "imageUrl": "asset:catalog/images/fish-frostspore-puffer-fish.webp",
-      "description": "Pez de la guía. Se anota en [EVENTO] Peces de cristal Nevado, Mar antiguo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-frostspore-puffer-fish.webp"
     },
     {
       "id": "fish-frostspore-ocean-sunfish",
@@ -3481,8 +3353,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Grande",
-      "imageUrl": "asset:catalog/images/fish-frostspore-ocean-sunfish.webp",
-      "description": "Pez de la guía. Se anota en [EVENTO] Peces de cristal Nevado, Mar antiguo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-frostspore-ocean-sunfish.webp"
     },
     {
       "id": "fish-frostspore-whale-shark",
@@ -3509,8 +3380,7 @@
       "extractedOn": "2026-11-07",
       "level": 1,
       "shadow": "Grande",
-      "imageUrl": "asset:catalog/images/fish-frostspore-whale-shark.webp",
-      "description": "Pez de la guía. Se anota en [EVENTO] Peces de cristal Nevado. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/fish-frostspore-whale-shark.webp"
     },
     {
       "id": "bird-long-toothed-fruit-bat",
@@ -3534,8 +3404,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "",
-      "description": "Ave de la guía. Se anota en Isla del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": ""
     },
     {
       "id": "bird-northern-white-faced-owl",
@@ -3559,8 +3428,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-northern-white-faced-owl.webp",
-      "description": "Ave de la guía. Se anota en Isla del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-northern-white-faced-owl.webp"
     },
     {
       "id": "bird-palau-scops-owl",
@@ -3584,8 +3452,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-palau-scops-owl.webp",
-      "description": "Ave de la guía. Se anota en Isla del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-palau-scops-owl.webp"
     },
     {
       "id": "bird-eastern-screech-owl",
@@ -3609,8 +3476,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-eastern-screech-owl.webp",
-      "description": "Ave de la guía. Se anota en Isla del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-eastern-screech-owl.webp"
     },
     {
       "id": "bird-pumpkin-raven",
@@ -3636,8 +3502,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-pumpkin-raven.webp",
-      "description": "Ave de la guía. Se anota en Ruinas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-pumpkin-raven.webp"
     },
     {
       "id": "bird-strawberry-raven",
@@ -3663,8 +3528,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-strawberry-raven.webp",
-      "description": "Ave de la guía. Se anota en Lago volcánico. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-strawberry-raven.webp"
     },
     {
       "id": "bird-mandarin-raven",
@@ -3690,8 +3554,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-mandarin-raven.webp",
-      "description": "Ave de la guía. Se anota en Aguas termales. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-mandarin-raven.webp"
     },
     {
       "id": "bird-apple-raven",
@@ -3717,8 +3580,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-apple-raven.webp",
-      "description": "Ave de la guía. Se anota en Acantilado de piedra. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-apple-raven.webp"
     },
     {
       "id": "bird-truffle-raven",
@@ -3744,8 +3606,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-truffle-raven.webp",
-      "description": "Ave de la guía. Se anota en Evento de provisiones de cuervos. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-truffle-raven.webp"
     },
     {
       "id": "bird-honduran-white-bat",
@@ -3769,8 +3630,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-honduran-white-bat.webp",
-      "description": "Ave de la guía. Se anota en Isla del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-honduran-white-bat.webp"
     },
     {
       "id": "bird-tanzanian-woolly-bat",
@@ -3794,8 +3654,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "",
-      "description": "Ave de la guía. Se anota en Isla del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": ""
     },
     {
       "id": "bird-mallard",
@@ -3821,8 +3680,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-mallard.webp",
-      "description": "Ave de la guía. Se anota en Lago Suburbano. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-mallard.webp"
     },
     {
       "id": "bird-bearded-reedling",
@@ -3851,8 +3709,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-bearded-reedling.webp",
-      "description": "Ave de la guía. Se anota en Acantilado de piedra, Aguas termales, Lago volcánico, Ruinas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-bearded-reedling.webp"
     },
     {
       "id": "bird-eurasian-bullfinch",
@@ -3878,8 +3735,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-eurasian-bullfinch.webp",
-      "description": "Ave de la guía. Se anota en Suburbio. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-eurasian-bullfinch.webp"
     },
     {
       "id": "bird-eurasian-wren",
@@ -3906,8 +3762,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-eurasian-wren.webp",
-      "description": "Ave de la guía. Se anota en Bosque de roble espiritual, Lago del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-eurasian-wren.webp"
     },
     {
       "id": "bird-pied-imperial-pigeon",
@@ -3935,8 +3790,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-pied-imperial-pigeon.webp",
-      "description": "Ave de la guía. Se anota en Muelle este de pueblo pesquero, Plaza del pueblo pesquero, Muelle. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-pied-imperial-pigeon.webp"
     },
     {
       "id": "bird-greater-flamingo",
@@ -3962,8 +3816,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-greater-flamingo.webp",
-      "description": "Ave de la guía. Se anota en Lago Suburbano. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-greater-flamingo.webp"
     },
     {
       "id": "bird-blue-and-yellow-macaw",
@@ -3989,8 +3842,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-blue-and-yellow-macaw.webp",
-      "description": "Ave de la guía. Se anota en [EVENTO] Nido de las aves. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-blue-and-yellow-macaw.webp"
     },
     {
       "id": "bird-long-tailed-tit",
@@ -4016,8 +3868,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-long-tailed-tit.webp",
-      "description": "Ave de la guía. Se anota en Cabeza de Blanc. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-long-tailed-tit.webp"
     },
     {
       "id": "bird-wonga-pigeon",
@@ -4045,8 +3896,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-wonga-pigeon.webp",
-      "description": "Ave de la guía. Se anota en Bosque de roble espiritual, Torre de cervatillo, Lago del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-wonga-pigeon.webp"
     },
     {
       "id": "bird-blue-peafowl",
@@ -4072,8 +3922,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-blue-peafowl.webp",
-      "description": "Ave de la guía. Se anota en [EVENTO] Nido de las aves. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-blue-peafowl.webp"
     },
     {
       "id": "bird-european-robin",
@@ -4099,8 +3948,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-european-robin.webp",
-      "description": "Ave de la guía. Se anota en Plaza central. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-european-robin.webp"
     },
     {
       "id": "bird-eurasian-collared-dove",
@@ -4126,8 +3974,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-eurasian-collared-dove.webp",
-      "description": "Ave de la guía. Se anota en Área Residencial. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-eurasian-collared-dove.webp"
     },
     {
       "id": "bird-pink-necked-green-pigeon",
@@ -4153,8 +4000,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-pink-necked-green-pigeon.webp",
-      "description": "Ave de la guía. Se anota en Florimolino. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-pink-necked-green-pigeon.webp"
     },
     {
       "id": "bird-woodchat-shrike",
@@ -4180,8 +4026,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 2,
-      "imageUrl": "asset:catalog/images/bird-woodchat-shrike.webp",
-      "description": "Ave de la guía. Se anota en Suburbio. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-woodchat-shrike.webp"
     },
     {
       "id": "bird-great-tit",
@@ -4208,8 +4053,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 2,
-      "imageUrl": "asset:catalog/images/bird-great-tit.webp",
-      "description": "Ave de la guía. Se anota en Lago volcánico, Ruinas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-great-tit.webp"
     },
     {
       "id": "bird-seagull",
@@ -4235,8 +4079,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 2,
-      "imageUrl": "asset:catalog/images/bird-seagull.webp",
-      "description": "Ave de la guía. Se anota en Borde Costero. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-seagull.webp"
     },
     {
       "id": "bird-eurasian-nuthatch",
@@ -4263,8 +4106,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 2,
-      "imageUrl": "asset:catalog/images/bird-eurasian-nuthatch.webp",
-      "description": "Ave de la guía. Se anota en Muelle este de pueblo pesquero, Plaza del pueblo pesquero. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-eurasian-nuthatch.webp"
     },
     {
       "id": "bird-stock-dove",
@@ -4290,8 +4132,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 2,
-      "imageUrl": "asset:catalog/images/bird-stock-dove.webp",
-      "description": "Ave de la guía. Se anota en Plaza central. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-stock-dove.webp"
     },
     {
       "id": "bird-eurasian-chaffinch",
@@ -4317,8 +4158,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 2,
-      "imageUrl": "asset:catalog/images/bird-eurasian-chaffinch.webp",
-      "description": "Ave de la guía. Se anota en Florimolino. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-eurasian-chaffinch.webp"
     },
     {
       "id": "bird-eurasian-wigeon",
@@ -4344,8 +4184,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 2,
-      "imageUrl": "asset:catalog/images/bird-eurasian-wigeon.webp",
-      "description": "Ave de la guía. Se anota en Río. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-eurasian-wigeon.webp"
     },
     {
       "id": "bird-european-shag",
@@ -4371,8 +4210,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 3,
-      "imageUrl": "asset:catalog/images/bird-european-shag.webp",
-      "description": "Ave de la guía. Se anota en Isla del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-european-shag.webp"
     },
     {
       "id": "bird-double-barred-finch",
@@ -4398,8 +4236,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 3,
-      "imageUrl": "asset:catalog/images/bird-double-barred-finch.webp",
-      "description": "Ave de la guía. Se anota en Faro. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-double-barred-finch.webp"
     },
     {
       "id": "bird-king-eider",
@@ -4425,8 +4262,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 3,
-      "imageUrl": "asset:catalog/images/bird-king-eider.webp",
-      "description": "Ave de la guía. Se anota en Río. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-king-eider.webp"
     },
     {
       "id": "bird-audouins-gull",
@@ -4452,8 +4288,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 3,
-      "imageUrl": "asset:catalog/images/bird-audouins-gull.webp",
-      "description": "Ave de la guía. Se anota en Mar de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-audouins-gull.webp"
     },
     {
       "id": "bird-red-and-green-macaw",
@@ -4479,8 +4314,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 3,
-      "imageUrl": "asset:catalog/images/bird-red-and-green-macaw.webp",
-      "description": "Ave de la guía. Se anota en [EVENTO] Nido de las aves. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-red-and-green-macaw.webp"
     },
     {
       "id": "bird-silver-throated-tit",
@@ -4506,8 +4340,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 3,
-      "imageUrl": "asset:catalog/images/bird-silver-throated-tit.webp",
-      "description": "Ave de la guía. Se anota en Plataformas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-silver-throated-tit.webp"
     },
     {
       "id": "bird-eurasian-golden-oriole",
@@ -4533,8 +4366,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 3,
-      "imageUrl": "asset:catalog/images/bird-eurasian-golden-oriole.webp",
-      "description": "Ave de la guía. Se anota en Área Residencial. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-eurasian-golden-oriole.webp"
     },
     {
       "id": "bird-ruddy-shelduck",
@@ -4560,8 +4392,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 3,
-      "imageUrl": "asset:catalog/images/bird-ruddy-shelduck.webp",
-      "description": "Ave de la guía. Se anota en Lago Suburbano. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-ruddy-shelduck.webp"
     },
     {
       "id": "bird-pine-grosbeak",
@@ -4587,8 +4418,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 4,
-      "imageUrl": "asset:catalog/images/bird-pine-grosbeak.webp",
-      "description": "Ave de la guía. Se anota en Isla del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-pine-grosbeak.webp"
     },
     {
       "id": "bird-lady-amherst-pheasant",
@@ -4614,8 +4444,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 4,
-      "imageUrl": "asset:catalog/images/bird-lady-amherst-pheasant.webp",
-      "description": "Ave de la guía. Se anota en Ruinas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-lady-amherst-pheasant.webp"
     },
     {
       "id": "bird-white-wagtail",
@@ -4641,8 +4470,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 4,
-      "imageUrl": "asset:catalog/images/bird-white-wagtail.webp",
-      "description": "Ave de la guía. Se anota en Costa purpura. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-white-wagtail.webp"
     },
     {
       "id": "bird-regent-bowerbird",
@@ -4668,8 +4496,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 4,
-      "imageUrl": "asset:catalog/images/bird-regent-bowerbird.webp",
-      "description": "Ave de la guía. Se anota en Bosque de roble espiritual. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-regent-bowerbird.webp"
     },
     {
       "id": "bird-przevalskis-parrotbill",
@@ -4695,8 +4522,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 4,
-      "imageUrl": "asset:catalog/images/bird-przevalskis-parrotbill.webp",
-      "description": "Ave de la guía. Se anota en Muelle este de pueblo pesquero, Plaza del pueblo pesquero. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-przevalskis-parrotbill.webp"
     },
     {
       "id": "bird-smew",
@@ -4722,8 +4548,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 4,
-      "imageUrl": "asset:catalog/images/bird-smew.webp",
-      "description": "Ave de la guía. Se anota en Lago del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-smew.webp"
     },
     {
       "id": "bird-wallaces-fruit-dove",
@@ -4749,8 +4574,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 4,
-      "imageUrl": "asset:catalog/images/bird-wallaces-fruit-dove.webp",
-      "description": "Ave de la guía. Se anota en Florimolino. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-wallaces-fruit-dove.webp"
     },
     {
       "id": "bird-european-bee-eater",
@@ -4775,8 +4599,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 5,
-      "imageUrl": "asset:catalog/images/bird-european-bee-eater.webp",
-      "description": "Ave de la guía. Se anota en Lago del monte termal. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-european-bee-eater.webp"
     },
     {
       "id": "bird-brown-noddy",
@@ -4802,8 +4625,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 5,
-      "imageUrl": "asset:catalog/images/bird-brown-noddy.webp",
-      "description": "Ave de la guía. Se anota en Mar antiguo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-brown-noddy.webp"
     },
     {
       "id": "bird-lesser-flamingo",
@@ -4828,8 +4650,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 5,
-      "imageUrl": "asset:catalog/images/bird-lesser-flamingo.webp",
-      "description": "Ave de la guía. Se anota en Lago del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-lesser-flamingo.webp"
     },
     {
       "id": "bird-great-green-macaw",
@@ -4854,8 +4675,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 5,
-      "imageUrl": "asset:catalog/images/bird-great-green-macaw.webp",
-      "description": "Ave de la guía. Se anota en [EVENTO] Nido de las aves. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-great-green-macaw.webp"
     },
     {
       "id": "bird-african-olive-pigeon",
@@ -4882,8 +4702,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 5,
-      "imageUrl": "asset:catalog/images/bird-african-olive-pigeon.webp",
-      "description": "Ave de la guía. Se anota en Aguas termales, Lago del monte termal. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-african-olive-pigeon.webp"
     },
     {
       "id": "bird-yellow-bellied-flycatcher",
@@ -4910,8 +4729,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 5,
-      "imageUrl": "asset:catalog/images/bird-yellow-bellied-flycatcher.webp",
-      "description": "Ave de la guía. Se anota en Plaza del pueblo pesquero, Muelle. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-yellow-bellied-flycatcher.webp"
     },
     {
       "id": "bird-long-eared-owl",
@@ -4937,8 +4755,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 6,
-      "imageUrl": "asset:catalog/images/bird-long-eared-owl.webp",
-      "description": "Ave de la guía. Se anota en Acantilado de piedra, Lago del monte termal. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-long-eared-owl.webp"
     },
     {
       "id": "bird-red-faced-cormorant",
@@ -4965,8 +4782,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 6,
-      "imageUrl": "asset:catalog/images/bird-red-faced-cormorant.webp",
-      "description": "Ave de la guía. Se anota en Mar antiguo, Mar de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-red-faced-cormorant.webp"
     },
     {
       "id": "bird-cinnamon-ground-dove",
@@ -4993,8 +4809,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 6,
-      "imageUrl": "asset:catalog/images/bird-cinnamon-ground-dove.webp",
-      "description": "Ave de la guía. Se anota en Muelle este de pueblo pesquero, Plaza del pueblo pesquero. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-cinnamon-ground-dove.webp"
     },
     {
       "id": "bird-hawfinch",
@@ -5021,8 +4836,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 6,
-      "imageUrl": "asset:catalog/images/bird-hawfinch.webp",
-      "description": "Ave de la guía. Se anota en Lago del monte termal, Lago volcánico. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-hawfinch.webp"
     },
     {
       "id": "bird-common-kestrel",
@@ -5047,8 +4861,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 7,
-      "imageUrl": "asset:catalog/images/bird-common-kestrel.webp",
-      "description": "Ave de la guía. Se anota en Torre de cervatillo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-common-kestrel.webp"
     },
     {
       "id": "bird-tern",
@@ -5073,8 +4886,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 7,
-      "imageUrl": "asset:catalog/images/bird-tern.webp",
-      "description": "Ave de la guía. Se anota en Mar oriental, Borde Costero. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-tern.webp"
     },
     {
       "id": "bird-lears-macaw",
@@ -5099,8 +4911,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 7,
-      "imageUrl": "asset:catalog/images/bird-lears-macaw.webp",
-      "description": "Ave de la guía. Se anota en [EVENTO] Nido de las aves. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-lears-macaw.webp"
     },
     {
       "id": "bird-azure-tit",
@@ -5127,8 +4938,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 7,
-      "imageUrl": "asset:catalog/images/bird-azure-tit.webp",
-      "description": "Ave de la guía. Se anota en Florimolino, Lago de la pradera. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-azure-tit.webp"
     },
     {
       "id": "bird-jambu-fruit-dove",
@@ -5154,8 +4964,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 7,
-      "imageUrl": "asset:catalog/images/bird-jambu-fruit-dove.webp",
-      "description": "Ave de la guía. Se anota en Suburbio. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-jambu-fruit-dove.webp"
     },
     {
       "id": "bird-peregrine-falcon",
@@ -5181,8 +4990,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 8,
-      "imageUrl": "asset:catalog/images/bird-peregrine-falcon.webp",
-      "description": "Ave de la guía. Se anota en Acantilado de piedra, Aguas termales. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-peregrine-falcon.webp"
     },
     {
       "id": "bird-eastern-bluebird",
@@ -5207,8 +5015,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 8,
-      "imageUrl": "asset:catalog/images/bird-eastern-bluebird.webp",
-      "description": "Ave de la guía. Se anota en Suburbio. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-eastern-bluebird.webp"
     },
     {
       "id": "bird-pink-pigeon",
@@ -5235,8 +5042,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 8,
-      "imageUrl": "asset:catalog/images/bird-pink-pigeon.webp",
-      "description": "Ave de la guía. Se anota en Monte de ballena, Florimolino. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-pink-pigeon.webp"
     },
     {
       "id": "bird-redpoll",
@@ -5262,8 +5068,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 8,
-      "imageUrl": "asset:catalog/images/bird-redpoll.webp",
-      "description": "Ave de la guía. Se anota en Bosque de roble espiritual. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-redpoll.webp"
     },
     {
       "id": "bird-imperial-shag",
@@ -5290,8 +5095,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 9,
-      "imageUrl": "asset:catalog/images/bird-imperial-shag.webp",
-      "description": "Ave de la guía. Se anota en Mar oriental, Mar susurrante. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-imperial-shag.webp"
     },
     {
       "id": "bird-american-flamingo",
@@ -5315,8 +5119,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 9,
-      "imageUrl": "asset:catalog/images/bird-american-flamingo.webp",
-      "description": "Ave de la guía. Se anota en Costa purpura. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-american-flamingo.webp"
     },
     {
       "id": "bird-white-headed-duck",
@@ -5341,8 +5144,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 9,
-      "imageUrl": "asset:catalog/images/bird-white-headed-duck.webp",
-      "description": "Ave de la guía. Se anota en Lago del monte termal. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-white-headed-duck.webp"
     },
     {
       "id": "bird-green-peafowl",
@@ -5368,8 +5170,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 9,
-      "imageUrl": "asset:catalog/images/bird-green-peafowl.webp",
-      "description": "Ave de la guía. Se anota en [EVENTO] Nido de las aves. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-green-peafowl.webp"
     },
     {
       "id": "bird-paradise-tanager",
@@ -5393,8 +5194,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 9,
-      "imageUrl": "asset:catalog/images/bird-paradise-tanager.webp",
-      "description": "Ave de la guía. Se anota en Suburbio. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-paradise-tanager.webp"
     },
     {
       "id": "bird-eagle-owl",
@@ -5419,8 +5219,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 10,
-      "imageUrl": "asset:catalog/images/bird-eagle-owl.webp",
-      "description": "Ave de la guía. Se anota en Torre de cervatillo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-eagle-owl.webp"
     },
     {
       "id": "bird-azores-bullfinch",
@@ -5444,8 +5243,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 10,
-      "imageUrl": "asset:catalog/images/bird-azores-bullfinch.webp",
-      "description": "Ave de la guía. Se anota en Faro. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-azores-bullfinch.webp"
     },
     {
       "id": "bird-amur-falcon",
@@ -5472,8 +5270,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 10,
-      "imageUrl": "asset:catalog/images/bird-amur-falcon.webp",
-      "description": "Ave de la guía. Se anota en Lago volcánico, Ruinas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-amur-falcon.webp"
     },
     {
       "id": "bird-verditer-flycatcher",
@@ -5497,8 +5294,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 10,
-      "imageUrl": "asset:catalog/images/bird-verditer-flycatcher.webp",
-      "description": "Ave de la guía. Se anota en Plataformas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-verditer-flycatcher.webp"
     },
     {
       "id": "bird-baikal-teal",
@@ -5522,8 +5318,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 11,
-      "imageUrl": "asset:catalog/images/bird-baikal-teal.webp",
-      "description": "Ave de la guía. Se anota en Lago del monte termal. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-baikal-teal.webp"
     },
     {
       "id": "bird-inca-tern",
@@ -5547,8 +5342,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 11,
-      "imageUrl": "asset:catalog/images/bird-inca-tern.webp",
-      "description": "Ave de la guía. Se anota en Mar antiguo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-inca-tern.webp"
     },
     {
       "id": "bird-violet-backed-starling",
@@ -5574,8 +5368,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 11,
-      "imageUrl": "asset:catalog/images/bird-violet-backed-starling.webp",
-      "description": "Ave de la guía. Se anota en Florimolino. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-violet-backed-starling.webp"
     },
     {
       "id": "bird-blue-headed-quail-dove",
@@ -5599,8 +5392,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 11,
-      "imageUrl": "asset:catalog/images/bird-blue-headed-quail-dove.webp",
-      "description": "Ave de la guía. Se anota en Suburbio. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-blue-headed-quail-dove.webp"
     },
     {
       "id": "bird-white-peafowl",
@@ -5626,8 +5418,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 11,
-      "imageUrl": "asset:catalog/images/bird-white-peafowl.webp",
-      "description": "Ave de la guía. Se anota en [EVENTO] Nido de las aves. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-white-peafowl.webp"
     },
     {
       "id": "bird-snowy-owl",
@@ -5651,8 +5442,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 12,
-      "imageUrl": "asset:catalog/images/bird-snowy-owl.webp",
-      "description": "Ave de la guía. Se anota en Bosque de roble espiritual. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-snowy-owl.webp"
     },
     {
       "id": "bird-red-browed-finch",
@@ -5676,8 +5466,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 12,
-      "imageUrl": "asset:catalog/images/bird-red-browed-finch.webp",
-      "description": "Ave de la guía. Se anota en Lago volcánico. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-red-browed-finch.webp"
     },
     {
       "id": "bird-atlantic-puffin",
@@ -5701,8 +5490,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 12,
-      "imageUrl": "asset:catalog/images/bird-atlantic-puffin.webp",
-      "description": "Ave de la guía. Se anota en Mar de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-atlantic-puffin.webp"
     },
     {
       "id": "bird-blue-footed-booby",
@@ -5727,8 +5515,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 12,
-      "imageUrl": "asset:catalog/images/bird-blue-footed-booby.webp",
-      "description": "Ave de la guía. Se anota en Mar susurrante. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-blue-footed-booby.webp"
     },
     {
       "id": "bird-whooper-swan",
@@ -5753,8 +5540,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 13,
-      "imageUrl": "asset:catalog/images/bird-whooper-swan.webp",
-      "description": "Ave de la guía. Se anota en Lago Suburbano. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-whooper-swan.webp"
     },
     {
       "id": "bird-black-swan",
@@ -5779,8 +5565,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 13,
-      "imageUrl": "asset:catalog/images/bird-black-swan.webp",
-      "description": "Ave de la guía. Se anota en Lago Suburbano. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-black-swan.webp"
     },
     {
       "id": "bird-black-peafowl",
@@ -5806,8 +5591,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 13,
-      "imageUrl": "",
-      "description": "Ave de la guía. Se anota en [EVENTO] Nido de las aves. Horario y clima van en los datos, no en este texto."
+      "imageUrl": ""
     },
     {
       "id": "bird-black-stork",
@@ -5832,8 +5616,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 14,
-      "imageUrl": "asset:catalog/images/bird-black-stork.webp",
-      "description": "Ave de la guía. Se anota en Lago de la pradera. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-black-stork.webp"
     },
     {
       "id": "bird-spectacled-owl",
@@ -5857,8 +5640,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 14,
-      "imageUrl": "asset:catalog/images/bird-spectacled-owl.webp",
-      "description": "Ave de la guía. Se anota en Plataformas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-spectacled-owl.webp"
     },
     {
       "id": "bird-wandering-albatross",
@@ -5884,8 +5666,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-wandering-albatross.webp",
-      "description": "Ave de la guía. Se anota en Costa purpura. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-wandering-albatross.webp"
     },
     {
       "id": "bird-grey-mantled-albatross",
@@ -5911,8 +5692,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-grey-mantled-albatross.webp",
-      "description": "Ave de la guía. Se anota en Acantilado de piedra. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-grey-mantled-albatross.webp"
     },
     {
       "id": "bird-white-spoonbill",
@@ -5938,8 +5718,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-white-spoonbill.webp",
-      "description": "Ave de la guía. Se anota en Lago del monte termal. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-white-spoonbill.webp"
     },
     {
       "id": "bird-roseate-spoonbill",
@@ -5965,8 +5744,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-roseate-spoonbill.webp",
-      "description": "Ave de la guía. Se anota en Evento de Ave extraviada. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-roseate-spoonbill.webp"
     },
     {
       "id": "bird-white-winged-tern",
@@ -5992,8 +5770,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-white-winged-tern.webp",
-      "description": "Ave de la guía. Se anota en Monte de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-white-winged-tern.webp"
     },
     {
       "id": "bird-pomarine-skua",
@@ -6021,8 +5798,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-pomarine-skua.webp",
-      "description": "Ave de la guía. Se anota en Monte de ballena, Florimolino, Costa purpura. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-pomarine-skua.webp"
     },
     {
       "id": "bird-blue-hoopoe",
@@ -6048,8 +5824,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-blue-hoopoe.webp",
-      "description": "Ave de la guía. Se anota en Aguas termales. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-blue-hoopoe.webp"
     },
     {
       "id": "bird-colorful-hoopoe",
@@ -6075,8 +5850,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-colorful-hoopoe.webp",
-      "description": "Ave de la guía. Se anota en Evento de abubillas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-colorful-hoopoe.webp"
     },
     {
       "id": "bird-orange-hoopoe",
@@ -6102,8 +5876,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-orange-hoopoe.webp",
-      "description": "Ave de la guía. Se anota en Acantilado de piedra. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-orange-hoopoe.webp"
     },
     {
       "id": "bird-red-hoopoe",
@@ -6129,8 +5902,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-red-hoopoe.webp",
-      "description": "Ave de la guía. Se anota en Ruinas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-red-hoopoe.webp"
     },
     {
       "id": "bird-green-hoopoe",
@@ -6156,8 +5928,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-green-hoopoe.webp",
-      "description": "Ave de la guía. Se anota en Lago volcánico. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-green-hoopoe.webp"
     },
     {
       "id": "bird-blue-brick-sparrow",
@@ -6183,8 +5954,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-blue-brick-sparrow.webp",
-      "description": "Ave de la guía. Se anota en Aguas termales. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-blue-brick-sparrow.webp"
     },
     {
       "id": "bird-purple-brick-sparrow",
@@ -6210,8 +5980,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-purple-brick-sparrow.webp",
-      "description": "Ave de la guía. Se anota en Ruinas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-purple-brick-sparrow.webp"
     },
     {
       "id": "bird-colorful-brick-sparrow",
@@ -6237,8 +6006,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-colorful-brick-sparrow.webp",
-      "description": "Ave de la guía. Se anota en Evento especial de aves de bloques. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-colorful-brick-sparrow.webp"
     },
     {
       "id": "bird-pink-brick-sparrow",
@@ -6264,8 +6032,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-pink-brick-sparrow.webp",
-      "description": "Ave de la guía. Se anota en Acantilado de piedra. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-pink-brick-sparrow.webp"
     },
     {
       "id": "bird-green-brick-sparrow",
@@ -6291,8 +6058,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-green-brick-sparrow.webp",
-      "description": "Ave de la guía. Se anota en Lago volcánico. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-green-brick-sparrow.webp"
     },
     {
       "id": "bird-blue-suit-dove",
@@ -6319,8 +6085,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-blue-suit-dove.webp",
-      "description": "Ave de la guía. Se anota en Bosque de roble espiritual, [EVENTO] Paloma Actriz. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-blue-suit-dove.webp"
     },
     {
       "id": "bird-gray-suit-dove",
@@ -6347,8 +6112,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-gray-suit-dove.webp",
-      "description": "Ave de la guía. Se anota en Torre de cervatillo, [EVENTO] Paloma Actriz. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-gray-suit-dove.webp"
     },
     {
       "id": "bird-striped-suit-dove",
@@ -6374,8 +6138,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-striped-suit-dove.webp",
-      "description": "Ave de la guía. Se anota en [EVENTO] Paloma Actriz. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-striped-suit-dove.webp"
     },
     {
       "id": "bird-red-suit-dove",
@@ -6402,8 +6165,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-red-suit-dove.webp",
-      "description": "Ave de la guía. Se anota en Isla del bosque, [EVENTO] Paloma Actriz. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-red-suit-dove.webp"
     },
     {
       "id": "bird-green-suit-dove",
@@ -6430,8 +6192,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-green-suit-dove.webp",
-      "description": "Ave de la guía. Se anota en Plataformas, [EVENTO] Paloma Actriz. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-green-suit-dove.webp"
     },
     {
       "id": "bird-winter-mallard",
@@ -6458,8 +6219,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-winter-mallard.webp",
-      "description": "Ave de la guía. Se anota en [EVENTO] Recolección Invernal, Lago Suburbano. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-winter-mallard.webp"
     },
     {
       "id": "bird-winter-greater-flamingo",
@@ -6486,8 +6246,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-winter-greater-flamingo.webp",
-      "description": "Ave de la guía. Se anota en [EVENTO] Recolección Invernal, Lago Suburbano. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-winter-greater-flamingo.webp"
     },
     {
       "id": "bird-winter-mandarin-duck",
@@ -6513,8 +6272,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-winter-mandarin-duck.webp",
-      "description": "Ave de la guía. Se anota en [EVENTO] Recolección Invernal. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-winter-mandarin-duck.webp"
     },
     {
       "id": "bird-winter-smew",
@@ -6541,8 +6299,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-winter-smew.webp",
-      "description": "Ave de la guía. Se anota en [EVENTO] Recolección Invernal, Lago Suburbano. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-winter-smew.webp"
     },
     {
       "id": "bird-winter-eurasian-wigeon",
@@ -6569,8 +6326,7 @@
       "sourceUrl": "https://www.heartodex.com/aves/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/bird-winter-eurasian-wigeon.webp",
-      "description": "Ave de la guía. Se anota en [EVENTO] Recolección Invernal, Lago Suburbano. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/bird-winter-eurasian-wigeon.webp"
     },
     {
       "id": "insect-pumpkin-dung-beetle",
@@ -6596,8 +6352,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-pumpkin-dung-beetle.webp",
-      "description": "Insecto de la guía. Se anota en Bosque de roble espiritual. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-pumpkin-dung-beetle.webp"
     },
     {
       "id": "insect-strawberry-dung-beetle",
@@ -6623,8 +6378,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-strawberry-dung-beetle.webp",
-      "description": "Insecto de la guía. Se anota en Torre de cervatillo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-strawberry-dung-beetle.webp"
     },
     {
       "id": "insect-mandarin-dung-beetle",
@@ -6650,8 +6404,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-mandarin-dung-beetle.webp",
-      "description": "Insecto de la guía. Se anota en Bosque de roble espiritual. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-mandarin-dung-beetle.webp"
     },
     {
       "id": "insect-shiitake-dung-beetle",
@@ -6677,8 +6430,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-shiitake-dung-beetle.webp",
-      "description": "Insecto de la guía. Se anota en Plataformas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-shiitake-dung-beetle.webp"
     },
     {
       "id": "insect-truffle-dung-beetle",
@@ -6704,8 +6456,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-truffle-dung-beetle.webp",
-      "description": "Insecto de la guía. Se anota en Evento de mutación de escarabajo pelotero. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-truffle-dung-beetle.webp"
     },
     {
       "id": "insect-cabbage-white",
@@ -6732,8 +6483,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-cabbage-white.webp",
-      "description": "Insecto de la guía. Se anota en Muelle este de pueblo pesquero, Plaza del pueblo pesquero. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-cabbage-white.webp"
     },
     {
       "id": "insect-large-red-damselfly",
@@ -6760,8 +6510,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-large-red-damselfly.webp",
-      "description": "Insecto de la guía. Se anota en Lago, Río. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-large-red-damselfly.webp"
     },
     {
       "id": "insect-european-firebug",
@@ -6787,8 +6536,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-european-firebug.webp",
-      "description": "Insecto de la guía. Se anota en Área Residencial. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-european-firebug.webp"
     },
     {
       "id": "insect-asparagus-beetle",
@@ -6814,8 +6562,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-asparagus-beetle.webp",
-      "description": "Insecto de la guía. Se anota en Florimolino. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-asparagus-beetle.webp"
     },
     {
       "id": "insect-gold-grasshopper",
@@ -6841,8 +6588,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-gold-grasshopper.webp",
-      "description": "Insecto de la guía. Se anota en Lago del monte termal. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-gold-grasshopper.webp"
     },
     {
       "id": "insect-apollo",
@@ -6868,8 +6614,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-apollo.webp",
-      "description": "Insecto de la guía. Se anota en [EVENTO] Atraer Bichos. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-apollo.webp"
     },
     {
       "id": "insect-orange-tip",
@@ -6895,8 +6640,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-orange-tip.webp",
-      "description": "Insecto de la guía. Se anota en Plaza central. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-orange-tip.webp"
     },
     {
       "id": "insect-common-brimstone",
@@ -6922,8 +6666,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-common-brimstone.webp",
-      "description": "Insecto de la guía. Se anota en Suburbio. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-common-brimstone.webp"
     },
     {
       "id": "insect-old-world-swallowtail",
@@ -6951,8 +6694,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-old-world-swallowtail.webp",
-      "description": "Insecto de la guía. Se anota en Bosque de roble espiritual, Torre de cervatillo, Lago del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-old-world-swallowtail.webp"
     },
     {
       "id": "insect-postman-butterfly",
@@ -6978,8 +6720,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-postman-butterfly.webp",
-      "description": "Insecto de la guía. Se anota en [EVENTO] Atraer Bichos. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-postman-butterfly.webp"
     },
     {
       "id": "insect-sulkowskys-morpho",
@@ -7005,8 +6746,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-sulkowskys-morpho.webp",
-      "description": "Insecto de la guía. Se anota en Atraeinsectos de abeja hinchable. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-sulkowskys-morpho.webp"
     },
     {
       "id": "insect-bumblebee",
@@ -7032,8 +6772,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 2,
-      "imageUrl": "asset:catalog/images/insect-bumblebee.webp",
-      "description": "Insecto de la guía. Se anota en Florimolino. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-bumblebee.webp"
     },
     {
       "id": "insect-green-tiger-beetle",
@@ -7062,8 +6801,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 2,
-      "imageUrl": "asset:catalog/images/insect-green-tiger-beetle.webp",
-      "description": "Insecto de la guía. Se anota en Aguas termales, Lago del monte termal, Lago volcánico, Ruinas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-green-tiger-beetle.webp"
     },
     {
       "id": "insect-wasp-beetle",
@@ -7090,8 +6828,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 2,
-      "imageUrl": "asset:catalog/images/insect-wasp-beetle.webp",
-      "description": "Insecto de la guía. Se anota en Bosque de roble espiritual, Lago del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-wasp-beetle.webp"
     },
     {
       "id": "insect-amethyst-flower-beetle",
@@ -7116,8 +6853,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 2,
-      "imageUrl": "asset:catalog/images/insect-amethyst-flower-beetle.webp",
-      "description": "Insecto de la guía. Se anota en Área Residencial. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-amethyst-flower-beetle.webp"
     },
     {
       "id": "insect-siberian-grasshopper",
@@ -7144,8 +6880,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 2,
-      "imageUrl": "asset:catalog/images/insect-siberian-grasshopper.webp",
-      "description": "Insecto de la guía. Se anota en Muelle este de pueblo pesquero, Plaza del pueblo pesquero. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-siberian-grasshopper.webp"
     },
     {
       "id": "insect-four-spotted-skimmer",
@@ -7170,8 +6905,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 2,
-      "imageUrl": "asset:catalog/images/insect-four-spotted-skimmer.webp",
-      "description": "Insecto de la guía. Se anota en Lago Suburbano. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-four-spotted-skimmer.webp"
     },
     {
       "id": "insect-common-blue-butterfly",
@@ -7200,8 +6934,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 2,
-      "imageUrl": "asset:catalog/images/insect-common-blue-butterfly.webp",
-      "description": "Insecto de la guía. Se anota en Plaza central, Calle artistica, Calle jardin, Calle residencial. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-common-blue-butterfly.webp"
     },
     {
       "id": "insect-seven-spotted-ladybug",
@@ -7226,8 +6959,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 2,
-      "imageUrl": "asset:catalog/images/insect-seven-spotted-ladybug.webp",
-      "description": "Insecto de la guía. Se anota en Suburbio. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-seven-spotted-ladybug.webp"
     },
     {
       "id": "insect-waroona-cuckoo-bee",
@@ -7252,8 +6984,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 3,
-      "imageUrl": "asset:catalog/images/insect-waroona-cuckoo-bee.webp",
-      "description": "Insecto de la guía. Se anota en Torre de cervatillo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-waroona-cuckoo-bee.webp"
     },
     {
       "id": "insect-fire-colored-beetle",
@@ -7282,8 +7013,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 3,
-      "imageUrl": "asset:catalog/images/insect-fire-colored-beetle.webp",
-      "description": "Insecto de la guía. Se anota en Aguas termales, Lago del monte termal, Lago volcánico, Ruinas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-fire-colored-beetle.webp"
     },
     {
       "id": "insect-ant",
@@ -7309,8 +7039,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 3,
-      "imageUrl": "asset:catalog/images/insect-ant.webp",
-      "description": "Insecto de la guía. Se anota en Plaza del pueblo pesquero. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-ant.webp"
     },
     {
       "id": "insect-rajah-brookes-birdwing",
@@ -7335,8 +7064,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 3,
-      "imageUrl": "asset:catalog/images/insect-rajah-brookes-birdwing.webp",
-      "description": "Insecto de la guía. Se anota en Área Residencial. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-rajah-brookes-birdwing.webp"
     },
     {
       "id": "insect-purple-emperor",
@@ -7360,8 +7088,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 3,
-      "imageUrl": "asset:catalog/images/insect-purple-emperor.webp",
-      "description": "Insecto de la guía. Se anota en Monte de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-purple-emperor.webp"
     },
     {
       "id": "insect-mini-moon-moth",
@@ -7385,8 +7112,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 3,
-      "imageUrl": "asset:catalog/images/insect-mini-moon-moth.webp",
-      "description": "Insecto de la guía. Se anota en Suburbio. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-mini-moon-moth.webp"
     },
     {
       "id": "insect-katydid",
@@ -7412,8 +7138,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 3,
-      "imageUrl": "asset:catalog/images/insect-katydid.webp",
-      "description": "Insecto de la guía. Se anota en Costa purpura. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-katydid.webp"
     },
     {
       "id": "insect-pink-katydid",
@@ -7439,8 +7164,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 3,
-      "imageUrl": "asset:catalog/images/insect-pink-katydid.webp",
-      "description": "Insecto de la guía. Se anota en [EVENTO] Atraer Bichos. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-pink-katydid.webp"
     },
     {
       "id": "insect-cicada",
@@ -7465,8 +7189,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 4,
-      "imageUrl": "asset:catalog/images/insect-cicada.webp",
-      "description": "Insecto de la guía. Se anota en Bosque de roble espiritual. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-cicada.webp"
     },
     {
       "id": "insect-large-banded-grasshopper",
@@ -7490,8 +7213,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 4,
-      "imageUrl": "asset:catalog/images/insect-large-banded-grasshopper.webp",
-      "description": "Insecto de la guía. Se anota en Suburbio. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-large-banded-grasshopper.webp"
     },
     {
       "id": "insect-common-whitetail",
@@ -7516,8 +7238,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 4,
-      "imageUrl": "asset:catalog/images/insect-common-whitetail.webp",
-      "description": "Insecto de la guía. Se anota en Río. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-common-whitetail.webp"
     },
     {
       "id": "insect-mediterranean-mantis",
@@ -7541,8 +7262,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 4,
-      "imageUrl": "asset:catalog/images/insect-mediterranean-mantis.webp",
-      "description": "Insecto de la guía. Se anota en Acantilado de piedra. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-mediterranean-mantis.webp"
     },
     {
       "id": "insect-beautiful-leopard",
@@ -7566,8 +7286,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 4,
-      "imageUrl": "asset:catalog/images/insect-beautiful-leopard.webp",
-      "description": "Insecto de la guía. Se anota en Muelle. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-beautiful-leopard.webp"
     },
     {
       "id": "insect-four-spotted-ladybug",
@@ -7592,8 +7311,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 4,
-      "imageUrl": "asset:catalog/images/insect-four-spotted-ladybug.webp",
-      "description": "Insecto de la guía. Se anota en Lago volcánico. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-four-spotted-ladybug.webp"
     },
     {
       "id": "insect-splay-footed-carpenter",
@@ -7618,8 +7336,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 5,
-      "imageUrl": "asset:catalog/images/insect-splay-footed-carpenter.webp",
-      "description": "Insecto de la guía. Se anota en Monte de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-splay-footed-carpenter.webp"
     },
     {
       "id": "insect-alpine-longhorn-beetle",
@@ -7643,8 +7360,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 5,
-      "imageUrl": "asset:catalog/images/insect-alpine-longhorn-beetle.webp",
-      "description": "Insecto de la guía. Se anota en Isla del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-alpine-longhorn-beetle.webp"
     },
     {
       "id": "insect-giant-asian-mantis",
@@ -7669,8 +7385,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 5,
-      "imageUrl": "asset:catalog/images/insect-giant-asian-mantis.webp",
-      "description": "Insecto de la guía. Se anota en Ruinas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-giant-asian-mantis.webp"
     },
     {
       "id": "insect-mourning-cloak",
@@ -7694,8 +7409,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 5,
-      "imageUrl": "asset:catalog/images/insect-mourning-cloak.webp",
-      "description": "Insecto de la guía. Se anota en Aguas termales. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-mourning-cloak.webp"
     },
     {
       "id": "insect-white-witch",
@@ -7720,8 +7434,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 5,
-      "imageUrl": "asset:catalog/images/insect-white-witch.webp",
-      "description": "Insecto de la guía. Se anota en [EVENTO] Atraer Bichos. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-white-witch.webp"
     },
     {
       "id": "insect-peacock-butterfly",
@@ -7747,8 +7460,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 5,
-      "imageUrl": "asset:catalog/images/insect-peacock-butterfly.webp",
-      "description": "Insecto de la guía. Se anota en Florimolino. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-peacock-butterfly.webp"
     },
     {
       "id": "insect-asian-lady-beetle",
@@ -7773,8 +7485,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 5,
-      "imageUrl": "asset:catalog/images/insect-asian-lady-beetle.webp",
-      "description": "Insecto de la guía. Se anota en Torre de cervatillo, Lago del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-asian-lady-beetle.webp"
     },
     {
       "id": "insect-beautiful-demoiselle",
@@ -7799,8 +7510,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 6,
-      "imageUrl": "asset:catalog/images/insect-beautiful-demoiselle.webp",
-      "description": "Insecto de la guía. Se anota en Lago del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-beautiful-demoiselle.webp"
     },
     {
       "id": "insect-blue-shieldbug",
@@ -7824,8 +7534,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 6,
-      "imageUrl": "asset:catalog/images/insect-blue-shieldbug.webp",
-      "description": "Insecto de la guía. Se anota en Faro. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-blue-shieldbug.webp"
     },
     {
       "id": "insect-silver-jewel-scarab",
@@ -7849,8 +7558,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 6,
-      "imageUrl": "asset:catalog/images/insect-silver-jewel-scarab.webp",
-      "description": "Insecto de la guía. Se anota en Acantilado de piedra. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-silver-jewel-scarab.webp"
     },
     {
       "id": "insect-stag-beetle",
@@ -7874,8 +7582,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 6,
-      "imageUrl": "asset:catalog/images/insect-stag-beetle.webp",
-      "description": "Insecto de la guía. Se anota en Plataformas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-stag-beetle.webp"
     },
     {
       "id": "insect-green-birdwing",
@@ -7899,8 +7606,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 6,
-      "imageUrl": "asset:catalog/images/insect-green-birdwing.webp",
-      "description": "Insecto de la guía. Se anota en Suburbio. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-green-birdwing.webp"
     },
     {
       "id": "insect-golden-jewel-scarab",
@@ -7923,8 +7629,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 7,
-      "imageUrl": "asset:catalog/images/insect-golden-jewel-scarab.webp",
-      "description": "Insecto de la guía. Se anota en Plataformas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-golden-jewel-scarab.webp"
     },
     {
       "id": "insect-elegant-flower-beetle",
@@ -7947,8 +7652,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 7,
-      "imageUrl": "asset:catalog/images/insect-elegant-flower-beetle.webp",
-      "description": "Insecto de la guía. Se anota en Monte de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-elegant-flower-beetle.webp"
     },
     {
       "id": "insect-minotaur-beetle",
@@ -7973,8 +7677,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 7,
-      "imageUrl": "asset:catalog/images/insect-minotaur-beetle.webp",
-      "description": "Insecto de la guía. Se anota en Ruinas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-minotaur-beetle.webp"
     },
     {
       "id": "insect-crimson-marsh-glider",
@@ -7997,8 +7700,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 7,
-      "imageUrl": "asset:catalog/images/insect-crimson-marsh-glider.webp",
-      "description": "Insecto de la guía. Se anota en Lago del monte termal. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-crimson-marsh-glider.webp"
     },
     {
       "id": "insect-blue-morpho",
@@ -8022,8 +7724,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 7,
-      "imageUrl": "asset:catalog/images/insect-blue-morpho.webp",
-      "description": "Insecto de la guía. Se anota en Bosque de roble espiritual. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-blue-morpho.webp"
     },
     {
       "id": "insect-chestnut-tiger",
@@ -8048,8 +7749,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 7,
-      "imageUrl": "asset:catalog/images/insect-chestnut-tiger.webp",
-      "description": "Insecto de la guía. Se anota en [EVENTO] Atraer Bichos. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-chestnut-tiger.webp"
     },
     {
       "id": "insect-picasso-bug",
@@ -8072,8 +7772,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 8,
-      "imageUrl": "asset:catalog/images/insect-picasso-bug.webp",
-      "description": "Insecto de la guía. Se anota en Costa purpura. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-picasso-bug.webp"
     },
     {
       "id": "insect-horned-beetle",
@@ -8096,8 +7795,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 8,
-      "imageUrl": "asset:catalog/images/insect-horned-beetle.webp",
-      "description": "Insecto de la guía. Se anota en Muelle este de pueblo pesquero. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-horned-beetle.webp"
     },
     {
       "id": "insect-spanish-moon-moth",
@@ -8120,8 +7818,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 8,
-      "imageUrl": "asset:catalog/images/insect-spanish-moon-moth.webp",
-      "description": "Insecto de la guía. Se anota en Bosque de roble espiritual. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-spanish-moon-moth.webp"
     },
     {
       "id": "insect-comet-moth",
@@ -8144,8 +7841,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 8,
-      "imageUrl": "asset:catalog/images/insect-comet-moth.webp",
-      "description": "Insecto de la guía. Se anota en Suburbio. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-comet-moth.webp"
     },
     {
       "id": "insect-cerulean-carpenter",
@@ -8167,8 +7863,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 9,
-      "imageUrl": "asset:catalog/images/insect-cerulean-carpenter.webp",
-      "description": "Insecto de la guía. Se anota en Plaza del pueblo pesquero. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-cerulean-carpenter.webp"
     },
     {
       "id": "insect-rainbow-stag-beetle",
@@ -8195,8 +7890,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 9,
-      "imageUrl": "asset:catalog/images/insect-rainbow-stag-beetle.webp",
-      "description": "Insecto de la guía. Se anota en [EVENTO] Atraer Bichos, Ruinas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-rainbow-stag-beetle.webp"
     },
     {
       "id": "insect-golden-stag-beetle",
@@ -8219,8 +7913,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 9,
-      "imageUrl": "asset:catalog/images/insect-golden-stag-beetle.webp",
-      "description": "Insecto de la guía. Se anota en Bosque de roble espiritual. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-golden-stag-beetle.webp"
     },
     {
       "id": "insect-conehead-mantis",
@@ -8243,8 +7936,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 9,
-      "imageUrl": "asset:catalog/images/insect-conehead-mantis.webp",
-      "description": "Insecto de la guía. Se anota en Ruinas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-conehead-mantis.webp"
     },
     {
       "id": "insect-mother-of-pearl",
@@ -8267,8 +7959,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 9,
-      "imageUrl": "asset:catalog/images/insect-mother-of-pearl.webp",
-      "description": "Insecto de la guía. Se anota en Florimolino. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-mother-of-pearl.webp"
     },
     {
       "id": "insect-hercules-beetle",
@@ -8292,8 +7983,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 10,
-      "imageUrl": "asset:catalog/images/insect-hercules-beetle.webp",
-      "description": "Insecto de la guía. Se anota en Lago del monte termal, Lago volcánico. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-hercules-beetle.webp"
     },
     {
       "id": "insect-sunset-morpho",
@@ -8315,8 +8005,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 10,
-      "imageUrl": "asset:catalog/images/insect-sunset-morpho.webp",
-      "description": "Insecto de la guía. Se anota en Torre de cervatillo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-sunset-morpho.webp"
     },
     {
       "id": "insect-morpho-helena",
@@ -8338,8 +8027,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 10,
-      "imageUrl": "asset:catalog/images/insect-morpho-helena.webp",
-      "description": "Insecto de la guía. Se anota en Costa purpura. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-morpho-helena.webp"
     },
     {
       "id": "insect-bagworm-moth",
@@ -8362,8 +8050,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 10,
-      "imageUrl": "asset:catalog/images/insect-bagworm-moth.webp",
-      "description": "Insecto de la guía. Se anota en Torre de cervatillo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-bagworm-moth.webp"
     },
     {
       "id": "insect-atlas-beetle",
@@ -8386,8 +8073,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 11,
-      "imageUrl": "asset:catalog/images/insect-atlas-beetle.webp",
-      "description": "Insecto de la guía. Se anota en Bosque de roble espiritual. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-atlas-beetle.webp"
     },
     {
       "id": "insect-orchid-mantis",
@@ -8410,8 +8096,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 11,
-      "imageUrl": "asset:catalog/images/insect-orchid-mantis.webp",
-      "description": "Insecto de la guía. Se anota en Ruinas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-orchid-mantis.webp"
     },
     {
       "id": "insect-queen-alexandras-birdwing",
@@ -8434,8 +8119,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 11,
-      "imageUrl": "asset:catalog/images/insect-queen-alexandras-birdwing.webp",
-      "description": "Insecto de la guía. Se anota en Lago Suburbano. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-queen-alexandras-birdwing.webp"
     },
     {
       "id": "insect-greater-asian-lady-beetle",
@@ -8457,8 +8141,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 11,
-      "imageUrl": "asset:catalog/images/insect-greater-asian-lady-beetle.webp",
-      "description": "Insecto de la guía. Se anota en Monte de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-greater-asian-lady-beetle.webp"
     },
     {
       "id": "insect-goliath-beetle",
@@ -8480,8 +8163,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 12,
-      "imageUrl": "asset:catalog/images/insect-goliath-beetle.webp",
-      "description": "Insecto de la guía. Se anota en Torre de cervatillo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-goliath-beetle.webp"
     },
     {
       "id": "insect-red-milkweed-locust",
@@ -8504,8 +8186,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 12,
-      "imageUrl": "asset:catalog/images/insect-red-milkweed-locust.webp",
-      "description": "Insecto de la guía. Se anota en Lago del monte termal. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-red-milkweed-locust.webp"
     },
     {
       "id": "insect-flamer-skimmer",
@@ -8527,8 +8208,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 12,
-      "imageUrl": "asset:catalog/images/insect-flamer-skimmer.webp",
-      "description": "Insecto de la guía. Se anota en Lago de la pradera. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-flamer-skimmer.webp"
     },
     {
       "id": "insect-purple-spotted-swallowtail",
@@ -8552,8 +8232,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 12,
-      "imageUrl": "asset:catalog/images/insect-purple-spotted-swallowtail.webp",
-      "description": "Insecto de la guía. Se anota en Florimolino. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-purple-spotted-swallowtail.webp"
     },
     {
       "id": "insect-scarce-morpho",
@@ -8575,8 +8254,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 13,
-      "imageUrl": "asset:catalog/images/insect-scarce-morpho.webp",
-      "description": "Insecto de la guía. Se anota en Lago volcánico. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-scarce-morpho.webp"
     },
     {
       "id": "insect-green-metalwing",
@@ -8599,8 +8277,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 13,
-      "imageUrl": "asset:catalog/images/insect-green-metalwing.webp",
-      "description": "Insecto de la guía. Se anota en Lago Suburbano. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-green-metalwing.webp"
     },
     {
       "id": "insect-green-snail",
@@ -8625,8 +8302,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 14,
-      "imageUrl": "asset:catalog/images/insect-green-snail.webp",
-      "description": "Insecto de la guía. Se anota en Isla del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-green-snail.webp"
     },
     {
       "id": "insect-glasswing-butterfly",
@@ -8648,8 +8324,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 14,
-      "imageUrl": "asset:catalog/images/insect-glasswing-butterfly.webp",
-      "description": "Insecto de la guía. Se anota en Monte de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-glasswing-butterfly.webp"
     },
     {
       "id": "insect-white-banded-erebus-moth",
@@ -8675,8 +8350,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-white-banded-erebus-moth.webp",
-      "description": "Insecto de la guía. Se anota en Bosque de roble espiritual. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-white-banded-erebus-moth.webp"
     },
     {
       "id": "insect-blue-milkweed-beetle",
@@ -8702,8 +8376,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-blue-milkweed-beetle.webp",
-      "description": "Insecto de la guía. Se anota en Isla del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-blue-milkweed-beetle.webp"
     },
     {
       "id": "insect-agrias-butterfly",
@@ -8729,8 +8402,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-agrias-butterfly.webp",
-      "description": "Insecto de la guía. Se anota en Plataformas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-agrias-butterfly.webp"
     },
     {
       "id": "insect-morpho-luna",
@@ -8756,8 +8428,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-morpho-luna.webp",
-      "description": "Insecto de la guía. Se anota en Evento del insecto perdido. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-morpho-luna.webp"
     },
     {
       "id": "insect-green-flower-chafer",
@@ -8783,8 +8454,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "",
-      "description": "Insecto de la guía. Se anota en Torre de cervatillo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": ""
     },
     {
       "id": "insect-brown-rhinoceros-beetle",
@@ -8810,8 +8480,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-brown-rhinoceros-beetle.webp",
-      "description": "Insecto de la guía. Se anota en Ruinas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-brown-rhinoceros-beetle.webp"
     },
     {
       "id": "insect-iridescent-rhinoceros-beetle",
@@ -8837,8 +8506,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "",
-      "description": "Insecto de la guía. Se anota en Evento de escarabajos coloridos. Horario y clima van en los datos, no en este texto."
+      "imageUrl": ""
     },
     {
       "id": "insect-grey-horned-firefly",
@@ -8864,8 +8532,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-grey-horned-firefly.webp",
-      "description": "Insecto de la guía. Se anota en Florimolino. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-grey-horned-firefly.webp"
     },
     {
       "id": "insect-purple-horned-firefly",
@@ -8891,8 +8558,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-purple-horned-firefly.webp",
-      "description": "Insecto de la guía. Se anota en Monte de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-purple-horned-firefly.webp"
     },
     {
       "id": "insect-pink-horned-firefly",
@@ -8918,8 +8584,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-pink-horned-firefly.webp",
-      "description": "Insecto de la guía. Se anota en Costa purpura. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-pink-horned-firefly.webp"
     },
     {
       "id": "insect-yellow-brick-large-red-damselfly",
@@ -8945,8 +8610,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-yellow-brick-large-red-damselfly.webp",
-      "description": "Insecto de la guía. Se anota en Bosque de roble espiritual. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-yellow-brick-large-red-damselfly.webp"
     },
     {
       "id": "insect-blue-brick-large-red-damselfly",
@@ -8972,8 +8636,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-blue-brick-large-red-damselfly.webp",
-      "description": "Insecto de la guía. Se anota en Torre de cervatillo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-blue-brick-large-red-damselfly.webp"
     },
     {
       "id": "insect-purple-brick-large-red-damselfly",
@@ -8999,8 +8662,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-purple-brick-large-red-damselfly.webp",
-      "description": "Insecto de la guía. Se anota en Isla del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-purple-brick-large-red-damselfly.webp"
     },
     {
       "id": "insect-colorful-brick-large-red-damselfly",
@@ -9026,8 +8688,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-colorful-brick-large-red-damselfly.webp",
-      "description": "Insecto de la guía. Se anota en Evento especial de bichos de bloques. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-colorful-brick-large-red-damselfly.webp"
     },
     {
       "id": "insect-pink-brick-large-red-damselfly",
@@ -9053,8 +8714,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-pink-brick-large-red-damselfly.webp",
-      "description": "Insecto de la guía. Se anota en Plataformas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-pink-brick-large-red-damselfly.webp"
     },
     {
       "id": "insect-golden-script-supervisor-bumblebee",
@@ -9080,8 +8740,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-golden-script-supervisor-bumblebee.webp",
-      "description": "Insecto de la guía. Se anota en [EVENTO] Avispa Continuista. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-golden-script-supervisor-bumblebee.webp"
     },
     {
       "id": "insect-purple-script-supervisor-bumblebee",
@@ -9107,8 +8766,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-purple-script-supervisor-bumblebee.webp",
-      "description": "Insecto de la guía. Se anota en Florimolino. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-purple-script-supervisor-bumblebee.webp"
     },
     {
       "id": "insect-red-script-supervisor-bumblebee",
@@ -9134,8 +8792,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-red-script-supervisor-bumblebee.webp",
-      "description": "Insecto de la guía. Se anota en Monte de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-red-script-supervisor-bumblebee.webp"
     },
     {
       "id": "insect-pink-script-supervisor-bumblebee",
@@ -9161,8 +8818,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-pink-script-supervisor-bumblebee.webp",
-      "description": "Insecto de la guía. Se anota en Florimolino. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-pink-script-supervisor-bumblebee.webp"
     },
     {
       "id": "insect-green-script-supervisor-bumblebee",
@@ -9188,8 +8844,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-green-script-supervisor-bumblebee.webp",
-      "description": "Insecto de la guía. Se anota en Costa purpura. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-green-script-supervisor-bumblebee.webp"
     },
     {
       "id": "insect-frostspore-queen-alexandras-birdwing",
@@ -9216,8 +8871,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-frostspore-queen-alexandras-birdwing.webp",
-      "description": "Insecto de la guía. Se anota en [EVENTO] Mariposas de Cristal Nevado, Torre de cervatillo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-frostspore-queen-alexandras-birdwing.webp"
     },
     {
       "id": "insect-frostspore-postman-butterfly",
@@ -9243,8 +8897,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-frostspore-postman-butterfly.webp",
-      "description": "Insecto de la guía. Se anota en [EVENTO] Mariposas de Cristal Nevado. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-frostspore-postman-butterfly.webp"
     },
     {
       "id": "insect-frostspore-purple-spotted-swallowtail",
@@ -9271,8 +8924,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-frostspore-purple-spotted-swallowtail.webp",
-      "description": "Insecto de la guía. Se anota en Bosque de roble espiritual, [EVENTO] Mariposas de Cristal Nevado. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-frostspore-purple-spotted-swallowtail.webp"
     },
     {
       "id": "insect-frostspore-mother-of-pearl",
@@ -9300,8 +8952,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-frostspore-mother-of-pearl.webp",
-      "description": "Insecto de la guía. Se anota en Bosque de roble espiritual, [EVENTO] Mariposas de Cristal Nevado, Plataformas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-frostspore-mother-of-pearl.webp"
     },
     {
       "id": "insect-frostspore-sulkowskys-morpho",
@@ -9330,8 +8981,7 @@
       "sourceUrl": "https://www.heartodex.com/insectos/",
       "extractedOn": "2026-11-07",
       "level": 1,
-      "imageUrl": "asset:catalog/images/insect-frostspore-sulkowskys-morpho.webp",
-      "description": "Insecto de la guía. Se anota en Bosque de roble espiritual, [EVENTO] Mariposas de Cristal Nevado, Torre de cervatillo, Lago del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/insect-frostspore-sulkowskys-morpho.webp"
     },
     {
       "id": "wildlife-alpaca",
@@ -9349,8 +8999,7 @@
       "source": "heartodex",
       "sourceUrl": "https://www.heartodex.com/animales-salvajes/",
       "extractedOn": "2026-11-07",
-      "imageUrl": "asset:catalog/images/wildlife-alpaca.webp",
-      "description": "Animal de la guía. Se anota en Costa purpura. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/wildlife-alpaca.webp"
     },
     {
       "id": "wildlife-capybara",
@@ -9370,8 +9019,7 @@
       "source": "heartodex",
       "sourceUrl": "https://www.heartodex.com/animales-salvajes/",
       "extractedOn": "2026-11-07",
-      "imageUrl": "asset:catalog/images/wildlife-capybara.webp",
-      "description": "Animal de la guía. Se anota en Lago volcánico, Ruinas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/wildlife-capybara.webp"
     },
     {
       "id": "wildlife-sika-deer",
@@ -9389,8 +9037,7 @@
       "source": "heartodex",
       "sourceUrl": "https://www.heartodex.com/animales-salvajes/",
       "extractedOn": "2026-11-07",
-      "imageUrl": "asset:catalog/images/wildlife-sika-deer.webp",
-      "description": "Animal de la guía. Se anota en Lago del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/wildlife-sika-deer.webp"
     },
     {
       "id": "wildlife-bunny",
@@ -9408,8 +9055,7 @@
       "source": "heartodex",
       "sourceUrl": "https://www.heartodex.com/animales-salvajes/",
       "extractedOn": "2026-11-07",
-      "imageUrl": "asset:catalog/images/wildlife-bunny.webp",
-      "description": "Animal de la guía. Se anota en Suburbio. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/wildlife-bunny.webp"
     },
     {
       "id": "wildlife-ferret",
@@ -9427,8 +9073,7 @@
       "source": "heartodex",
       "sourceUrl": "https://www.heartodex.com/animales-salvajes/",
       "extractedOn": "2026-11-07",
-      "imageUrl": "asset:catalog/images/wildlife-ferret.webp",
-      "description": "Animal de la guía. Se anota en Rio de crepusculo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/wildlife-ferret.webp"
     },
     {
       "id": "wildlife-sea-otter",
@@ -9446,8 +9091,7 @@
       "source": "heartodex",
       "sourceUrl": "https://www.heartodex.com/animales-salvajes/",
       "extractedOn": "2026-11-07",
-      "imageUrl": "asset:catalog/images/wildlife-sea-otter.webp",
-      "description": "Animal de la guía. Se anota en Plaza del pueblo pesquero. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/wildlife-sea-otter.webp"
     },
     {
       "id": "wildlife-panda",
@@ -9465,8 +9109,7 @@
       "source": "heartodex",
       "sourceUrl": "https://www.heartodex.com/animales-salvajes/",
       "extractedOn": "2026-11-07",
-      "imageUrl": "asset:catalog/images/wildlife-panda.webp",
-      "description": "Animal de la guía. Se anota en Plataformas. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/wildlife-panda.webp"
     },
     {
       "id": "wildlife-fox",
@@ -9486,8 +9129,7 @@
       "source": "heartodex",
       "sourceUrl": "https://www.heartodex.com/animales-salvajes/",
       "extractedOn": "2026-11-07",
-      "imageUrl": "asset:catalog/images/wildlife-fox.webp",
-      "description": "Animal de la guía. Se anota en Florimolino, Costa purpura, Lago de la pradera. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/wildlife-fox.webp"
     },
     {
       "id": "wildlife-dolphin",
@@ -9505,8 +9147,7 @@
       "source": "heartodex",
       "sourceUrl": "https://www.heartodex.com/animales-salvajes/",
       "extractedOn": "2026-11-07",
-      "imageUrl": "asset:catalog/images/wildlife-dolphin.webp",
-      "description": "Animal de la guía. Se anota en Caída de ballena. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/wildlife-dolphin.webp"
     },
     {
       "id": "wildlife-maltese",
@@ -9524,8 +9165,7 @@
       "source": "heartodex",
       "sourceUrl": "https://www.heartodex.com/animales-salvajes/",
       "extractedOn": "2026-11-07",
-      "imageUrl": "asset:catalog/images/wildlife-maltese.webp",
-      "description": "Animal de la guía. Se anota en Isla del bosque. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/wildlife-maltese.webp"
     },
     {
       "id": "wildlife-penguin",
@@ -9543,8 +9183,7 @@
       "source": "heartodex",
       "sourceUrl": "https://www.heartodex.com/animales-salvajes/",
       "extractedOn": "2026-11-07",
-      "imageUrl": "asset:catalog/images/wildlife-penguin.webp",
-      "description": "Animal de la guía. Se anota en Mar antiguo. Horario y clima van en los datos, no en este texto."
+      "imageUrl": "asset:catalog/images/wildlife-penguin.webp"
     }
   ]
 }
