@@ -1,0 +1,39 @@
+name: materialize-aficiones-v8
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    if: github.repository == 'anibalortizdev/guia-heartopia-contenido'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout payload branch
+        uses: actions/checkout@v4
+        with:
+          ref: payload-aficiones-v8
+          fetch-depth: 0
+      - name: Materialize files and push to main
+        env:
+          PAYLOAD_ROOT: payload
+        run: |
+          set -euo pipefail
+          python3 payload/materialize.py
+          mkdir -p /tmp/v8out
+          tar -C /tmp/v8out -xf aficiones-v8.tar
+          git fetch origin main
+          git checkout -B main origin/main
+          cp -a /tmp/v8out/. .
+          git add ESQUEMA-AFICIONES.md content/huerto content/cocina
+          git config user.name "anibalortizdev"
+          git config user.email "anibalortiz.dev@gmail.com"
+          git status --short | wc -l
+          git commit -m "$(cat <<'EOF'
+v8: aficiones (siembras, flores y recetas)
+
+Añade las 21 siembras, 118 flores y 234 recetas con sus imágenes WebP
+y los JSON correspondientes. El manifest se actualiza en un commit
+siguiente, cuando estos archivos ya estén en el repositorio.
+EOF
+)"
+          git push origin HEAD:main
