@@ -1,5 +1,5 @@
 {
-  "contentVersion": 8,
+  "contentVersion": 9,
   "minAppVersionCode": 25,
   "publishedOn": "2026-11-15",
   "files": [
@@ -1832,6 +1832,12 @@
       "path": "calendar/eventos.json",
       "size": 3621,
       "sha256": "719f9ca86a34cf663e555599eb63fd492c899484e6f6c4b94e6a37ab1bc60f23"
+    },
+    {
+      "path": "codes/codigos.json",
+      "size": 2431,
+      "sha256": "b07ef6b18ffde5746788fbefde05d3a6334f6486fbcb1c127d2c1aa62e5598a4",
+      "minAppVersionCode": 37
     },
     {
       "path": "huerto/siembras.json",
