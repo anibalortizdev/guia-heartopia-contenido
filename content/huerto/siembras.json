@@ -1,0 +1,320 @@
+{
+  "items": [
+    {
+      "id": "uchuva",
+      "nombre": "Uchuva",
+      "nivelSiembra": 1,
+      "precioSemilla": 10,
+      "fuenteSemilla": "Evento",
+      "tiempoCrecimientoMinutos": 15,
+      "categoria": "Evento",
+      "evento": "Encuentros misteriosos",
+      "certificable": false,
+      "imagen": "huerto/images/siembras/uchuva.webp"
+    },
+    {
+      "id": "arroz",
+      "nombre": "Arroz",
+      "nivelSiembra": 1,
+      "precioSemilla": 12,
+      "fuenteSemilla": "Tienda de Blanc",
+      "tiempoCrecimientoMinutos": 20,
+      "precioVentaEstrellas": [
+        37,
+        49,
+        61,
+        74,
+        111
+      ],
+      "categoria": "Común",
+      "maestriaCosechas": "Novato: 1200 · Experto: 3600 · Maestro: 7200 cosechas",
+      "imagen": "huerto/images/siembras/arroz.webp"
+    },
+    {
+      "id": "calabaza",
+      "nombre": "Calabaza",
+      "nivelSiembra": 1,
+      "precioSemilla": 10,
+      "fuenteSemilla": "Tienda de Blanc",
+      "tiempoCrecimientoMinutos": 15,
+      "precioVentaEstrellas": [
+        30,
+        40,
+        50,
+        60,
+        90
+      ],
+      "categoria": "Común",
+      "imagen": "huerto/images/siembras/calabaza.webp"
+    },
+    {
+      "id": "patata",
+      "nombre": "Patata",
+      "nivelSiembra": 1,
+      "precioSemilla": 30,
+      "fuenteSemilla": "Tienda de Blanc",
+      "tiempoCrecimientoMinutos": 60,
+      "precioVentaEstrellas": [
+        90,
+        120,
+        150,
+        180,
+        210
+      ],
+      "categoria": "Común",
+      "imagen": "huerto/images/siembras/patata.webp"
+    },
+    {
+      "id": "tomate",
+      "nombre": "Tomate",
+      "nivelSiembra": 1,
+      "precioSemilla": 10,
+      "fuenteSemilla": "Tienda de Blanc",
+      "tiempoCrecimientoMinutos": 15,
+      "precioVentaEstrellas": [
+        30,
+        40,
+        50,
+        60,
+        70
+      ],
+      "categoria": "Común",
+      "maestriaCosechas": "Novato: 1200 · Experto: 3600 · Maestro: 7200 cosechas",
+      "imagen": "huerto/images/siembras/tomate.webp"
+    },
+    {
+      "id": "trigo",
+      "nombre": "Trigo",
+      "nivelSiembra": 2,
+      "precioSemilla": 95,
+      "fuenteSemilla": "Tienda de Blanc",
+      "tiempoCrecimientoMinutos": 240,
+      "precioVentaEstrellas": [
+        285,
+        381,
+        475
+      ],
+      "categoria": "Común",
+      "imagen": "huerto/images/siembras/trigo.webp"
+    },
+    {
+      "id": "lechuga",
+      "nombre": "Lechuga",
+      "nivelSiembra": 3,
+      "precioSemilla": 145,
+      "fuenteSemilla": "Tienda de Blanc",
+      "tiempoCrecimientoMinutos": 480,
+      "precioVentaEstrellas": [
+        435,
+        582,
+        726
+      ],
+      "categoria": "Común",
+      "imagen": "huerto/images/siembras/lechuga.webp"
+    },
+    {
+      "id": "pina",
+      "nombre": "Piña",
+      "nivelSiembra": 4,
+      "precioSemilla": 15,
+      "fuenteSemilla": "Tienda de Blanc",
+      "tiempoCrecimientoMinutos": 30,
+      "precioVentaEstrellas": [
+        52,
+        69,
+        86,
+        104,
+        156
+      ],
+      "categoria": "Común",
+      "imagen": "huerto/images/siembras/pina.webp"
+    },
+    {
+      "id": "zanahoria",
+      "nombre": "Zanahoria",
+      "nivelSiembra": 5,
+      "precioSemilla": 50,
+      "fuenteSemilla": "Tienda de Blanc",
+      "tiempoCrecimientoMinutos": 120,
+      "precioVentaEstrellas": [
+        155,
+        207,
+        258,
+        310,
+        465
+      ],
+      "categoria": "Común",
+      "imagen": "huerto/images/siembras/zanahoria.webp"
+    },
+    {
+      "id": "fresa",
+      "nombre": "Fresa",
+      "nivelSiembra": 6,
+      "precioSemilla": 125,
+      "fuenteSemilla": "Tienda de Blanc",
+      "tiempoCrecimientoMinutos": 360,
+      "precioVentaEstrellas": [
+        375,
+        502,
+        626,
+        750,
+        1125
+      ],
+      "categoria": "Común",
+      "maestriaCosechas": "Novato: 700 · Experto: 2100 · Maestro: 4200 cosechas",
+      "imagen": "huerto/images/siembras/fresa.webp"
+    },
+    {
+      "id": "maiz",
+      "nombre": "Maíz",
+      "nivelSiembra": 6,
+      "precioSemilla": 170,
+      "fuenteSemilla": "Tienda de Blanc",
+      "tiempoCrecimientoMinutos": 720,
+      "precioVentaEstrellas": [
+        510,
+        690,
+        860,
+        1020,
+        1545
+      ],
+      "categoria": "Común",
+      "maestriaCosechas": "Novato: 500 · Experto: 1500 · Maestro: 3000 cosechas",
+      "imagen": "huerto/images/siembras/maiz.webp"
+    },
+    {
+      "id": "uva",
+      "nombre": "Uva",
+      "nivelSiembra": 7,
+      "precioSemilla": 160,
+      "fuenteSemilla": "Tienda de Blanc",
+      "tiempoCrecimientoMinutos": 600,
+      "precioVentaEstrellas": [
+        480,
+        643,
+        801,
+        960,
+        1440
+      ],
+      "categoria": "Común",
+      "imagen": "huerto/images/siembras/uva.webp"
+    },
+    {
+      "id": "berenjena",
+      "nombre": "Berenjena",
+      "nivelSiembra": 8,
+      "precioSemilla": 135,
+      "fuenteSemilla": "Tienda de Blanc",
+      "tiempoCrecimientoMinutos": 300,
+      "precioVentaEstrellas": [
+        406,
+        544,
+        678,
+        812,
+        1218
+      ],
+      "categoria": "Común",
+      "maestriaCosechas": "Novato: 700 · Experto: 2100 · Maestro: 4200 cosechas",
+      "imagen": "huerto/images/siembras/berenjena.webp"
+    },
+    {
+      "id": "hoja-de-te",
+      "nombre": "Hoja de té",
+      "nivelSiembra": 11,
+      "precioSemilla": 25,
+      "fuenteSemilla": "Tienda de Blanc",
+      "tiempoCrecimientoMinutos": 45,
+      "precioVentaEstrellas": [
+        75,
+        100,
+        125,
+        150,
+        225
+      ],
+      "categoria": "Común",
+      "maestriaCosechas": "Novato: 1200 · Experto: 3600 · Maestro: 7200 cosechas",
+      "imagen": "huerto/images/siembras/hoja-de-te.webp"
+    },
+    {
+      "id": "granos-de-cacao",
+      "nombre": "Granos de cacao",
+      "nivelSiembra": 12,
+      "precioSemilla": 110,
+      "fuenteSemilla": "Tienda de Blanc",
+      "tiempoCrecimientoMinutos": 300,
+      "categoria": "Común",
+      "imagen": "huerto/images/siembras/granos-de-cacao.webp"
+    },
+    {
+      "id": "aguacate",
+      "nombre": "Aguacate",
+      "nivelSiembra": 13,
+      "precioSemilla": 180,
+      "fuenteSemilla": "Tienda de Blanc",
+      "tiempoCrecimientoMinutos": 780,
+      "categoria": "Común",
+      "maestriaCosechas": "Novato: 500 · Experto: 1500 · Maestro: 3000 cosechas",
+      "imagen": "huerto/images/siembras/aguacate.webp"
+    },
+    {
+      "id": "carambola",
+      "nombre": "Carambola",
+      "nivelSiembra": 1,
+      "precioSemilla": 10,
+      "fuenteSemilla": "Evento",
+      "tiempoCrecimientoMinutos": 15,
+      "categoria": "Evento",
+      "evento": "Búsqueda de ballenas",
+      "certificable": false,
+      "imagen": "huerto/images/siembras/carambola.webp"
+    },
+    {
+      "id": "lechuga-romana",
+      "nombre": "Lechuga romana",
+      "nivelSiembra": 1,
+      "precioSemilla": 10,
+      "fuenteSemilla": "Evento",
+      "tiempoCrecimientoMinutos": 15,
+      "categoria": "Evento",
+      "evento": "Sombras Oníricas",
+      "certificable": false,
+      "imagen": "huerto/images/siembras/lechuga-romana.webp"
+    },
+    {
+      "id": "cactus-de-tuna",
+      "nombre": "Cactus de tuna",
+      "nivelSiembra": 1,
+      "precioSemilla": 10,
+      "fuenteSemilla": "Evento",
+      "tiempoCrecimientoMinutos": 15,
+      "categoria": "Evento",
+      "evento": "Eco Ancestral",
+      "certificable": false,
+      "imagen": "huerto/images/siembras/cactus-de-tuna.webp"
+    },
+    {
+      "id": "hierba-luisa",
+      "nombre": "Hierba luisa",
+      "nivelSiembra": 1,
+      "precioSemilla": 10,
+      "fuenteSemilla": "Evento",
+      "tiempoCrecimientoMinutos": 15,
+      "categoria": "Evento",
+      "evento": "Mercado de ensamblaje",
+      "certificable": false,
+      "imagen": "huerto/images/siembras/hierba-luisa.webp"
+    },
+    {
+      "id": "rabano",
+      "nombre": "Rábano",
+      "nivelSiembra": 1,
+      "precioSemilla": 10,
+      "fuenteSemilla": "Evento",
+      "tiempoCrecimientoMinutos": 15,
+      "categoria": "Evento",
+      "evento": "Temporada de hielo y nieve",
+      "certificable": false,
+      "imagen": "huerto/images/siembras/rabano.webp"
+    }
+  ]
+}

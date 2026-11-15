@@ -1,0 +1,1209 @@
+{
+  "items": [
+    {
+      "id": "margarita",
+      "nombre": "Margarita",
+      "nivelSiembra": 3,
+      "tiempoCrecimientoMinutos": 1080,
+      "precioSemilla": 30,
+      "categoria": "Común",
+      "imagen": "huerto/images/flores/margarita-roja.webp",
+      "variantes": [
+        {
+          "id": "margarita-roja",
+          "nombre": "Margarita roja",
+          "color": "roja",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 100,
+          "imagen": "huerto/images/flores/margarita-roja.webp"
+        },
+        {
+          "id": "margarita-blanca",
+          "nombre": "Margarita blanca",
+          "color": "blanca",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 100,
+          "imagen": "huerto/images/flores/margarita-blanca.webp"
+        },
+        {
+          "id": "margarita-rosada",
+          "nombre": "Margarita rosada",
+          "color": "rosada",
+          "origen": "cruce",
+          "estrellas": 2,
+          "precioVenta": 150,
+          "imagen": "huerto/images/flores/margarita-rosada.webp"
+        },
+        {
+          "id": "margarita-durazno",
+          "nombre": "Margarita durazno",
+          "color": "durazno",
+          "origen": "cruce",
+          "estrellas": 3,
+          "precioVenta": 200,
+          "imagen": "huerto/images/flores/margarita-durazno.webp"
+        },
+        {
+          "id": "margarita-verde",
+          "nombre": "Margarita verde",
+          "color": "verde",
+          "origen": "cruce",
+          "estrellas": 4,
+          "precioVenta": 250,
+          "imagen": "huerto/images/flores/margarita-verde.webp"
+        },
+        {
+          "id": "margarita-luminiscente",
+          "nombre": "Margarita luminiscente",
+          "color": "luminiscente",
+          "origen": "cruce",
+          "estrellas": 5,
+          "precioVenta": 400,
+          "imagen": "huerto/images/flores/margarita-luminiscente.webp"
+        }
+      ]
+    },
+    {
+      "id": "pensamiento",
+      "nombre": "Pensamiento",
+      "nivelSiembra": 4,
+      "tiempoCrecimientoMinutos": 1080,
+      "precioSemilla": 30,
+      "categoria": "Común",
+      "imagen": "huerto/images/flores/pensamiento-roja.webp",
+      "variantes": [
+        {
+          "id": "pensamiento-roja",
+          "nombre": "Pensamiento roja",
+          "color": "roja",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 100,
+          "imagen": "huerto/images/flores/pensamiento-roja.webp"
+        },
+        {
+          "id": "pensamiento-amarilla",
+          "nombre": "Pensamiento amarilla",
+          "color": "amarilla",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 100,
+          "imagen": "huerto/images/flores/pensamiento-amarilla.webp"
+        },
+        {
+          "id": "pensamiento-naranja",
+          "nombre": "Pensamiento naranja",
+          "color": "naranja",
+          "origen": "cruce",
+          "estrellas": 2,
+          "precioVenta": 150,
+          "imagen": "huerto/images/flores/pensamiento-naranja.webp"
+        },
+        {
+          "id": "pensamiento-negra",
+          "nombre": "Pensamiento negra",
+          "color": "negra",
+          "origen": "cruce",
+          "estrellas": 3,
+          "precioVenta": 200,
+          "imagen": "huerto/images/flores/pensamiento-negra.webp"
+        },
+        {
+          "id": "pensamiento-morada",
+          "nombre": "Pensamiento morada",
+          "color": "morada",
+          "origen": "cruce",
+          "estrellas": 4,
+          "precioVenta": 250,
+          "imagen": "huerto/images/flores/pensamiento-morada.webp"
+        },
+        {
+          "id": "pensamiento-crepusculo",
+          "nombre": "Pensamiento crepúsculo",
+          "color": "crepúsculo",
+          "origen": "cruce",
+          "estrellas": 5,
+          "precioVenta": 400,
+          "imagen": "huerto/images/flores/pensamiento-crepusculo.webp"
+        }
+      ]
+    },
+    {
+      "id": "amapola",
+      "nombre": "Amapola",
+      "nivelSiembra": 5,
+      "tiempoCrecimientoMinutos": 1440,
+      "precioSemilla": 60,
+      "categoria": "Común",
+      "imagen": "huerto/images/flores/amapola-roja.webp",
+      "variantes": [
+        {
+          "id": "amapola-roja",
+          "nombre": "Amapola roja",
+          "color": "roja",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 185,
+          "imagen": "huerto/images/flores/amapola-roja.webp"
+        },
+        {
+          "id": "amapola-amarilla",
+          "nombre": "Amapola amarilla",
+          "color": "amarilla",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 185,
+          "imagen": "huerto/images/flores/amapola-amarilla.webp"
+        },
+        {
+          "id": "amapola-blanca",
+          "nombre": "Amapola blanca",
+          "color": "blanca",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 185,
+          "imagen": "huerto/images/flores/amapola-blanca.webp"
+        },
+        {
+          "id": "amapola-naranja",
+          "nombre": "Amapola naranja",
+          "color": "naranja",
+          "origen": "cruce",
+          "estrellas": 2,
+          "precioVenta": 280,
+          "imagen": "huerto/images/flores/amapola-naranja.webp"
+        },
+        {
+          "id": "amapola-rosada",
+          "nombre": "Amapola rosada",
+          "color": "rosada",
+          "origen": "cruce",
+          "estrellas": 2,
+          "precioVenta": 280,
+          "imagen": "huerto/images/flores/amapola-rosada.webp"
+        },
+        {
+          "id": "amapola-negra",
+          "nombre": "Amapola negra",
+          "color": "negra",
+          "origen": "cruce",
+          "estrellas": 3,
+          "precioVenta": 370,
+          "imagen": "huerto/images/flores/amapola-negra.webp"
+        },
+        {
+          "id": "amapola-morada",
+          "nombre": "Amapola morada",
+          "color": "morada",
+          "origen": "cruce",
+          "estrellas": 4,
+          "precioVenta": 465,
+          "imagen": "huerto/images/flores/amapola-morada.webp"
+        },
+        {
+          "id": "amapola-crepusculo",
+          "nombre": "Amapola crepúsculo",
+          "color": "crepúsculo",
+          "origen": "cruce",
+          "estrellas": 5,
+          "precioVenta": 740,
+          "imagen": "huerto/images/flores/amapola-crepusculo.webp"
+        }
+      ]
+    },
+    {
+      "id": "anturio",
+      "nombre": "Anturio",
+      "nivelSiembra": 5,
+      "tiempoCrecimientoMinutos": 1440,
+      "precioSemilla": 60,
+      "categoria": "Común",
+      "imagen": "huerto/images/flores/anturio-rojo.webp",
+      "variantes": [
+        {
+          "id": "anturio-rojo",
+          "nombre": "Anturio rojo",
+          "color": "rojo",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 185,
+          "imagen": "huerto/images/flores/anturio-rojo.webp"
+        },
+        {
+          "id": "anturio-amarillo",
+          "nombre": "Anturio amarillo",
+          "color": "amarillo",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 185,
+          "imagen": "huerto/images/flores/anturio-amarillo.webp"
+        },
+        {
+          "id": "anturio-blanco",
+          "nombre": "Anturio blanco",
+          "color": "blanco",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 185,
+          "imagen": "huerto/images/flores/anturio-blanco.webp"
+        },
+        {
+          "id": "anturio-naranja",
+          "nombre": "Anturio naranja",
+          "color": "naranja",
+          "origen": "cruce",
+          "estrellas": 2,
+          "precioVenta": 280,
+          "imagen": "huerto/images/flores/anturio-naranja.webp"
+        },
+        {
+          "id": "anturio-rosado",
+          "nombre": "Anturio rosado",
+          "color": "rosado",
+          "origen": "cruce",
+          "estrellas": 2,
+          "precioVenta": 280,
+          "imagen": "huerto/images/flores/anturio-rosado.webp"
+        },
+        {
+          "id": "anturio-durazno",
+          "nombre": "Anturio durazno",
+          "color": "durazno",
+          "origen": "cruce",
+          "estrellas": 3,
+          "precioVenta": 370,
+          "imagen": "huerto/images/flores/anturio-durazno.webp"
+        },
+        {
+          "id": "anturio-verde",
+          "nombre": "Anturio verde",
+          "color": "verde",
+          "origen": "cruce",
+          "estrellas": 4,
+          "precioVenta": 465,
+          "imagen": "huerto/images/flores/anturio-verde.webp"
+        },
+        {
+          "id": "anturio-luminiscente",
+          "nombre": "Anturio luminiscente",
+          "color": "luminiscente",
+          "origen": "cruce",
+          "estrellas": 5,
+          "precioVenta": 740,
+          "imagen": "huerto/images/flores/anturio-luminiscente.webp"
+        }
+      ]
+    },
+    {
+      "id": "cala",
+      "nombre": "Cala",
+      "nivelSiembra": 6,
+      "tiempoCrecimientoMinutos": 1800,
+      "precioSemilla": 90,
+      "categoria": "Común",
+      "imagen": "huerto/images/flores/cala-roja.webp",
+      "variantes": [
+        {
+          "id": "cala-roja",
+          "nombre": "Cala roja",
+          "color": "roja",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 250,
+          "imagen": "huerto/images/flores/cala-roja.webp"
+        },
+        {
+          "id": "cala-amarilla",
+          "nombre": "Cala amarilla",
+          "color": "amarilla",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 250,
+          "imagen": "huerto/images/flores/cala-amarilla.webp"
+        },
+        {
+          "id": "cala-blanca",
+          "nombre": "Cala blanca",
+          "color": "blanca",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 250,
+          "imagen": "huerto/images/flores/cala-blanca.webp"
+        },
+        {
+          "id": "cala-naranja",
+          "nombre": "Cala naranja",
+          "color": "naranja",
+          "origen": "cruce",
+          "estrellas": 2,
+          "precioVenta": 375,
+          "imagen": "huerto/images/flores/cala-naranja.webp"
+        },
+        {
+          "id": "cala-rosada",
+          "nombre": "Cala rosada",
+          "color": "rosada",
+          "origen": "cruce",
+          "estrellas": 2,
+          "precioVenta": 375,
+          "imagen": "huerto/images/flores/cala-rosada.webp"
+        },
+        {
+          "id": "cala-negra",
+          "nombre": "Cala negra",
+          "color": "negra",
+          "origen": "cruce",
+          "estrellas": 3,
+          "precioVenta": 500,
+          "imagen": "huerto/images/flores/cala-negra.webp"
+        },
+        {
+          "id": "cala-durazno",
+          "nombre": "Cala durazno",
+          "color": "durazno",
+          "origen": "cruce",
+          "estrellas": 3,
+          "precioVenta": 500,
+          "imagen": "huerto/images/flores/cala-durazno.webp"
+        },
+        {
+          "id": "cala-morada",
+          "nombre": "Cala morada",
+          "color": "morada",
+          "origen": "cruce",
+          "estrellas": 4,
+          "precioVenta": 625,
+          "imagen": "huerto/images/flores/cala-morada.webp"
+        },
+        {
+          "id": "cala-crepusculo",
+          "nombre": "Cala crepúsculo",
+          "color": "crepúsculo",
+          "origen": "cruce",
+          "estrellas": 5,
+          "precioVenta": 1000,
+          "imagen": "huerto/images/flores/cala-crepusculo.webp"
+        }
+      ]
+    },
+    {
+      "id": "dondiego-de-dia",
+      "nombre": "Dondiego de día",
+      "nivelSiembra": 6,
+      "tiempoCrecimientoMinutos": 1800,
+      "precioSemilla": 90,
+      "categoria": "Común",
+      "imagen": "huerto/images/flores/dondiego-de-dia-rojo.webp",
+      "variantes": [
+        {
+          "id": "dondiego-de-dia-rojo",
+          "nombre": "Dondiego de día rojo",
+          "color": "rojo",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 250,
+          "imagen": "huerto/images/flores/dondiego-de-dia-rojo.webp"
+        },
+        {
+          "id": "dondiego-de-dia-amarillo",
+          "nombre": "Dondiego de día amarillo",
+          "color": "amarillo",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 250,
+          "imagen": "huerto/images/flores/dondiego-de-dia-amarillo.webp"
+        },
+        {
+          "id": "dondiego-de-dia-blanco",
+          "nombre": "Dondiego de día blanco",
+          "color": "blanco",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 250,
+          "imagen": "huerto/images/flores/dondiego-de-dia-blanco.webp"
+        },
+        {
+          "id": "dondiego-de-dia-naranja",
+          "nombre": "Dondiego de día naranja",
+          "color": "naranja",
+          "origen": "cruce",
+          "estrellas": 2,
+          "precioVenta": 375,
+          "imagen": "huerto/images/flores/dondiego-de-dia-naranja.webp"
+        },
+        {
+          "id": "dondiego-de-dia-rosado",
+          "nombre": "Dondiego de día rosado",
+          "color": "rosado",
+          "origen": "cruce",
+          "estrellas": 2,
+          "precioVenta": 375,
+          "imagen": "huerto/images/flores/dondiego-de-dia-rosado.webp"
+        },
+        {
+          "id": "dondiego-de-dia-negro",
+          "nombre": "Dondiego de día negro",
+          "color": "negro",
+          "origen": "cruce",
+          "estrellas": 3,
+          "precioVenta": 500,
+          "imagen": "huerto/images/flores/dondiego-de-dia-negro.webp"
+        },
+        {
+          "id": "dondiego-de-dia-durazno",
+          "nombre": "Dondiego de día durazno",
+          "color": "durazno",
+          "origen": "cruce",
+          "estrellas": 3,
+          "precioVenta": 500,
+          "imagen": "huerto/images/flores/dondiego-de-dia-durazno.webp"
+        },
+        {
+          "id": "dondiego-de-dia-morado",
+          "nombre": "Dondiego de día morado",
+          "color": "morado",
+          "origen": "cruce",
+          "estrellas": 4,
+          "precioVenta": 625,
+          "imagen": "huerto/images/flores/dondiego-de-dia-morado.webp"
+        },
+        {
+          "id": "dondiego-de-dia-luminiscente",
+          "nombre": "Dondiego de día luminiscente",
+          "color": "luminiscente",
+          "origen": "cruce",
+          "estrellas": 5,
+          "precioVenta": 1000,
+          "imagen": "huerto/images/flores/dondiego-de-dia-luminiscente.webp"
+        }
+      ]
+    },
+    {
+      "id": "clavel",
+      "nombre": "Clavel",
+      "nivelSiembra": 7,
+      "tiempoCrecimientoMinutos": 1800,
+      "precioSemilla": 120,
+      "categoria": "Común",
+      "imagen": "huerto/images/flores/clavel-rojo.webp",
+      "variantes": [
+        {
+          "id": "clavel-rojo",
+          "nombre": "Clavel rojo",
+          "color": "rojo",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 305,
+          "imagen": "huerto/images/flores/clavel-rojo.webp"
+        },
+        {
+          "id": "clavel-amarillo",
+          "nombre": "Clavel amarillo",
+          "color": "amarillo",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 305,
+          "imagen": "huerto/images/flores/clavel-amarillo.webp"
+        },
+        {
+          "id": "clavel-blanco",
+          "nombre": "Clavel blanco",
+          "color": "blanco",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 305,
+          "imagen": "huerto/images/flores/clavel-blanco.webp"
+        },
+        {
+          "id": "clavel-naranja",
+          "nombre": "Clavel naranja",
+          "color": "naranja",
+          "origen": "cruce",
+          "estrellas": 2,
+          "precioVenta": 460,
+          "imagen": "huerto/images/flores/clavel-naranja.webp"
+        },
+        {
+          "id": "clavel-rosado",
+          "nombre": "Clavel rosado",
+          "color": "rosado",
+          "origen": "cruce",
+          "estrellas": 2,
+          "precioVenta": 460,
+          "imagen": "huerto/images/flores/clavel-rosado.webp"
+        },
+        {
+          "id": "clavel-negro",
+          "nombre": "Clavel negro",
+          "color": "negro",
+          "origen": "cruce",
+          "estrellas": 3,
+          "precioVenta": 610,
+          "imagen": "huerto/images/flores/clavel-negro.webp"
+        },
+        {
+          "id": "clavel-durazno",
+          "nombre": "Clavel durazno",
+          "color": "durazno",
+          "origen": "cruce",
+          "estrellas": 3,
+          "precioVenta": 610,
+          "imagen": "huerto/images/flores/clavel-durazno.webp"
+        },
+        {
+          "id": "clavel-verde",
+          "nombre": "Clavel verde",
+          "color": "verde",
+          "origen": "cruce",
+          "estrellas": 4,
+          "precioVenta": 765,
+          "imagen": "huerto/images/flores/clavel-verde.webp"
+        },
+        {
+          "id": "clavel-luminiscente",
+          "nombre": "Clavel luminiscente",
+          "color": "luminiscente",
+          "origen": "cruce",
+          "estrellas": 5,
+          "precioVenta": 1220,
+          "imagen": "huerto/images/flores/clavel-luminiscente.webp"
+        }
+      ]
+    },
+    {
+      "id": "tulipan",
+      "nombre": "Tulipán",
+      "nivelSiembra": 8,
+      "tiempoCrecimientoMinutos": 2880,
+      "precioSemilla": 150,
+      "categoria": "Común",
+      "imagen": "huerto/images/flores/tulipan-rojo.webp",
+      "variantes": [
+        {
+          "id": "tulipan-rojo",
+          "nombre": "Tulipán rojo",
+          "color": "rojo",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 415,
+          "imagen": "huerto/images/flores/tulipan-rojo.webp"
+        },
+        {
+          "id": "tulipan-amarillo",
+          "nombre": "Tulipán amarillo",
+          "color": "amarillo",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 415,
+          "imagen": "huerto/images/flores/tulipan-amarillo.webp"
+        },
+        {
+          "id": "tulipan-blanco",
+          "nombre": "Tulipán blanco",
+          "color": "blanco",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 415,
+          "imagen": "huerto/images/flores/tulipan-blanco.webp"
+        },
+        {
+          "id": "tulipan-naranja",
+          "nombre": "Tulipán naranja",
+          "color": "naranja",
+          "origen": "cruce",
+          "estrellas": 2,
+          "precioVenta": 625,
+          "imagen": "huerto/images/flores/tulipan-naranja.webp"
+        },
+        {
+          "id": "tulipan-rosado",
+          "nombre": "Tulipán rosado",
+          "color": "rosado",
+          "origen": "cruce",
+          "estrellas": 2,
+          "precioVenta": 625,
+          "imagen": "huerto/images/flores/tulipan-rosado.webp"
+        },
+        {
+          "id": "tulipan-negro",
+          "nombre": "Tulipán negro",
+          "color": "negro",
+          "origen": "cruce",
+          "estrellas": 3,
+          "precioVenta": 830,
+          "imagen": "huerto/images/flores/tulipan-negro.webp"
+        },
+        {
+          "id": "tulipan-durazno",
+          "nombre": "Tulipán durazno",
+          "color": "durazno",
+          "origen": "cruce",
+          "estrellas": 3,
+          "precioVenta": 830,
+          "imagen": "huerto/images/flores/tulipan-durazno.webp"
+        },
+        {
+          "id": "tulipan-morado",
+          "nombre": "Tulipán morado",
+          "color": "morado",
+          "origen": "cruce",
+          "estrellas": 4,
+          "precioVenta": 1040,
+          "imagen": "huerto/images/flores/tulipan-morado.webp"
+        },
+        {
+          "id": "tulipan-azul",
+          "nombre": "Tulipán azul",
+          "color": "azul",
+          "origen": "cruce",
+          "estrellas": 4,
+          "precioVenta": 1040,
+          "imagen": "huerto/images/flores/tulipan-azul.webp"
+        },
+        {
+          "id": "tulipan-crepusculo",
+          "nombre": "Tulipán crepúsculo",
+          "color": "crepúsculo",
+          "origen": "cruce",
+          "estrellas": 5,
+          "precioVenta": 1660,
+          "imagen": "huerto/images/flores/tulipan-crepusculo.webp"
+        }
+      ]
+    },
+    {
+      "id": "lirio",
+      "nombre": "Lirio",
+      "nivelSiembra": 9,
+      "tiempoCrecimientoMinutos": 2880,
+      "precioSemilla": 200,
+      "categoria": "Común",
+      "imagen": "huerto/images/flores/lirio-rojo.webp",
+      "variantes": [
+        {
+          "id": "lirio-rojo",
+          "nombre": "Lirio rojo",
+          "color": "rojo",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 485,
+          "imagen": "huerto/images/flores/lirio-rojo.webp"
+        },
+        {
+          "id": "lirio-amarillo",
+          "nombre": "Lirio amarillo",
+          "color": "amarillo",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 485,
+          "imagen": "huerto/images/flores/lirio-amarillo.webp"
+        },
+        {
+          "id": "lirio-blanco",
+          "nombre": "Lirio blanco",
+          "color": "blanco",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 485,
+          "imagen": "huerto/images/flores/lirio-blanco.webp"
+        },
+        {
+          "id": "lirio-naranja",
+          "nombre": "Lirio naranja",
+          "color": "naranja",
+          "origen": "cruce",
+          "estrellas": 2,
+          "precioVenta": 730,
+          "imagen": "huerto/images/flores/lirio-naranja.webp"
+        },
+        {
+          "id": "lirio-rosado",
+          "nombre": "Lirio rosado",
+          "color": "rosado",
+          "origen": "cruce",
+          "estrellas": 2,
+          "precioVenta": 730,
+          "imagen": "huerto/images/flores/lirio-rosado.webp"
+        },
+        {
+          "id": "lirio-negro",
+          "nombre": "Lirio negro",
+          "color": "negro",
+          "origen": "cruce",
+          "estrellas": 3,
+          "precioVenta": 970,
+          "imagen": "huerto/images/flores/lirio-negro.webp"
+        },
+        {
+          "id": "lirio-durazno",
+          "nombre": "Lirio durazno",
+          "color": "durazno",
+          "origen": "cruce",
+          "estrellas": 3,
+          "precioVenta": 970,
+          "imagen": "huerto/images/flores/lirio-durazno.webp"
+        },
+        {
+          "id": "lirio-morado",
+          "nombre": "Lirio morado",
+          "color": "morado",
+          "origen": "cruce",
+          "estrellas": 4,
+          "precioVenta": 1215,
+          "imagen": "huerto/images/flores/lirio-morado.webp"
+        },
+        {
+          "id": "lirio-verde",
+          "nombre": "Lirio verde",
+          "color": "verde",
+          "origen": "cruce",
+          "estrellas": 4,
+          "precioVenta": 1215,
+          "imagen": "huerto/images/flores/lirio-verde.webp"
+        },
+        {
+          "id": "lirio-luminiscente",
+          "nombre": "Lirio luminiscente",
+          "color": "luminiscente",
+          "origen": "cruce",
+          "estrellas": 5,
+          "precioVenta": 1940,
+          "imagen": "huerto/images/flores/lirio-luminiscente.webp"
+        }
+      ]
+    },
+    {
+      "id": "rosa",
+      "nombre": "Rosa",
+      "nivelSiembra": 10,
+      "tiempoCrecimientoMinutos": 4320,
+      "precioSemilla": 300,
+      "categoria": "Común",
+      "imagen": "huerto/images/flores/rosa-roja.webp",
+      "variantes": [
+        {
+          "id": "rosa-roja",
+          "nombre": "Rosa roja",
+          "color": "roja",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 765,
+          "imagen": "huerto/images/flores/rosa-roja.webp"
+        },
+        {
+          "id": "rosa-amarilla",
+          "nombre": "Rosa amarilla",
+          "color": "amarilla",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 765,
+          "imagen": "huerto/images/flores/rosa-amarilla.webp"
+        },
+        {
+          "id": "rosa-blanca",
+          "nombre": "Rosa blanca",
+          "color": "blanca",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 765,
+          "imagen": "huerto/images/flores/rosa-blanca.webp"
+        },
+        {
+          "id": "rosa-naranja",
+          "nombre": "Rosa naranja",
+          "color": "naranja",
+          "origen": "cruce",
+          "estrellas": 2,
+          "precioVenta": 1150,
+          "imagen": "huerto/images/flores/rosa-naranja.webp"
+        },
+        {
+          "id": "rosa-rosada",
+          "nombre": "Rosa rosada",
+          "color": "rosada",
+          "origen": "cruce",
+          "estrellas": 2,
+          "precioVenta": 1150,
+          "imagen": "huerto/images/flores/rosa-rosada.webp"
+        },
+        {
+          "id": "rosa-negra",
+          "nombre": "Rosa negra",
+          "color": "negra",
+          "origen": "cruce",
+          "estrellas": 3,
+          "precioVenta": 1530,
+          "imagen": "huerto/images/flores/rosa-negra.webp"
+        },
+        {
+          "id": "rosa-durazno",
+          "nombre": "Rosa durazno",
+          "color": "durazno",
+          "origen": "cruce",
+          "estrellas": 3,
+          "precioVenta": 1530,
+          "imagen": "huerto/images/flores/rosa-durazno.webp"
+        },
+        {
+          "id": "rosa-morada",
+          "nombre": "Rosa morada",
+          "color": "morada",
+          "origen": "cruce",
+          "estrellas": 4,
+          "precioVenta": 1915,
+          "imagen": "huerto/images/flores/rosa-morada.webp"
+        },
+        {
+          "id": "rosa-azul",
+          "nombre": "Rosa azul",
+          "color": "azul",
+          "origen": "cruce",
+          "estrellas": 4,
+          "precioVenta": 1915,
+          "imagen": "huerto/images/flores/rosa-azul.webp"
+        },
+        {
+          "id": "rosa-crepusculo",
+          "nombre": "Rosa crepúsculo",
+          "color": "crepúsculo",
+          "origen": "cruce",
+          "estrellas": 5,
+          "precioVenta": 3060,
+          "imagen": "huerto/images/flores/rosa-crepusculo.webp"
+        },
+        {
+          "id": "rosa-luminiscente",
+          "nombre": "Rosa luminiscente",
+          "color": "luminiscente",
+          "origen": "cruce",
+          "estrellas": 5,
+          "precioVenta": 3060,
+          "imagen": "huerto/images/flores/rosa-luminiscente.webp"
+        }
+      ]
+    },
+    {
+      "id": "jacinto",
+      "nombre": "Jacinto",
+      "nivelSiembra": 11,
+      "tiempoCrecimientoMinutos": 4320,
+      "precioSemilla": 300,
+      "categoria": "Común",
+      "imagen": "huerto/images/flores/jacinto-rojo.webp",
+      "variantes": [
+        {
+          "id": "jacinto-rojo",
+          "nombre": "Jacinto rojo",
+          "color": "rojo",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 785,
+          "imagen": "huerto/images/flores/jacinto-rojo.webp"
+        },
+        {
+          "id": "jacinto-amarillo",
+          "nombre": "Jacinto amarillo",
+          "color": "amarillo",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 785,
+          "imagen": "huerto/images/flores/jacinto-amarillo.webp"
+        },
+        {
+          "id": "jacinto-blanco",
+          "nombre": "Jacinto blanco",
+          "color": "blanco",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 785,
+          "imagen": "huerto/images/flores/jacinto-blanco.webp"
+        },
+        {
+          "id": "jacinto-naranja",
+          "nombre": "Jacinto naranja",
+          "color": "naranja",
+          "origen": "cruce",
+          "estrellas": 2,
+          "precioVenta": 1180,
+          "imagen": "huerto/images/flores/jacinto-naranja.webp"
+        },
+        {
+          "id": "jacinto-rosado",
+          "nombre": "Jacinto rosado",
+          "color": "rosado",
+          "origen": "cruce",
+          "estrellas": 2,
+          "precioVenta": 1180,
+          "imagen": "huerto/images/flores/jacinto-rosado.webp"
+        },
+        {
+          "id": "jacinto-negro",
+          "nombre": "Jacinto negro",
+          "color": "negro",
+          "origen": "cruce",
+          "estrellas": 3,
+          "precioVenta": 1570,
+          "imagen": "huerto/images/flores/jacinto-negro.webp"
+        },
+        {
+          "id": "jacinto-durazno",
+          "nombre": "Jacinto durazno",
+          "color": "durazno",
+          "origen": "cruce",
+          "estrellas": 3,
+          "precioVenta": 1570,
+          "imagen": "huerto/images/flores/jacinto-durazno.webp"
+        },
+        {
+          "id": "jacinto-morado",
+          "nombre": "Jacinto morado",
+          "color": "morado",
+          "origen": "cruce",
+          "estrellas": 4,
+          "precioVenta": 1965,
+          "imagen": "huerto/images/flores/jacinto-morado.webp"
+        },
+        {
+          "id": "jacinto-azul",
+          "nombre": "Jacinto azul",
+          "color": "azul",
+          "origen": "cruce",
+          "estrellas": 4,
+          "precioVenta": 1965,
+          "imagen": "huerto/images/flores/jacinto-azul.webp"
+        },
+        {
+          "id": "jacinto-crepusculo",
+          "nombre": "Jacinto crepúsculo",
+          "color": "crepúsculo",
+          "origen": "cruce",
+          "estrellas": 5,
+          "precioVenta": 3140,
+          "imagen": "huerto/images/flores/jacinto-crepusculo.webp"
+        }
+      ]
+    },
+    {
+      "id": "orquidea",
+      "nombre": "Orquídea",
+      "nivelSiembra": 12,
+      "tiempoCrecimientoMinutos": 4320,
+      "precioSemilla": 300,
+      "categoria": "Común",
+      "imagen": "huerto/images/flores/orquidea-roja.webp",
+      "variantes": [
+        {
+          "id": "orquidea-roja",
+          "nombre": "Orquídea roja",
+          "color": "roja",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 805,
+          "imagen": "huerto/images/flores/orquidea-roja.webp"
+        },
+        {
+          "id": "orquidea-amarilla",
+          "nombre": "Orquídea amarilla",
+          "color": "amarilla",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 805,
+          "imagen": "huerto/images/flores/orquidea-amarilla.webp"
+        },
+        {
+          "id": "orquidea-blanca",
+          "nombre": "Orquídea blanca",
+          "color": "blanca",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 805,
+          "imagen": "huerto/images/flores/orquidea-blanca.webp"
+        },
+        {
+          "id": "orquidea-naranja",
+          "nombre": "Orquídea naranja",
+          "color": "naranja",
+          "origen": "cruce",
+          "estrellas": 2,
+          "precioVenta": 1210,
+          "imagen": "huerto/images/flores/orquidea-naranja.webp"
+        },
+        {
+          "id": "orquidea-rosada",
+          "nombre": "Orquídea rosada",
+          "color": "rosada",
+          "origen": "cruce",
+          "estrellas": 2,
+          "precioVenta": 1210,
+          "imagen": "huerto/images/flores/orquidea-rosada.webp"
+        },
+        {
+          "id": "orquidea-negra",
+          "nombre": "Orquídea negra",
+          "color": "negra",
+          "origen": "cruce",
+          "estrellas": 3,
+          "precioVenta": 1610,
+          "imagen": "huerto/images/flores/orquidea-negra.webp"
+        },
+        {
+          "id": "orquidea-durazno",
+          "nombre": "Orquídea durazno",
+          "color": "durazno",
+          "origen": "cruce",
+          "estrellas": 3,
+          "precioVenta": 1610,
+          "imagen": "huerto/images/flores/orquidea-durazno.webp"
+        },
+        {
+          "id": "orquidea-morada",
+          "nombre": "Orquídea morada",
+          "color": "morada",
+          "origen": "cruce",
+          "estrellas": 4,
+          "precioVenta": 2015,
+          "imagen": "huerto/images/flores/orquidea-morada.webp"
+        },
+        {
+          "id": "orquidea-azul",
+          "nombre": "Orquídea azul",
+          "color": "azul",
+          "origen": "cruce",
+          "estrellas": 4,
+          "precioVenta": 2015,
+          "imagen": "huerto/images/flores/orquidea-azul.webp"
+        },
+        {
+          "id": "orquidea-luminiscente",
+          "nombre": "Orquídea luminiscente",
+          "color": "luminiscente",
+          "origen": "cruce",
+          "estrellas": 5,
+          "precioVenta": 3220,
+          "imagen": "huerto/images/flores/orquidea-luminiscente.webp"
+        },
+        {
+          "id": "orquidea-crepusculo",
+          "nombre": "Orquídea crepúsculo",
+          "color": "crepúsculo",
+          "origen": "cruce",
+          "estrellas": 5,
+          "precioVenta": 3220,
+          "imagen": "huerto/images/flores/orquidea-crepusculo.webp"
+        }
+      ]
+    },
+    {
+      "id": "geranio",
+      "nombre": "Geranio",
+      "nivelSiembra": 13,
+      "tiempoCrecimientoMinutos": 4320,
+      "precioSemilla": 300,
+      "categoria": "Común",
+      "imagen": "huerto/images/flores/geranio-rojo.webp",
+      "variantes": [
+        {
+          "id": "geranio-rojo",
+          "nombre": "Geranio rojo",
+          "color": "rojo",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 825,
+          "imagen": "huerto/images/flores/geranio-rojo.webp"
+        },
+        {
+          "id": "geranio-amarillo",
+          "nombre": "Geranio amarillo",
+          "color": "amarillo",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 825,
+          "imagen": "huerto/images/flores/geranio-amarillo.webp"
+        },
+        {
+          "id": "geranio-blanco",
+          "nombre": "Geranio blanco",
+          "color": "blanco",
+          "origen": "tienda",
+          "estrellas": 1,
+          "precioVenta": 825,
+          "imagen": "huerto/images/flores/geranio-blanco.webp"
+        },
+        {
+          "id": "geranio-naranja",
+          "nombre": "Geranio naranja",
+          "color": "naranja",
+          "origen": "cruce",
+          "estrellas": 2,
+          "precioVenta": 1240,
+          "imagen": "huerto/images/flores/geranio-naranja.webp"
+        },
+        {
+          "id": "geranio-rosado",
+          "nombre": "Geranio rosado",
+          "color": "rosado",
+          "origen": "cruce",
+          "estrellas": 2,
+          "precioVenta": 1240,
+          "imagen": "huerto/images/flores/geranio-rosado.webp"
+        },
+        {
+          "id": "geranio-negro",
+          "nombre": "Geranio negro",
+          "color": "negro",
+          "origen": "cruce",
+          "estrellas": 3,
+          "precioVenta": 1650,
+          "imagen": "huerto/images/flores/geranio-negro.webp"
+        },
+        {
+          "id": "geranio-durazno",
+          "nombre": "Geranio durazno",
+          "color": "durazno",
+          "origen": "cruce",
+          "estrellas": 3,
+          "precioVenta": 1650,
+          "imagen": "huerto/images/flores/geranio-durazno.webp"
+        },
+        {
+          "id": "geranio-verde",
+          "nombre": "Geranio verde",
+          "color": "verde",
+          "origen": "cruce",
+          "estrellas": 4,
+          "precioVenta": 2065,
+          "imagen": "huerto/images/flores/geranio-verde.webp"
+        },
+        {
+          "id": "geranio-azul",
+          "nombre": "Geranio azul",
+          "color": "azul",
+          "origen": "cruce",
+          "estrellas": 4,
+          "precioVenta": 2065,
+          "imagen": "huerto/images/flores/geranio-azul.webp"
+        },
+        {
+          "id": "geranio-crepusculo",
+          "nombre": "Geranio crepúsculo",
+          "color": "crepúsculo",
+          "origen": "cruce",
+          "estrellas": 5,
+          "precioVenta": 3300,
+          "imagen": "huerto/images/flores/geranio-crepusculo.webp"
+        },
+        {
+          "id": "geranio-luminiscente",
+          "nombre": "Geranio luminiscente",
+          "color": "luminiscente",
+          "origen": "cruce",
+          "estrellas": 5,
+          "precioVenta": 3300,
+          "imagen": "huerto/images/flores/geranio-luminiscente.webp"
+        }
+      ]
+    }
+  ]
+}
