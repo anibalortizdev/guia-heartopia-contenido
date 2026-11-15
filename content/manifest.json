@@ -1,7 +1,7 @@
 {
-  "contentVersion": 7,
+  "contentVersion": 8,
   "minAppVersionCode": 25,
-  "publishedOn": "2026-11-14",
+  "publishedOn": "2026-11-15",
   "files": [
     {
       "path": "catalog/creatures.json",
@@ -1832,6 +1832,2262 @@
       "path": "calendar/eventos.json",
       "size": 3621,
       "sha256": "719f9ca86a34cf663e555599eb63fd492c899484e6f6c4b94e6a37ab1bc60f23"
+    },
+    {
+      "path": "huerto/siembras.json",
+      "size": 8185,
+      "sha256": "875e019cef4c587a112e9688f5129d3f75585e33895ce6ecb1a4e6d44333d07f",
+      "minAppVersionCode": 38
+    },
+    {
+      "path": "huerto/flores.json",
+      "size": 35935,
+      "sha256": "49f9befb1568091f3c96e8e65173e6ad97a24d71ac1efa9d947c7b6435b4832b",
+      "minAppVersionCode": 38
+    },
+    {
+      "path": "cocina/recetas.json",
+      "size": 198340,
+      "sha256": "94cad135cb79ce0eb11422c464b2ef4617a6f23e042defe944637bc523eb219e",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/alitas-crujientes-con-salsa.webp",
+      "size": 146680,
+      "sha256": "354192f2822c6f67e1c9f5e2085f33bb0cbc7cf71dedb94d58e5a80a18e39359",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/arroz-frito-con-camarones-y-esparragos-de-mar.webp",
+      "size": 172262,
+      "sha256": "b287b43f16167409b809b8246ab76b3b14f0d8bbd6008ff6192ea1fda2947a89",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/bagel-de-pescado-ahumado.webp",
+      "size": 139102,
+      "sha256": "92cbc773d62576ea5d59d4ab571adb4b4fc0949599bda8d7a66eda82a2f81dbf",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/balde-de-palomitas-de-caramelo.webp",
+      "size": 156246,
+      "sha256": "9d718542014e9c52f4ae893e0ecccd274b93eec77f104ba424ba3142c715d8bd",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/balde-de-palomitas-de-maiz-saladas.webp",
+      "size": 129888,
+      "sha256": "475dccc9de2f68fab41d5c5a6b784eaddf2531c71e8913c562fe457e276509a9",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/balde-doble-salado.webp",
+      "size": 144980,
+      "sha256": "69b5d4c4f086165d703ffc3b1df97be0b13f36d78e4bb5a44237cc94b99384a7",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/balde-dulce-doble.webp",
+      "size": 133278,
+      "sha256": "135296d2831d393221ab750caee241cd703433e3ef41bf3cee838b6f0f3fb5e7",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/banquete-de-aurora.webp",
+      "size": 107912,
+      "sha256": "755f839a73521a3df050a97972ac173e8f71fd63b500fae66babd7de19e61d00",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/banquete-de-huevos-de-pascua.webp",
+      "size": 135336,
+      "sha256": "02251811686cbdbb36c06ae9cdc3b34f8b238a5857cb5ed79be0d8b9b2121e68",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/batido-de-arandano.webp",
+      "size": 96710,
+      "sha256": "9fe367b4ebdb108d424f5348453bd5ddbacdafa278e17f41730491527f82055c",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/batido-de-cacao.webp",
+      "size": 99336,
+      "sha256": "44d1ac53cf18c4bf6e5f50a2d65b156cb1e82e5c0653172ec73e9241579638a8",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/batido-de-frambuesa.webp",
+      "size": 99716,
+      "sha256": "c978e8b21f41693244ec240329cba664b6387bd58b11c1e51f5d1a865e9c8897",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/batido-de-fresa.webp",
+      "size": 93840,
+      "sha256": "7438bfb8672f8b122a19edeb9595e718dd9b53ae6605216f1749086d3ab4bb63",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/batido-de-mandarina.webp",
+      "size": 94900,
+      "sha256": "e82a527e3d3f4b8edbe151e9e4c6f6406cbfde13a76c4611bfa0ee072f8569ce",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/batido-de-manzana.webp",
+      "size": 97344,
+      "sha256": "0cc662aaad756305c78d00d6ad06eb23af2821e2fa45a0c2a272b749560e9603",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/batido-de-matcha.webp",
+      "size": 94814,
+      "sha256": "1dde529d2f5f0ba237edeef11ec58e533eff00c7d9cdd10a8311f316c3afda1b",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/batido-de-pina.webp",
+      "size": 91118,
+      "sha256": "91656cdeb6052471114033cfa9cbd920f51977f4713183fda719336056255a9d",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/batido-de-uva.webp",
+      "size": 90582,
+      "sha256": "f4d54708623e8cbb822e60106296f5843dda2345fd6adee628b1751b2f33e9db",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/batido.webp",
+      "size": 77218,
+      "sha256": "7d19040191b7504c385c61fb0c9f4235517ab5139e033b0f96325085bf763428",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/bebida-de-cactus-y-arandanos.webp",
+      "size": 141882,
+      "sha256": "3db8e57b1571ac2c19aa166f35864f3bf0842554834c8e2d216f605fd3c91489",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/bebida-de-cactus-y-frambuesa.webp",
+      "size": 146854,
+      "sha256": "ae320bf8b9bf5849d3623faf371fac6f84460b5a15636ab411ba63816053f0d8",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/bebida-de-cactus-y-fresa.webp",
+      "size": 148936,
+      "sha256": "3cdcce4d9971ac97a6b4887e8cf1882dd61bb167af35572da9148fef47a66bd6",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/bebida-de-cactus-y-frutas.webp",
+      "size": 147606,
+      "sha256": "328f22080d738a394f7e754d626206a06c6330dd78bac292839484e766e5015b",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/bebida-de-cactus-y-manzana.webp",
+      "size": 175238,
+      "sha256": "e22cdfa04e63b3c6a3748559d60dba08ed414f68fe222b63d63cd0bf37f97e2e",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/bebida-de-cactus-y-naranja.webp",
+      "size": 179266,
+      "sha256": "e0d8df1cb0bf63cb47215b25480d16b0bdfa8268ab90c4274ba8b9258cfd6991",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/bebida-de-cactus-y-pina.webp",
+      "size": 169836,
+      "sha256": "874b0247e71bd3641ad3d1a7c8e5c3d806128b14133bbcfbc8052908555d9faa",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/bebida-de-cactus-y-uva.webp",
+      "size": 143096,
+      "sha256": "33aabade5be9db8291278be21039537c7ea0c59576fe5ab53496f5c988f28a45",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/bebida-de-gato-momia.webp",
+      "size": 93320,
+      "sha256": "6d27bc89ef4341bfed428d4581fdde2f67247b2ca717a70e51b3ba124e80b611",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/bebida-de-genio-con-vendas-blancas.webp",
+      "size": 91206,
+      "sha256": "eea8900397a83c3d5046d195f202441576bd355f820d0c4b28db58e8477ff0d2",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/bebida-de-genio-con-vendas-negras.webp",
+      "size": 94728,
+      "sha256": "2b83ecd5a31fca0e8c778bab6db44dca76d664cca85e2af3ed26f29bb0994046",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/bebida-extrana.webp",
+      "size": 89960,
+      "sha256": "388901b4d97509a33ef84af9126dbd9138b81bce03ca8a650a5b3ee5933f2add",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/bebida-helada-marina.webp",
+      "size": 77352,
+      "sha256": "7a7f41fa2d2fd53ee97bfeca1e51d28087098327e06bcc903ea5a40beac04019",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/bebida-refrescante-de-te-verde.webp",
+      "size": 141478,
+      "sha256": "b6ff284c90e811df8c8677822c0c227619107088c96a8b71c14d835baada924e",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/berenjena-gratinada-con-carne.webp",
+      "size": 142798,
+      "sha256": "0f48218afcd5df83c9a2b2375a0d15a756094f9e72dc4f02af520c08f28944f4",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/boletales-asados.webp",
+      "size": 114212,
+      "sha256": "6a0ad25c63114d6a178a5384f9f91bb9cafc439b79fd92ed99638058169556a2",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/cafe-en-cubo-de-hielo.webp",
+      "size": 125632,
+      "sha256": "6d221df19754f6416c6603eddda8644a4b637f8a5f8be1246b34a283f229fc06",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/cafe-latte.webp",
+      "size": 141500,
+      "sha256": "f90ff5fa8ec90cc77ac3cf3a781355a5a192836899a997c825cef31a8fbc72ab",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/cafe.webp",
+      "size": 124300,
+      "sha256": "4374e00767ddffe405c360c3d4657e6612081dbaf9ebb2816ea48cf633153ad7",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/caffe-con-panna-de-golden-retriever.webp",
+      "size": 92312,
+      "sha256": "f9a49bda6bf8836afb185aecf844d992a605dc5e18e5232a3d8414249339b26a",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/caffe-con-panna-de-maltese.webp",
+      "size": 152426,
+      "sha256": "eedf8e08c22fc9b432bd03a30389fa70d70382e85fb564235d307ed886980fa1",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/caffe-con-panna-de-perrito-amoroso.webp",
+      "size": 134750,
+      "sha256": "407228caa1c9649be1ce2ebb84c7e41701d95a567d8b2eb34b7d38ccb3663c46",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/calamar-asado-con-mermelada-de-arandano.webp",
+      "size": 147154,
+      "sha256": "74efec6e325b0fc95884e3ba3dc76095a409be17dbd37a17048b59d3702ea470",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/calamar-asado-con-mermelada-de-carambola.webp",
+      "size": 159154,
+      "sha256": "cd2402f5a7fc08416bffce1e74975d32e0b4fd8d18241fa9acbaaed37b303fe7",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/calamar-asado-con-mermelada-de-fresa.webp",
+      "size": 144932,
+      "sha256": "d2284a195c20219cb7401d1fd3ad279e57dac8820730adc332a2a679fabeff55",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/calamar-asado-con-mermelada-de-manzana.webp",
+      "size": 146336,
+      "sha256": "9be1fe87197d33109b66840dec0fba7cfde450b06a3cc4b695733d9c9ee1f654",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/calamar-asado-con-mermelada-de-pina.webp",
+      "size": 141388,
+      "sha256": "a1157a3845d48bf1f38cc04bc428a6ed1dbf66d71cb7cd972606af0ad5d1fc2a",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/calamar-asado-con-mermelada.webp",
+      "size": 166742,
+      "sha256": "b31430891f5a4e5374fec4ce8317a6461156c13f91ae0dae84986f1443206afe",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/canele-de-golden-retriever.webp",
+      "size": 135336,
+      "sha256": "d657fbc0451e18f432e23e975514c55ae28534f432ce7d50418fd2aade8cc90e",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/canele-de-maltese.webp",
+      "size": 126658,
+      "sha256": "24a3c57a674ad500a2e91957bc00ef184fdf4e29b53236f707bdd65f8b613f71",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/cangrejo-real-de-oro-al-vapor.webp",
+      "size": 132228,
+      "sha256": "1a5dd3f004685d6680f5dc0c4bc4426ed36186b61e18a5e5c3a0baf210702023",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/cangrejo-rey-al-vapor.webp",
+      "size": 142912,
+      "sha256": "cf78691c705845e0051951c9dc72e35dafca7e39bc8b5dcf1cc6ace29312782f",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/carne-a-la-parrilla-con-berenjena.webp",
+      "size": 123162,
+      "sha256": "c7cd956fb58371dae769caaf4a8ba6ec35a3de07f6deeee4b87bb6e83869ae18",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/carne-a-la-parrilla-con-maiz.webp",
+      "size": 119122,
+      "sha256": "8396e7333ed86919c4e581ba472677d4d667d2efde6859dbe5b74df4580f365b",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/carne-a-la-parrilla-con-papas.webp",
+      "size": 123982,
+      "sha256": "1a008d53371e87fa22ba0da8a057876432ab5276c2ae817c4956e586b23e3ccb",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/carne-a-la-parrilla-con-tomate.webp",
+      "size": 126562,
+      "sha256": "fce9050b0ae424e17ca04e567a9d6aa2cc3b43baaa0c3d2e9fcad0e40e910392",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/carne-a-la-parrilla-con-verduras.webp",
+      "size": 126306,
+      "sha256": "f2bbd46557fe1072636ce93b5e452c953f7b484fa0bcf5a71abc24b7e869ddeb",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/carne-a-la-parrilla-con-zanahoria.webp",
+      "size": 120984,
+      "sha256": "bf0b035b68028852236d4edc54a0ccc214eae7e75cbe25b9e3de0f348485156e",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/carne-con-pure-de-rabano-blanco.webp",
+      "size": 106392,
+      "sha256": "5037e95c3f25dc036124603efe83498dc1f490efe1ebdd59b1a8af924fa6f9b1",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/cena-a-la-luz-de-las-velas.webp",
+      "size": 128442,
+      "sha256": "9a505829638ca581b92fe6f9fe99a5cd0802022dd1ab5fb704c2f8e5dd97c547",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/champinon-asado.webp",
+      "size": 118130,
+      "sha256": "bded59c7fa61d93127e7682a0b3cfa099733c73694330bab7094e789903e5150",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/chawanmushi-de-uvas-de-mar-y-shiitake.webp",
+      "size": 166500,
+      "sha256": "19b716246572dffbdfd58be6b3f5e49e575126aa64417c7ffdbdca8e183c2462",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/chocolate-caliente-con-uchuva-y-arandanos.webp",
+      "size": 141760,
+      "sha256": "00ebf80b3cf8f405872c7b2eed6f228720ab415d98a9981c5c76c0ba91fb0fc6",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/chocolate-caliente-con-uchuva-y-frambuesa.webp",
+      "size": 172748,
+      "sha256": "84b23aea3d8d2c90fc346c2bd175d9409e709925f2216071ea6d89e97b1f3071",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/chocolate-caliente-con-uchuva-y-fresa.webp",
+      "size": 170614,
+      "sha256": "1e2fb83762f60139ec07f14aa51cca24a16ff0061166999198044f0140b31540",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/chocolate-caliente-con-uchuva-y-mandarina.webp",
+      "size": 141422,
+      "sha256": "084042e7c8985d60f17aa101845b5125c64d483e985142bd099a70cbf895965b",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/chocolate-caliente-con-uchuva-y-manzana.webp",
+      "size": 150880,
+      "sha256": "03ea5b4a1bf398539f30a91c7d76024581c69ae209f31a880fbfb57162d238ac",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/chocolate-caliente-con-uchuva-y-pina.webp",
+      "size": 144096,
+      "sha256": "0ea8397bcd420098383a9dd3b6a66ea66df3ef977e504a84d0a8b03bcbd71307",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/chocolate-caliente-con-uchuva-y-uva.webp",
+      "size": 150168,
+      "sha256": "a76ec7b5f5945ec799b645502a9b37927137e777557917e0bf0cb80b5a2708f7",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/chocolate-caliente-con-uchuva.webp",
+      "size": 133866,
+      "sha256": "5aabe87aad1fb6132c9b1edd5fd2b3edfc69fe01a081f0810a40328bf7d87ab4",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/chocolate-de-calabaza-etereo.webp",
+      "size": 140406,
+      "sha256": "34832f1100a48d6571303f054657ce15a86b6cdff0801ceff89c587e9b84625b",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/combo-colorido-para-ver-peliculas.webp",
+      "size": 148390,
+      "sha256": "1bc6e8dd3a666ddcc862fc70d2615949ca2c84ec72148272b14d5e0fdd460d06",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/combo-divertido-de-bloques.webp",
+      "size": 99306,
+      "sha256": "185beadaa53257efadae6fe13f9c20a39d7967caf4d5dfe703fc7cd005cbf964",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/comida-extrana.webp",
+      "size": 129314,
+      "sha256": "632e8d95e68d6e6d10d9dfa63cd40809ef6bbca1b6a36737cef7cd6d8d9e7221",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/copa-de-camaron-con-aguacate.webp",
+      "size": 123316,
+      "sha256": "4190c03ce41ba8803451d28650c439cba9dc230d7357ed6c0d58fb2c602a58a9",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/crema-de-leche-de-rabano-blanco.webp",
+      "size": 146840,
+      "sha256": "d18c2e549a9ab9fa43704bcca2744332084d2d29e40da51dc7cb61a8b2aea067",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/crepa-de-cinnamoroll.webp",
+      "size": 74980,
+      "sha256": "a38edc049d85554972fc560d7dafbf87641a43dafcb7dbacb1098eefd9c27e91",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/crepa-de-kuromi.webp",
+      "size": 103166,
+      "sha256": "f8e96395103c5ee9a2c27209f04e6d242bc50332390b5a105dd414bd54658935",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/crepa-de-my-melody.webp",
+      "size": 113914,
+      "sha256": "61bdb63ab757f4b3b10d7a50061352ed188808deb33315a2abd6b95622f4cfac",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/donburi-de-huevo-recomendado-por-bancho.webp",
+      "size": 158062,
+      "sha256": "62eb6d2f1b7611864844d959cf98868e2cfff80d7062ac7e8dc11f2ed453d24e",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/dulce-festivo.webp",
+      "size": 150860,
+      "sha256": "7c06dd953696bc33df1a7bd01a35fc70be6497fe35e04714145e717d77072e19",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/ensalada-de-campo.webp",
+      "size": 170464,
+      "sha256": "07147d25b78e79d238f4672ec5d751a2d041eaa4bd4c556cea46c864f4fe3d26",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/espagueti-con-crema-y-trufa-negra.webp",
+      "size": 141764,
+      "sha256": "30ef3439b1a73efaeba35e21978147bd7475a653d6ea71b41aeb7ace92caefb6",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/espagueti-con-salsa-bolonesa.webp",
+      "size": 173314,
+      "sha256": "6a199ddcb1dbc8c1460505aadff91a118c44533eb86bd710f83796a426905bc0",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/estofado-a-la-rural.webp",
+      "size": 151836,
+      "sha256": "dd884006d8fbe4a02224d608ba6c67003327a0f23f9fbec5e305df1f59e42e6c",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/festin-fantastico-de-bosque-encantado.webp",
+      "size": 132670,
+      "sha256": "f0fe8db72b338771497484c29de525607f7097ef6e015a321ee773f999878c87",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/festin-marino.webp",
+      "size": 102360,
+      "sha256": "094f0406a8662af9e75c813f2c7cf0d35d4b035922cca05a06311b056c79519e",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/fideos-de-calabaza-con-queso-etereo.webp",
+      "size": 117238,
+      "sha256": "1484f98610ff6f026002c53b5e0bb0e692808f00237fd4071e949b6992b963c2",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/fideos-tom-yum-con-sepia-atigrada.webp",
+      "size": 147616,
+      "sha256": "6647eeeea5ba9f1a64658bde943dbc2adc5c443b9c7bc9d960a47935f049b39d",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/fideos-tom-yum-con-sepia-dorada.webp",
+      "size": 148914,
+      "sha256": "ed9263c189cff73f83d1d80827979fd16005606886d352cc224134832cca6c91",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/fideos-tom-yum-con-sepia-sin-espinas.webp",
+      "size": 148872,
+      "sha256": "73ed7d1986d6cffb7e814f410f1cc74e447d3ff950765eaf925b5209f5d697e4",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/fideos-tom-yum-con-sepia.webp",
+      "size": 180964,
+      "sha256": "79047084c561b854da4685797431491ae2436ca1d2cccb4ee58c8e5024489db1",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/galleta-de-gatito-de-calabaza.webp",
+      "size": 137138,
+      "sha256": "b5e70c2e278d1da143b263c63e66d00b592df8fee5e5146be955f9852c19c35a",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/gomitas-arcoiris-del-amor.webp",
+      "size": 132940,
+      "sha256": "16bb28d781d2ebd2447f91af77c08c51c5c7552bc35a13bccf0e3e757d67153d",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/gomitas-arcoiris-del-flechazo.webp",
+      "size": 131920,
+      "sha256": "b46ca57192bd4091f2c14570dcf074bda54170f25a2df66f34fdb97d77efce8c",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/granizado-de-arandanos-en-cuenco-de-bloques.webp",
+      "size": 133090,
+      "sha256": "ad3e3cf7eb4c8c6d19ffcce0c9b711a27231bd9b9cdadcc5b76426d759adfb6e",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/granizado-de-frambuesa-en-cuenco-de-bloques.webp",
+      "size": 132884,
+      "sha256": "0991d2f59285b774b1165076e4b41459cea9297568f75107b871320a09bebdcf",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/granizado-de-fresa-en-cuenco-de-bloques.webp",
+      "size": 129900,
+      "sha256": "5e35fe9ca9b254ec2fd3474a3f1f78ee30629568fec4c8b1227c83063450f04b",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/granizado-de-frutas-en-cuenco-de-bloques.webp",
+      "size": 133604,
+      "sha256": "e6a34ad1424c2428584b7bacd364867c553fbe2fe4583b024320fe7089772f5c",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/granizado-de-mandarina-en-cuenco-de-bloques.webp",
+      "size": 131188,
+      "sha256": "f8bea9534aeb036baea007b6998849824fdd0e10bde038fd9cf80495a8ac0336",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/granizado-de-manzana-en-cuenco-de-bloques.webp",
+      "size": 120800,
+      "sha256": "62876396e70f0bbb47745e9f7c45b1ff0a6a151a51ad37d4cec80a4fe77e63b2",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/granizado-de-pina-en-cuenco-de-bloques.webp",
+      "size": 122272,
+      "sha256": "3501978595c0e13cb16bb9832d9a7b6cc60a5e3af1c65a470ff79b13c30a84e3",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/granizado-de-uva-en-cuenco-de-bloques.webp",
+      "size": 122988,
+      "sha256": "374bf120546d1da9760067fe8ca833e54314889031622dee0c9d311d033f79e2",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/hamburguesa-de-boletales-con-carne-de-bloques.webp",
+      "size": 194916,
+      "sha256": "6fa395d07a5216dd828146c2b3a47706e420dcdef10b70099c75a3d60e993552",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/hamburguesa-de-carne.webp",
+      "size": 126050,
+      "sha256": "13ff8ed1b30a24bccb4c52b7683b9ae0cd73a39060ca96193904393a7e03264e",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/hamburguesa-de-champinon-con-carne-de-bloques.webp",
+      "size": 133632,
+      "sha256": "e83f59422adad046aad5c34dddb1ef7028e57fb5b7e052b82ebe34effc920819",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/hamburguesa-de-doble-pollo.webp",
+      "size": 150958,
+      "sha256": "cbf19b846348f6d7439b5a1f2f0847115a0a9e35bd67b882ecc28b65799c6c06",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/hamburguesa-de-hongos-con-carne-de-bloques.webp",
+      "size": 142800,
+      "sha256": "da8fc2683ac11624457ea0ead5a0534ea839c75053a24bc28da831769a9bb39e",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/hamburguesa-de-seta-ostra-con-carne-de-bloques.webp",
+      "size": 137896,
+      "sha256": "df361d2bbb5d88e304b1573e77d7adbf5b262cf5c36a3c3ef6bb63e41e47a714",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/hamburguesa-de-shiitake-con-carne-de-bloques.webp",
+      "size": 145336,
+      "sha256": "ffbd8b9287808753a8daeda70580effcf39193b92fbeb39c0eb16550bef813d0",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/hamburguesa-de-trufa-negra-con-carne-de-bloques.webp",
+      "size": 132010,
+      "sha256": "94d127a7c4fd507de3752a1a0859c528ce03afaefc28e042678d46aa5b2e7d48",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/hamburguesa-imperial-de-7-carnes.webp",
+      "size": 180636,
+      "sha256": "19a1ea0d140ce2bed538e5e92de8195500921717bed5f78733f5b040bb7c463a",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/hongos-asados.webp",
+      "size": 110970,
+      "sha256": "d378a17f34605f0cde94bc69c82743078c41552a23006f93b7f90735fed6cbd0",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/huevo-de-pascua-con-vetas-moradas.webp",
+      "size": 84020,
+      "sha256": "490bb9bf4da5b33f56dd86eb14cd4950b330f360b789beefde18dd2f436676e5",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/huevo-de-pascua-con-vetas-naranjas.webp",
+      "size": 94600,
+      "sha256": "43c2d26e985ecba859715488222b4cc1f639237ee7732142b52793e79fee3b85",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/huevo-de-pascua-con-vetas-verdes.webp",
+      "size": 91560,
+      "sha256": "2c8e05e6407adcd452e65ce8800e4a123bb4c95463585e10f223b6a3607cfb7e",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/huevo-de-pascua.webp",
+      "size": 90558,
+      "sha256": "a2aaf3e668fbcab3090acc02247ef9209ff29f869655628bc888fcabbb7fb031",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/huevo-termal.webp",
+      "size": 96236,
+      "sha256": "1e7ee93a8fd6f4d62b8c41b8ef25286adf23ec4b3685ccfd9ef3a3a0ffea378d",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/latte-en-cubo-de-hielo.webp",
+      "size": 125204,
+      "sha256": "06977caa81cc6286c7cd6a037c7a5c0bdc33a94c7cbe3024f8e85c8614fdbaab",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/mariscos-variados-lujosos.webp",
+      "size": 137844,
+      "sha256": "9dbfece622e2f66098ccc9f2506965f76c7e495d6ed181287f3cccbcf43b4e79",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/matcha-latte.webp",
+      "size": 147864,
+      "sha256": "bd9ba1ab8e0c188c2097d562612b8d51f7601393b43a04ff409dc90acfdc4515",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/menu-de-campamento.webp",
+      "size": 122260,
+      "sha256": "3935419315cc74df1b4976821bcc3f11f1deca7ea51fdb7b910aea25486ec81b",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/menu-de-sabores-primitivos.webp",
+      "size": 128316,
+      "sha256": "64483d13cbb9eba222eca497dc48d34e36145c056044aec69503aff56f99f513",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/merienda-britanica.webp",
+      "size": 102520,
+      "sha256": "79e5f937306d03185f663ca93448cf8b03e1e5a6c553b7276c7c162e9cf42b23",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/merienda-exquisita.webp",
+      "size": 119676,
+      "sha256": "e1adc8605792925ed1aa29d8d510ac4a08361352a524b5c9cab248c3ec69d1b0",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/mermelada-de-arandano.webp",
+      "size": 111862,
+      "sha256": "3e5865a1d65ea62d9bb85b690122adb288294e46e05cdfdaf6e322494c5c8832",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/mermelada-de-carambola.webp",
+      "size": 139972,
+      "sha256": "e4dc03cfe07a9d3c16d3c613a0c577dbbc6c897283ea334eaf9c08beed8ec22d",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/mermelada-de-frambuesa.webp",
+      "size": 109688,
+      "sha256": "a49e982d849a0e3205cd9ac8d997aa1473d8b3e0276216cd3abb48895ae5593f",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/mermelada-de-fresa.webp",
+      "size": 126756,
+      "sha256": "5bf9ad4d1badcb8f9279c9e26679be431d2aaa9fbc352e7c514da30d60d7201c",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/mermelada-de-mandarina.webp",
+      "size": 125704,
+      "sha256": "bcf234c7a1ad6998f0f782cf1913e068bce74e7581df3936f8cc8e9bd996a18b",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/mermelada-de-manzana.webp",
+      "size": 125854,
+      "sha256": "798b52587bef7a10977a1de18df38adb942328968ea2260972829a15604165bd",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/mermelada-de-pina.webp",
+      "size": 103752,
+      "sha256": "d15ac2ae9d5f0118749b5ca11b82728dda66fdd4c859fde9d049a3cec0ea3ea7",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/mermelada-de-uva.webp",
+      "size": 107080,
+      "sha256": "75ae20becba94c3e51e2adcb5f5d29d78e0b22dd6277a3f95ecb79fc692adc7b",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/mermelada-mixta.webp",
+      "size": 111376,
+      "sha256": "2367f4a1b610efcec4fd8973f0ba719b7d74d8242834ff8e2dbaa7811f198d36",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/paella-de-mariscos.webp",
+      "size": 173096,
+      "sha256": "982fa4d701f18342e7c22e3bab122f68e31aab6049611e0815b229cd49d67cb4",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/panqueque-con-azucar-glace-clasico.webp",
+      "size": 140270,
+      "sha256": "145d3a79f250046f5268d15daf34bc5cdd8eec5407a9893f86a46d5c32bfb605",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/panqueque-con-azucar-glace-de-arandano.webp",
+      "size": 156718,
+      "sha256": "a0d6d300047ea3a90e1e8decab31212744cb34e3d758f6dc7ef08ef4e019079a",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/panqueque-con-azucar-glace-de-frambuesa.webp",
+      "size": 131884,
+      "sha256": "2b66c8f95f2128ea7cd90e42d49af3c8dd3a303624125a03ed7f940bdb8bd0cc",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/panqueque-con-azucar-glace-de-mandarina.webp",
+      "size": 152842,
+      "sha256": "fc337c725a5f359365fb00825f4f87418629e7b69da93cca5e48023f92d6a36a",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/panqueque-con-azucar-glace-de-manzana.webp",
+      "size": 126350,
+      "sha256": "564b566f73275eb121adabcea96502c76511aa4ef74a4b52c90e316979bfe668",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/papas-fritas-onduladas-con-salsa.webp",
+      "size": 152534,
+      "sha256": "f7c4f7b6c0975b0db81992f8839016cafbe09da230d89928a712a2e08f834d81",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/paquete-supremo-de-cine.webp",
+      "size": 130992,
+      "sha256": "4ddcc061711407ad331740adddb6ec365429b64b59f0178ab1a533d2c76e2450",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/pastel-de-boletales.webp",
+      "size": 136704,
+      "sha256": "f034764415daf2b4a942161b0ea2a355a17ea67b4e8281822f83c13adbc20b95",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/pastel-de-champinones.webp",
+      "size": 152544,
+      "sha256": "eb0932c714c4d5a716c19df2d738e0832d5a87cfaae0dbc16a83a35d484438d8",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/pastel-de-hierba-fresca.webp",
+      "size": 102148,
+      "sha256": "a063c5c969e03256fd450c4be40d0b81fe5af672b8f62f622fa84bba743e97f9",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/pastel-de-hongos.webp",
+      "size": 133876,
+      "sha256": "f97536b0767ee4668e528480b84d917f77aee49047e1c6c686480d733d7774be",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/pastel-de-luna-de-chocolate.webp",
+      "size": 129342,
+      "sha256": "83d45740265db0091cb58ee6b787d72096a977169c22f871d9d13cb1b33bd6a3",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/pastel-de-luna-de-conejo.webp",
+      "size": 101310,
+      "sha256": "de78011270c263259c4020f84c9c0089daa0c87e0e1cde5d72edfa920c004da4",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/pastel-de-luna-de-lava-de-conejo-de-jade.webp",
+      "size": 118490,
+      "sha256": "3b6e0b251d554c50e6d9a15b5eb597daaf78124349aba1b1c9109e95612b5682",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/pastel-de-luna-de-lava.webp",
+      "size": 133350,
+      "sha256": "9f009b753d948662840634aa6f589f93188b2d9fcd2d96128534368721e74a7d",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/pastel-de-luna-grande-de-chocolate.webp",
+      "size": 150406,
+      "sha256": "6c63d7500efa7a41bd50eded54f6aa8e83d736c96a95130c63cb55d54f63c5cf",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/pastel-de-luna.webp",
+      "size": 137140,
+      "sha256": "27f231627b82f1605b109c39a206ad6c0c278be601b60a13e740eafd01f75883",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/pastel-de-setas-ostra.webp",
+      "size": 111380,
+      "sha256": "f463c4b702a44026f2c96a8006fad4289029a01b6f73d08d0319ed5b622f304d",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/pastel-de-shiitake.webp",
+      "size": 137816,
+      "sha256": "8243fc6d8ca7ea2ffa3f6d8ea41db13572def31304cfdef2de8fffee73bb5b18",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/pastel-de-trufas-negras.webp",
+      "size": 128918,
+      "sha256": "a4356679f17ceeae5cb3b8757203be989ca10a98c259a8cc15f0a3b4aad4a818",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/pastel-de-zanahoria.webp",
+      "size": 156602,
+      "sha256": "9fba446a7dfb81c97a152ffc3958a29556a3273a5d96077074351ee0cb12dee7",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/pastelito-de-perla-de-arandano.webp",
+      "size": 119880,
+      "sha256": "c6413fe40ce661417841dc8533c05459a05e766c623ff7ef6a1b6b7133290158",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/pastelito-de-perla-de-caracola.webp",
+      "size": 125798,
+      "sha256": "c2a6b1579da3c333f57a9d037c1b09379a3a10d9ee1a1ae20b3068cbe82ab121",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/pastelito-de-perla-de-carambola.webp",
+      "size": 119564,
+      "sha256": "f41285cc25a9b32c4ecf17d71addd46b4a81dbc7134fd292730f88257cf04d0c",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/pastelito-de-perla-de-frambuesa.webp",
+      "size": 112770,
+      "sha256": "902822f7c6fef96e3cfb6bd0b2659b6a8c1a9cc634283944f22cc94ec4adec0d",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/pastelito-de-perla-de-manzana.webp",
+      "size": 111548,
+      "sha256": "902f4a8295ed5af61d7cea57017d4c1d2a85abfd11e5958be4947c80d8b3fbf5",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/pastelito-de-perla-de-naranja.webp",
+      "size": 119606,
+      "sha256": "93ed213db518fcd139afea6d2eadf8ae03ef737a5c83b556e0400dde6dc063cb",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/pescado-y-papas-fritas.webp",
+      "size": 131948,
+      "sha256": "7f93ec4e4533b24bc3a09aa2022ac13f25e58f3c5e63a838ef3628e45b63d632",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/pinzas-fritas-con-camaron-y-queso.webp",
+      "size": 140414,
+      "sha256": "5dfaa69a247b7a32f43ac8fbade09d80a71a928d82578d3a0137e90780f6f8c1",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/pizza-de-mariscos.webp",
+      "size": 134740,
+      "sha256": "608b1c07f7f1ebe538511203114ad299afada7bd43d547bd928db17061e93c0d",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/plato-frio-de-cigalas-azules.webp",
+      "size": 106060,
+      "sha256": "6c7a0ea8227f64e38417f432175c2c393c0e9e176339194be4154b2036b9469c",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/plato-frio-de-cigalas.webp",
+      "size": 118832,
+      "sha256": "c990f237aa49884787b7f64590ffabd94db0bc507fc5ff962cedd716a0371eb7",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/rollito-de-nube-amarillo.webp",
+      "size": 137042,
+      "sha256": "9b0802bda00cdda1ca48b1e6cd5260d167190d7396fc1eac284ba9df4bf0596b",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/rollito-de-nube-azul.webp",
+      "size": 144614,
+      "sha256": "b3786577def720e17d343a1e5f90abf6e699b4dd6388b49e58a4cf144cd7c3ac",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/rollito-de-nube-celeste.webp",
+      "size": 138466,
+      "sha256": "3a231c5ccdae485cfb81f331a668c5d478cc4eeb09dcc776e7aa866f3239d089",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/rollito-de-nube-clasico.webp",
+      "size": 130446,
+      "sha256": "4e4298f4e58234d3340b288340fa04b7e769c284b69a46bab88dc189af881146",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/rollito-de-nube-morado.webp",
+      "size": 132262,
+      "sha256": "1730b517458cb2d348bbac536a5e8eb8acd2f46aa20ce3882b0fbd4feea68b35",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/rollito-de-nube-naranja.webp",
+      "size": 128180,
+      "sha256": "0537e48454fea742431e9170b56b774f70af03c13fa72ad7fb7da3f6414e4c59",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/rollito-de-nube-rojo.webp",
+      "size": 146422,
+      "sha256": "d938a9714c4ca6b455168f3517f3832afe2171e9479b785aae95fa555a9be18a",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/rollito-de-nube-verde.webp",
+      "size": 143074,
+      "sha256": "f8709ffdc60e21c4e13b08515a929c5be05c252a3a79905b24fb6e337a1e98ab",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/salsa-de-chocolate.webp",
+      "size": 110492,
+      "sha256": "9062c9644ebf6846051f83818c7abf322a9fd6fcc59604fc2f4d327462f80a3b",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/salsa-de-tomate.webp",
+      "size": 106642,
+      "sha256": "699f36d643372893b04b61d59469271db87151e07ec4c74e74971add9fb05985",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/seleccion-de-pasteles-de-luna-de-conejo.webp",
+      "size": 85986,
+      "sha256": "eca94c54eba5820e7a511522e18e74e9ac5cce089d8f92f4c44af44484b4cf8d",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/seta-ostra-asada.webp",
+      "size": 100644,
+      "sha256": "4bb8ff7ad5310fa47ab5388f76b5ef59ca0d87588f030e7f8568ddb118b94307",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/shiitake-asado.webp",
+      "size": 125986,
+      "sha256": "57e6e7b169770a9419e166b00edb3c8db679570182f7d5986ae38af2d80adae7",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/sopa-cremosa-de-calabaza-y-berenjena.webp",
+      "size": 111836,
+      "sha256": "6e1415ab6421521110f642297d820489165b1303e89c3289e8629d37e0bd49c8",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/sopa-cremosa-de-calabaza-y-maiz.webp",
+      "size": 128912,
+      "sha256": "376bc2dcc111ab63829c5c12692b18b25ec8840350f94f9f6f1df7f61ccbf97d",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/sopa-cremosa-de-calabaza-y-papa.webp",
+      "size": 123412,
+      "sha256": "0b43133f6144dd555486994fb90ec7b78fa1520ded4167e3dc35f526a7fcbde1",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/sopa-cremosa-de-calabaza-y-tomate.webp",
+      "size": 133816,
+      "sha256": "49d3ede60a14efffb87c4343f5e8a432ad98c012c0f676056d5bc4a82a75af2d",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/sopa-cremosa-de-calabaza-y-zanahoria.webp",
+      "size": 148510,
+      "sha256": "3f4af6179fc44dfff6e9697df10f0f867c173301505622e46c46a7bb5fdb4cf6",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/sopa-cremosa-de-champinones-y-calabaza.webp",
+      "size": 142362,
+      "sha256": "1969955457a31c41304af7dd35225d647674411efe1dfa1cf4ee14e53c2953f6",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/sopa-cremosa-de-maiz.webp",
+      "size": 130208,
+      "sha256": "d9eacf874ee9b57bf77ce7ad8fbc7afd911b00f6c221acaca55789e241d845a8",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/sopa-cremosa-de-tomate-y-mariscos.webp",
+      "size": 112338,
+      "sha256": "e85356bff2b7d859b934be9dec13a47e934c9faf18ea2dedf4d54a7931273def",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/sopa-de-albondigas-con-wakame.webp",
+      "size": 134588,
+      "sha256": "9aa800bed4eb1a74de21c5fcce4640a9c7b6e48e31eadfe75c2d6dc8c19eab94",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/sopa-de-pescado-con-cactus.webp",
+      "size": 144972,
+      "sha256": "435267e520328d2ffae235d6d7a0106d175118ec27d98d52ada6508790a4f81c",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/sopa-de-pez-gar-dorado-claro-con-cactus.webp",
+      "size": 137352,
+      "sha256": "8709c971c0668fce89bbed844333c82a755016d2f11b0fe2e43424b5e789a6b7",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/sopa-de-pez-gar-dorado-con-cactus.webp",
+      "size": 145422,
+      "sha256": "84e4a13bc9850c31eb52c2dff9db1724d8eff2b2f8a70f615a0465776c10c8a2",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/sopa-de-pez-gar-moteado-marron-con-cactus.webp",
+      "size": 171170,
+      "sha256": "ef80394530c120cbb4cfc44e039b4d32888132e43facd22592c027f1e3cfc8b0",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/sopa-de-pez-gar-moteado-negro-con-cactus.webp",
+      "size": 131702,
+      "sha256": "0a450885542ae561db0b1c267a78f978efde82c559393197d31c6078a3d5b58f",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/sopa-de-pez-gar-plateado-con-cactus.webp",
+      "size": 172200,
+      "sha256": "35aff23e1901bb47f0f2e36a538c902820d98e8e09035901bc15c3db1cdc8cc2",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/sushi-de-camaron-frito-recomendado-por-bancho.webp",
+      "size": 113936,
+      "sha256": "3e229b80c2a6c1bae43e656ae66f83fe46f0429ec55ea5941e5daba8f2820707",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/taco-de-lechuga-con-ajo-mostaza-silvestre.webp",
+      "size": 161196,
+      "sha256": "e1ac26601d69889f5cb3fe9a2c3b2cbcaf6454ffc744ee1674101757dbdd1b64",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/taco-de-lechuga-con-bardana-silvestre.webp",
+      "size": 153424,
+      "sha256": "d23f80c45e10f1e07ca31e47b96de3146307b8205ee4256c5533e4d6ab3a0992",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/taco-de-lechuga-con-helecho-aguila-silvestre.webp",
+      "size": 152522,
+      "sha256": "1bf6f0c8504c8939c34a6924beb73bbc41f24819ed917d015e57f2b61a8c8f9c",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/taco-de-lechuga-con-mostaza-silvestre.webp",
+      "size": 154542,
+      "sha256": "5ecba19b130fdcd0b1954433f8f1f5338ade6a3a2b16b074629463a2090d9e95",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/taco-de-lechuga-romana.webp",
+      "size": 145048,
+      "sha256": "a863016f6d1a6f807a48f941f3ddea3ae48bd3e1af400a5a5ed3e097ea84d623",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/taco-de-lechuga-silvestre.webp",
+      "size": 179508,
+      "sha256": "5ac482f8308b84d316e883d73e2b46379e563db4281c728724aed81d3afd805c",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/tarta-aromatica-hierba-luisa-de-arandano.webp",
+      "size": 112736,
+      "sha256": "0f4a089c8500c2d5d4ca48ac5f7a3dc27a24aa1176a2ae22bd266ef2f4ca0841",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/tarta-aromatica-hierba-luisa-de-frambuesa.webp",
+      "size": 117238,
+      "sha256": "d5d0d2b3698f67d908c15d40c4652999d4556c1dc719cb7d6e0ae60874c9c382",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/tarta-aromatica-hierba-luisa-de-fresa.webp",
+      "size": 126912,
+      "sha256": "165e2cd001305a2806d54beba0ec89290299eb78012e483600614ac7ad8c4dfe",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/tarta-aromatica-hierba-luisa-de-frutas.webp",
+      "size": 128126,
+      "sha256": "2bca7b5d252d6d41c6a4034c225faa13e069b05415d7f6d8a88d65d712e4f120",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/tarta-aromatica-hierba-luisa-de-mandarina.webp",
+      "size": 149102,
+      "sha256": "759fd39fda3cb1df0144b43f886c25cd53659be1215ca4f70e85f5308fdc3aeb",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/tarta-aromatica-hierba-luisa-de-manzana.webp",
+      "size": 128874,
+      "sha256": "f16795658dec5646bfb0d4cdb6ea5c852691df215161151593242f022c76166d",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/tarta-aromatica-hierba-luisa-de-pina.webp",
+      "size": 139580,
+      "sha256": "43e031d761ba7fc2dd083b5018b4b5dc72574532eb4efc56061246747847221f",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/tarta-aromatica-hierba-luisa-de-uva.webp",
+      "size": 113704,
+      "sha256": "a150326a50375fd522800860d2adc614266b76d0928244e773d7186bedbaca91",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/tarta-de-calabaza-risuena.webp",
+      "size": 117060,
+      "sha256": "1b6c472017f21d0b5e1bd2cde2a7ebc2dc177992c4de66bb05c39acc56df1ac3",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/tarta-de-manzana.webp",
+      "size": 160760,
+      "sha256": "3b922801af2f9320ccaaffbd23ee382f3f4da1aa718e45e9b251d4625ef35424",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/tarta-de-queso.webp",
+      "size": 118636,
+      "sha256": "d602f278e662c2f59def577761033b2a45c138db263f84a0ae161bfd8e868898",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/te-con-leche-cremosa.webp",
+      "size": 128112,
+      "sha256": "12ce37ab17f44c1065fcbf627c1f83af77621ddd808f3796a131d1a511640793",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/te-con-leche-de-cacao.webp",
+      "size": 148870,
+      "sha256": "2bac9f749ee85561560917d9aeed8f3dc9c7560e04aeba26b9cef199085ec63f",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/te-con-leche-refrescante.webp",
+      "size": 129476,
+      "sha256": "27bea0412b1dc58957bd9fec98429e66f22e4cba6ab0eda290edfb24ab739679",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/te-de-margarita.webp",
+      "size": 143100,
+      "sha256": "573bd6e2cf73ba0e6f45f24c286245ee4fcec593fdc902022a66bd3aacd47d34",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/te-de-rosas.webp",
+      "size": 136498,
+      "sha256": "96b4e4bb9f67134caab353e50762d943aa3f34cf9717a34f8e25ed9ee9bc759e",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/te-negro-aromatico.webp",
+      "size": 143184,
+      "sha256": "a9fef300eb650388b2f4531b32f63e849b31340f52314685c1242396204ce951",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/te-negro-de-arandano-primaveral.webp",
+      "size": 114532,
+      "sha256": "ec8982831d7a0884e42364c6f1f2cc17358d37004280e7b5eba2fe015b9ddbb5",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/te-negro-de-frambuesa-primaveral.webp",
+      "size": 116524,
+      "sha256": "438e24db3a73efe66be8d0306289706a910190f037e3daf89a815d0f4d2f08e0",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/te-negro-de-fresa-primaveral.webp",
+      "size": 127686,
+      "sha256": "84b9bec5469e57e1efc18ac97a581a93616b3e21be0368eba7d9c74d38f93ca5",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/te-negro-de-mandarina-primaveral.webp",
+      "size": 142206,
+      "sha256": "623bac0d503ef545f7b04196f766aadb1140676fb116ea65b269244923ee3b40",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/te-negro-de-manzana-primaveral.webp",
+      "size": 132938,
+      "sha256": "e9d25f4129bdf93445567844879bfb74c3a751e778ddc6dae94f8f93b5189a87",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/te-negro-de-pina-primaveral.webp",
+      "size": 130364,
+      "sha256": "48d5a184d7c20c7bb3b5052b3757b61c05dfc05b3bfe17b0820717ba1d28185a",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/te-negro-de-uva-primaveral.webp",
+      "size": 115098,
+      "sha256": "1146f8c262e346747d03e5e971a6eb521eb7a2bcc4f1e5090b3a61e031f56d27",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/te-negro-frutal-primaveral.webp",
+      "size": 135488,
+      "sha256": "d3c9a736b5988f5b5f20156ac3685d962492d12c291d851df204b171d2193eb0",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/te-tostado-con-leche-y-osmanto.webp",
+      "size": 143236,
+      "sha256": "e64f8f3535645757c8719ade7b83b2b587aef8157b7375ac4321fdae7f9a16fb",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/tiramisu.webp",
+      "size": 125622,
+      "sha256": "c9655e470596fc7950932fe84fba5d3cb628368c417952f5c69720de88670afe",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/zonazi-de-pasta-de-frijol-en-forma-de-almohada.webp",
+      "size": 111580,
+      "sha256": "56ab13b7d9c5fc143e22db424f0e40b6d5fb413addd3074b294eacfb035f2eae",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/zongzi-de-arroz-en-forma-de-almohada.webp",
+      "size": 181008,
+      "sha256": "ec465bf56764ff65067b52c43ee395a9271ad43595ceda2455c4dee2da0bd160",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/zongzi-de-carne-con-gema-en-forma-de-almohada.webp",
+      "size": 120002,
+      "sha256": "c37051988f9ad1db325f7edaa40e6417567dba993a57e9c2f73b3ae071bb8ff5",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/zongzi-triangular-de-arroz.webp",
+      "size": 103632,
+      "sha256": "41178e3c6250b60021fd82a2f33f6a431ca8f39c55c724cf79fdcf81fad2c992",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/zongzi-triangular-de-carne-con-yema.webp",
+      "size": 89504,
+      "sha256": "2576eda450be372861a3c44a2c8b6ffe09a32793fed5676c22d8e6a9f33eb12f",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "cocina/images/zongzi-triangular-de-frijol-rojo.webp",
+      "size": 83424,
+      "sha256": "790cae458c546def8968ea656d9f99abb618388bb7fb150f64cc5f8ef7ff2753",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/amapola-amarilla.webp",
+      "size": 156936,
+      "sha256": "031558e907a2efe7c1b3f04450f7e4d7d79bb77202d4d891f5d9c671d5bb6573",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/amapola-blanca.webp",
+      "size": 135916,
+      "sha256": "cb40ca3413dd315004a4e7156e62ce955fb467a1d18887a9423d200f33a85256",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/amapola-crepusculo.webp",
+      "size": 122722,
+      "sha256": "0806feca23ecc7b176b8863a62934d1bf62be7f784d288311a358be796751916",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/amapola-morada.webp",
+      "size": 136338,
+      "sha256": "c00a19806f545b3a7fbb571d3e90f472773c6b0f590e17a7e851faa8abab9b48",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/amapola-naranja.webp",
+      "size": 153504,
+      "sha256": "7c1ee33736762108b88a1b172f6de8b0a47cabc3708a781111acc65782176821",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/amapola-negra.webp",
+      "size": 136092,
+      "sha256": "8d19e41009cd2527d59b12d1e19e5107b864a5d3adc72714578fa1c29eefafb1",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/amapola-roja.webp",
+      "size": 140448,
+      "sha256": "16552f6139bdcd8c5892dbe3fa4651322ad5c996dfe97822f9aedd897c500838",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/amapola-rosada.webp",
+      "size": 142942,
+      "sha256": "4d33c3711ea9a12ef4f9bbf64ad11709409d005ff1dfbc0b21fec61e7340ef89",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/anturio-amarillo.webp",
+      "size": 133624,
+      "sha256": "5e69b97cb1cd358a6e7ce5826eae6d1c7e09e407dde1095e060037856b09649d",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/anturio-blanco.webp",
+      "size": 117088,
+      "sha256": "51265da729bbb9d501b95de0c27bf8efbacd98c11e761d26574817650939ac12",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/anturio-durazno.webp",
+      "size": 153396,
+      "sha256": "abb8a3bf7689b03ebeb379684f8cc9cb1b06c0fd76c6b83538745fab827d62ae",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/anturio-luminiscente.webp",
+      "size": 102576,
+      "sha256": "a59f854c7791dfa48e7f01fa77ef472bbb9877c403a0eab0cc64aee5ad47446d",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/anturio-naranja.webp",
+      "size": 132518,
+      "sha256": "252f11115c57b7dcade7a240be987c315979a889260a8fddf05addae5d8ff404",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/anturio-rojo.webp",
+      "size": 141182,
+      "sha256": "51d5350efc3f0e2ed991833c9026af3591b06279ca57b1918377aa10500a50b7",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/anturio-rosado.webp",
+      "size": 129288,
+      "sha256": "8e1a450f2251f1899a1564a5a8c9e126cfe6feff3b7339e3367536ac9fb9126c",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/anturio-verde.webp",
+      "size": 124344,
+      "sha256": "6a7c3792e2745380d894a7b0b337de64939abb1a64ed91f58a5e4c167b2ed041",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/cala-amarilla.webp",
+      "size": 93062,
+      "sha256": "5f10e0b58a48f665166f5358150b203891ec1e16286f5a04c4d5ca0a925fac96",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/cala-blanca.webp",
+      "size": 80034,
+      "sha256": "baef2d7767a282769c182040661e1344b448046132d9f176fee95b83a681c24c",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/cala-crepusculo.webp",
+      "size": 88084,
+      "sha256": "3419e278b61b79474324351d003e5b1ef7e8592ae9e388819d9fd97d4917b4fb",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/cala-durazno.webp",
+      "size": 102402,
+      "sha256": "6d085a1991c242ed0e0b4fc2666f881aeb81883fc283c5dc7b2ec188190b0aed",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/cala-morada.webp",
+      "size": 87272,
+      "sha256": "82b8204ba96993260d575182141e4fb30ee2ba2bce36db9c9989c205c3514f35",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/cala-naranja.webp",
+      "size": 91410,
+      "sha256": "07b0fb968644b097558af2fd9b72d1c4c9f1d2671a3483273179132df813d441",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/cala-negra.webp",
+      "size": 84304,
+      "sha256": "6503bf5d97279d4f06feb69f19f022028f3d336393d65f1a8124aa9d08885e85",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/cala-roja.webp",
+      "size": 96370,
+      "sha256": "6cb26bd46e8dcea980912f4c6291b7fbb722d19792ef088a8b7e201c4c9a8cac",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/cala-rosada.webp",
+      "size": 95692,
+      "sha256": "1b2c3af34943947d0b8b95e595f3a595f6e4239dfb765b0cddd9f56490468b1f",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/clavel-amarillo.webp",
+      "size": 156038,
+      "sha256": "51d4f373f8de0e426fd6f07dad4231edeb4aa40a4ffc3706fce13b00fa2342af",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/clavel-blanco.webp",
+      "size": 135098,
+      "sha256": "154b2131a43b80e6237bb18c056a2e85ee9face41e22bbaafb4a0c4be825b0f1",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/clavel-durazno.webp",
+      "size": 171304,
+      "sha256": "53c39effb33dc93c9412d7fa49fb07f205c2b91b9fb83b396d44dbdf2b516a54",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/clavel-luminiscente.webp",
+      "size": 121634,
+      "sha256": "176e616b737aceb9f61d217cb159200bc1ee8ce810fb37a88ad0a215e78d6bb7",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/clavel-naranja.webp",
+      "size": 110742,
+      "sha256": "7de59b138232d2d6dd214140182e5f8baae8289f40564555eaa3972709d979be",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/clavel-negro.webp",
+      "size": 124002,
+      "sha256": "f3d8724271b304fb999e5321fb2e6b9891c78ed06597b215593b3d18488c85d3",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/clavel-rojo.webp",
+      "size": 145940,
+      "sha256": "0b629e79e1cefc262a4a9bdab411b958c9be07d6f6a91cb6dcc70d89863641ce",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/clavel-rosado.webp",
+      "size": 124232,
+      "sha256": "0b359a775deaad43e0b87476383e813487e58fdc99a5aaf8466d95e6e17c6f29",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/clavel-verde.webp",
+      "size": 106908,
+      "sha256": "d3c69b31b95102bc8a066dff8edb826870bfc965e9f49cd474293cfcea4936a3",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/dondiego-de-dia-amarillo.webp",
+      "size": 115496,
+      "sha256": "1590c257a1ff018a394026b949f40c73f4ee2806d94b19fecf46850b4ecd56c7",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/dondiego-de-dia-blanco.webp",
+      "size": 104950,
+      "sha256": "aa75c7e58e6f3f26bec2fb368af8ecf4df27fcf126ee25295df727e5c1c4d522",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/dondiego-de-dia-durazno.webp",
+      "size": 127720,
+      "sha256": "03c7d6e2f22aaf0c43ed3c47a21afa02f9df17f525cf3d4c847e12c8e4a2cf32",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/dondiego-de-dia-luminiscente.webp",
+      "size": 109334,
+      "sha256": "6068964f8f58899c703ad0135627018ad328bc82a8d327750723ea941ef8646e",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/dondiego-de-dia-morado.webp",
+      "size": 110902,
+      "sha256": "cc593f4ea25d011ec6068f82dfee39888ffa1254bf6713ac68a237d2835f3f67",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/dondiego-de-dia-naranja.webp",
+      "size": 120844,
+      "sha256": "db70fcec44eae5f1690f77146f679c6d4f253e871e62072a1921e4e8fb5cb17c",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/dondiego-de-dia-negro.webp",
+      "size": 122218,
+      "sha256": "226a28da27d36e0e970c08807e8c16900ed8162ee9c2934a5bd6e526bbe83dec",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/dondiego-de-dia-rojo.webp",
+      "size": 104810,
+      "sha256": "a5782fe26eda715f727d448f8d6cac1ff94de75a6e2bbbd8c3f3dd2ff4b8d8f9",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/dondiego-de-dia-rosado.webp",
+      "size": 98786,
+      "sha256": "79c19abfb8816f515d10715de922ba0589b2bac40998b389624615c676e8f371",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/geranio-amarillo.webp",
+      "size": 174098,
+      "sha256": "6ec2e661d46c622c4e798039277746a3e8cf7dccacfd105c83d4de6014fd43f1",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/geranio-azul.webp",
+      "size": 169292,
+      "sha256": "6d501b4cfb7923cc8032488bff571ccef2f26663faa9219c2b4628075cad004d",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/geranio-blanco.webp",
+      "size": 156034,
+      "sha256": "5bbe22c2be3db551d8d99b4eb82156a91b896a9155bda33b409bddbf25afe990",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/geranio-crepusculo.webp",
+      "size": 170068,
+      "sha256": "ebb3e1f8560d83266cff9837348c2828ed8f6c2c9606a08e1a0e550fb9b0e7a3",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/geranio-durazno.webp",
+      "size": 170970,
+      "sha256": "77da3a191d630d02f7e2ff408e8b3e0bce02bc132cbdd258f4091236e28b98a7",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/geranio-luminiscente.webp",
+      "size": 150430,
+      "sha256": "84592b12c84aae2220f44decdc18c9418e1cdb992f1ec25aeb6a27d87f43215e",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/geranio-naranja.webp",
+      "size": 173210,
+      "sha256": "d24d128ab16bacc72f162755b593a8b17258e6cdb0c4574f9c29862c4cfc2b0f",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/geranio-negro.webp",
+      "size": 156440,
+      "sha256": "35e341ddd7cb743e8f89b88ec8ba3064027d1de825ce393a350f10e4ecc73d8a",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/geranio-rojo.webp",
+      "size": 172702,
+      "sha256": "726d74695a1dc6762ca3205a1f79cb2478c4908cb352436a2f2608c0173d08ca",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/geranio-rosado.webp",
+      "size": 158176,
+      "sha256": "0bf451638bf7856c1faeb33a092a4b19e9ff6917c741cc82bf8abff86fbb07ff",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/geranio-verde.webp",
+      "size": 167212,
+      "sha256": "7cfc498068a69cf04a89a3feffacccaa96928b88c7f8ef0135a8b67f57125385",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/jacinto-amarillo.webp",
+      "size": 118394,
+      "sha256": "79e5c4bbc937403ba8ef87b976c06c769938ccf74607276f9bc6506f75e8f8f5",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/jacinto-azul.webp",
+      "size": 118752,
+      "sha256": "88fc394747961d1a27dafc226aa506ce4e415e7a4a881b7de0cbe2afef7ea6ab",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/jacinto-blanco.webp",
+      "size": 97992,
+      "sha256": "b8056df6ce110a244e4153b481eeb29b9705c1ba625cd7a68a0865050c72b8d9",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/jacinto-crepusculo.webp",
+      "size": 104392,
+      "sha256": "2413a943db2f82216143ea1e2114aaa5e5c05e428d72b82bb4bff76405842894",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/jacinto-durazno.webp",
+      "size": 143630,
+      "sha256": "13dbbcaeda5c4b690bfb109df31fef60a57cda080d98868909acbc38f87a16f6",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/jacinto-morado.webp",
+      "size": 101890,
+      "sha256": "f2f4cb84237362d886683fa96d762c1a2b69b62b5d7192b2197cd2d2d18a016f",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/jacinto-naranja.webp",
+      "size": 125482,
+      "sha256": "5d954d373925c979da1d861041d8dea6ce4957c3307425f0a4eae07ff2233834",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/jacinto-negro.webp",
+      "size": 142900,
+      "sha256": "bf5ce1cbf80c4a1aea8ac886070e268f5d1a4b07ea3ff7f23a8468dcd277545a",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/jacinto-rojo.webp",
+      "size": 96654,
+      "sha256": "434a3c86aa1562fab85c936695b44dd57b3cf7146e7b5ab17b5039285312de32",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/jacinto-rosado.webp",
+      "size": 107334,
+      "sha256": "9feb32c0b1fdcdd0fa50d5466d446e0b0ad026d5a54bdef126b2629c78f7eb2e",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/lirio-amarillo.webp",
+      "size": 123476,
+      "sha256": "40a957e2c161c7506a753303abe8702fb2260d80d336865c555a20e55561b585",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/lirio-blanco.webp",
+      "size": 96266,
+      "sha256": "2ebe1f8f2003c08bd49c4f76069a84987c76e0ab12142dab3eddb3b1468bd37a",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/lirio-durazno.webp",
+      "size": 130262,
+      "sha256": "5a2b331b684247d3707243ed11f881596f36c27c80e4bf3f3a6b4f7cf049265e",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/lirio-luminiscente.webp",
+      "size": 99256,
+      "sha256": "fab844036ce1ec13ca1345f82a1ba5b7a2e47569389fcb784f7d3da0f52a7e04",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/lirio-morado.webp",
+      "size": 99596,
+      "sha256": "38c0d996e6fd46288694d38b5a9f22ae625e400fa26bf65d4ae4c5dea519e107",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/lirio-naranja.webp",
+      "size": 113988,
+      "sha256": "9d9f63820233a06da2ed3408917b67efd6b439103b98e1db10899a49d28051cc",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/lirio-negro.webp",
+      "size": 128502,
+      "sha256": "9e03afdf592cf8e1d2a5d15c19f476d87aec84d034c0f0f93556c5914f59a59e",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/lirio-rojo.webp",
+      "size": 140292,
+      "sha256": "3a1a8a10a9a3f499401276c9a402491fb4b27f5ae3d1fb46615d82aecca39994",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/lirio-rosado.webp",
+      "size": 105102,
+      "sha256": "13134ae8e92d1598b5f5b953bf1632756c4d2a3bc00b5d12b8349cead99d6b01",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/lirio-verde.webp",
+      "size": 107944,
+      "sha256": "c897bdf1063c0d6a3e10d9f3c3fa25b134cc37af4e377378c7f7e6b6e9dd255d",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/margarita-blanca.webp",
+      "size": 101846,
+      "sha256": "77fb4244c27c652d46ed51f86b17508d119875174c154f20c583203996401d3e",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/margarita-durazno.webp",
+      "size": 126006,
+      "sha256": "1d0cc8c2584a43ba66e661c396e0ebb9147127e94160cd57740e4a25e855b4f4",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/margarita-luminiscente.webp",
+      "size": 116704,
+      "sha256": "6b02b96b590e6f23c490c4b64ed7f32a8065ea26db36f7814216e1ec918799d0",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/margarita-roja.webp",
+      "size": 109474,
+      "sha256": "6890558a454f4ef0784c52452329e4c4c1ac01a94519918f625dcaa2a832b0f0",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/margarita-rosada.webp",
+      "size": 116394,
+      "sha256": "6ecc491086a2a1f465c28a0dcf14b11e1c9213e7d87489f13fa3fed60cf874c5",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/margarita-verde.webp",
+      "size": 115100,
+      "sha256": "5fa50c5946f9ef80733dd139a3dbd43a337d1a3eba908aa7d2a71a4343e7ebe9",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/orquidea-amarilla.webp",
+      "size": 100122,
+      "sha256": "53e26ebe37c15d31d4682e2fd94d9152295b45985157f6f8c1c04305d9b3bbe8",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/orquidea-azul.webp",
+      "size": 103964,
+      "sha256": "848bd176445912ff361b3644264e6e601bbe9c155e1c99cef62839bc51b5ef55",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/orquidea-blanca.webp",
+      "size": 96160,
+      "sha256": "380460fc5a23a982d74e7ae78089b4197814e6c36f59938889e2244fa7f0df95",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/orquidea-crepusculo.webp",
+      "size": 122010,
+      "sha256": "1ed89801168d1cac5fcb12d35ff400e8c946ece4f5c78af4ff790b422aeda423",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/orquidea-durazno.webp",
+      "size": 102794,
+      "sha256": "9c72b45013e4093d731d932a88bb6e94a46671f9c36aafd8be2488009fae0065",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/orquidea-luminiscente.webp",
+      "size": 77876,
+      "sha256": "82bacd7ba399c8de4bf9934e2ad70379a7351576fe56fef37c559ece0d9da9c5",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/orquidea-morada.webp",
+      "size": 85586,
+      "sha256": "36b79461cd8b9d83c48b74c86ca91ca51f5c4c5d28ec3d15f1abd331e7c9d454",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/orquidea-naranja.webp",
+      "size": 109692,
+      "sha256": "bb49a7ef0e3fd6221a05c0bf6128c610b17d5a68bba74c48c1367d401d255b71",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/orquidea-negra.webp",
+      "size": 91780,
+      "sha256": "086e644402056904ec565baf44d919b5e79e337744ac8573393603f701e3d092",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/orquidea-roja.webp",
+      "size": 102154,
+      "sha256": "6cb31a2a8056cf4659dff64169b3d78145a47c389d5321f9fb7f0c441657d0e9",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/orquidea-rosada.webp",
+      "size": 89146,
+      "sha256": "ffd7b54b46f749f722bdf479c1dde7bf6d36eaa4448884d87f31756b775d1b6a",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/pensamiento-amarilla.webp",
+      "size": 139594,
+      "sha256": "64182df6d9c567fdaf8bb5e51dbf0cd8b6153f33ed8ee463f774f41dbef2365f",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/pensamiento-crepusculo.webp",
+      "size": 107460,
+      "sha256": "ceafac80a523512e279bedc086759382048695ec498d0bbc21f5fea2fe14f132",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/pensamiento-morada.webp",
+      "size": 117920,
+      "sha256": "0bed6ff32227c4485c5532c6172f5b05cbf4904b7b9450b18ee3e1c386e36fd3",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/pensamiento-naranja.webp",
+      "size": 148112,
+      "sha256": "33ea52bc17719db0eae91fddeda288c7cccdcffb67314e7edf40d3204d8da63e",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/pensamiento-negra.webp",
+      "size": 133550,
+      "sha256": "1719845310c5a2049df171704b529657d376e759c9d829d26bb0b25bf61f658f",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/pensamiento-roja.webp",
+      "size": 133262,
+      "sha256": "03494d9f4a22cdacbe3946582ee792a23452fb48bb126e1a4f1fe5e579d549ac",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/rosa-amarilla.webp",
+      "size": 150410,
+      "sha256": "1f9ccef3770fbbbb337d832e5e5464cb4ce24811aff41774472ee069b967e886",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/rosa-azul.webp",
+      "size": 144434,
+      "sha256": "94d013d856c5a330b9281eb9e73a86bcc4ff037244e4e7b2c8c2e76b7588f7a8",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/rosa-blanca.webp",
+      "size": 128224,
+      "sha256": "32ab1acf6fa9eeaeed6c65351a139b59af3c7e818a4a4697647692cb7208d14c",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/rosa-crepusculo.webp",
+      "size": 139034,
+      "sha256": "c86ab02336a1666eb6e95c0f241e2020d5dcc7c82065e689a16479f9e411bcc7",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/rosa-durazno.webp",
+      "size": 154662,
+      "sha256": "f8f26cf44862f8509198037aa67089582ee5772ef6fadc2d86068491fc2cbc57",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/rosa-luminiscente.webp",
+      "size": 136400,
+      "sha256": "271b128bc66ffb63421fa20965a68f3796a8e0b56cd6346c924fc48bb64ff2e6",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/rosa-morada.webp",
+      "size": 157296,
+      "sha256": "9a84d2ef8994e8f0bc372ed0d4680f1f20a3f2903afb38dd6804eb46997e7e18",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/rosa-naranja.webp",
+      "size": 148684,
+      "sha256": "78892d73bd4aeeb597b9f006fd164600771843dbf826a61495055596db5a17a5",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/rosa-negra.webp",
+      "size": 124924,
+      "sha256": "449ec948f2c48bd771c2423338baa6450e968283b51cb915eb8a60dbbbed0be8",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/rosa-roja.webp",
+      "size": 143942,
+      "sha256": "4e803d5b27bac5c6c931f82fb446f40cddd906de32f388ed70806619fe7e8764",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/rosa-rosada.webp",
+      "size": 161718,
+      "sha256": "46cafdf645d5cb7c63e91722b80ee65820a2298ac1c12829a99544f43dcd519e",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/tulipan-amarillo.webp",
+      "size": 109986,
+      "sha256": "219578b0c28ec6348b1828632b6e35d021d2e5739dc4a11569793f55d4a79c3c",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/tulipan-azul.webp",
+      "size": 106858,
+      "sha256": "f71fe8dd3f846f68e5e667d26dce99aeb2973974f6b4ccde51de8c13838690ee",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/tulipan-blanco.webp",
+      "size": 101264,
+      "sha256": "1172121089465491cfa30f3ec92a6b5955f5428e2128155e09c41cb782daa18e",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/tulipan-crepusculo.webp",
+      "size": 94296,
+      "sha256": "d2ebfa1d464178a16100d17074afaac04be5ae98e9ed79a45866d49ed6c18ebd",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/tulipan-durazno.webp",
+      "size": 109948,
+      "sha256": "d33d4ea54d138cc3a4d1f30e4a8a70f095dab6ba69ab480ad55e3a8dc9b2b41d",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/tulipan-morado.webp",
+      "size": 108714,
+      "sha256": "04ad3206b5ca61d783309e9a24bb392c0053a4c92966836e67217a971dc8a90c",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/tulipan-naranja.webp",
+      "size": 117204,
+      "sha256": "2c6b3c5d979be51cfe36f13a3237143d2b24b254d496d6a319f76592b2eabe4d",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/tulipan-negro.webp",
+      "size": 99676,
+      "sha256": "e3aaef22d179ad0b5ffa50255f957a407e741f21d73a4e92b2b1c5ff28ab25aa",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/tulipan-rojo.webp",
+      "size": 102864,
+      "sha256": "ca6b22522f2c9105ba98fc17e715563f08b858bfda29a939b378aef8c4712ff6",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/flores/tulipan-rosado.webp",
+      "size": 110722,
+      "sha256": "d9ab22e49fdda8336935a5272939e0c5276faa89a26afe50b25108b5da1e124a",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/siembras/aguacate.webp",
+      "size": 137058,
+      "sha256": "d9f4bb9b133a1d0b52efa03f03ea9c8a55a72e7b6293a14e0a2f4f4045767cc8",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/siembras/arroz.webp",
+      "size": 94202,
+      "sha256": "5d05d7b37f87117b14c97055ea46a89c11730c7e2af994df8ee072f15fb40a3d",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/siembras/berenjena.webp",
+      "size": 69178,
+      "sha256": "f8928da50f273b3dccf425bd211684d43e43654f2c96a1f99b6fb7bddd7a8d2c",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/siembras/cactus-de-tuna.webp",
+      "size": 153736,
+      "sha256": "2c938c6b9e1e9d4e11f0aee38dc4f51a0605cdaf454532cdcb5634a6b05b3893",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/siembras/calabaza.webp",
+      "size": 167674,
+      "sha256": "c1e22460295c6fb99c1e392cd4ee56fc4feac9e048cedb87bf56635648d3a3de",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/siembras/carambola.webp",
+      "size": 121160,
+      "sha256": "5cfe7d69fe860371a2d4408be63aca8848a830bdf4b2f9600c3c84bfb1887163",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/siembras/fresa.webp",
+      "size": 141886,
+      "sha256": "373a98dd4e2beeb0686abf940642d995f7eef39b9bedc119fa13c7bd9ad9e7ac",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/siembras/granos-de-cacao.webp",
+      "size": 137798,
+      "sha256": "52fc5aeb61346af751b06211982d7aa495531d16342d5ac89ca9e662d7637f5c",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/siembras/hierba-luisa.webp",
+      "size": 84736,
+      "sha256": "c1a84a1ee7e6f4904da1346bbf4f5bfaf9de4d55846cc02e0865f9d4b25e49b5",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/siembras/hoja-de-te.webp",
+      "size": 80470,
+      "sha256": "55ff227859c0ea434eda5e614cfbcd5854ffcaec58f463446cd19cfe0fe8f946",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/siembras/lechuga-romana.webp",
+      "size": 123472,
+      "sha256": "beffccaf84a555cbd96d5ce98ea24b28d8167c7e8a25145556b079bfef78674b",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/siembras/lechuga.webp",
+      "size": 166086,
+      "sha256": "7d8ca091832a90923e0a45b191ca505c16e29609ee9855eb9ddd06c52e6845ab",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/siembras/maiz.webp",
+      "size": 119532,
+      "sha256": "fa337b843e1bff43212973213f592fae02db2f83ea7e34d582e24bc002f5ad16",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/siembras/patata.webp",
+      "size": 105244,
+      "sha256": "c10c518ac7ccab423b1fea9516690c101a6dfa6df014d9cd2d7c93b1291814e7",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/siembras/pina.webp",
+      "size": 116306,
+      "sha256": "e869452f0e4c34dfd2d2eef1a6e9e9a6f961bfc405753b3db84c031511c7078c",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/siembras/rabano.webp",
+      "size": 46532,
+      "sha256": "1ba7e6c3ac4726ed4bddaa15aac1b01c2c465e8ac226d75169032449632bd3fa",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/siembras/tomate.webp",
+      "size": 112432,
+      "sha256": "3e46a3400deec6944b39234ac10400b4edc2c523348ebbefeedd5aa9c03bd5a2",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/siembras/trigo.webp",
+      "size": 86968,
+      "sha256": "49f2c4453834e040283b0fbff4261f51069eb3a93700928a3abec1bbd02ff833",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/siembras/uchuva.webp",
+      "size": 120180,
+      "sha256": "ec04edece269fd1276ed648de30b6cdfcc4370232aacad87d50d4386b550aad1",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/siembras/uva.webp",
+      "size": 98494,
+      "sha256": "53381f6a25df3468c206f8cc44199d514bca2f2fb45adeef125b72cf6ca1db7a",
+      "minAppVersionCode": 39
+    },
+    {
+      "path": "huerto/images/siembras/zanahoria.webp",
+      "size": 124108,
+      "sha256": "6c1652e8dc53f03efe40b05b8b753a3327b80e9418f5824a3d10120558a0ad73",
+      "minAppVersionCode": 39
     }
   ]
 }
