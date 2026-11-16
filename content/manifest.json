@@ -1,7 +1,7 @@
 {
-  "contentVersion": 9,
+  "contentVersion": 10,
   "minAppVersionCode": 25,
-  "publishedOn": "2026-11-15",
+  "publishedOn": "2026-11-16",
   "files": [
     {
       "path": "catalog/creatures.json",
