@@ -1,7 +1,7 @@
 {
-  "contentVersion": 9,
+  "contentVersion": 10,
   "minAppVersionCode": 25,
-  "publishedOn": "2026-11-15",
+  "publishedOn": "2026-11-16",
   "files": [
     {
       "path": "catalog/creatures.json",
@@ -1835,8 +1835,8 @@
     },
     {
       "path": "codes/codigos.json",
-      "size": 2432,
-      "sha256": "28713c849fc09d010ed9cea2e19119db155e0b18b0f4d37ed46cbd1a98686093",
+      "size": 2688,
+      "sha256": "96acbb420687977b19495e5e1834a8793ae911a84668387282c88fc1a9e73487",
       "minAppVersionCode": 37
     },
     {
