@@ -1,5 +1,5 @@
 {
-  "contentVersion": 12,
+  "contentVersion": 13,
   "minAppVersionCode": 44,
   "publishedOn": "2026-11-19",
   "files": [
@@ -10,8 +10,8 @@
     },
     {
       "path": "calendar/clima-2026.json",
-      "size": 756553,
-      "sha256": "f80829197cd37974ff6b5c1fb7afa266263b18b402fd1109e728d97003c9a6bf"
+      "size": 788979,
+      "sha256": "a5a8a8320ea2b566504006b12117b65167aa3391cb02730ceb208f5c277cf348"
     },
     {
       "path": "catalog/images/bird-african-olive-pigeon.webp",
@@ -1825,36 +1825,36 @@
     },
     {
       "path": "catalog/CREDITOS.md",
-      "size": 304,
-      "sha256": "744067ac93fb1e6c6cb09ceef851edc2719519f60f7b7f6641f24a94bf8f2d1b"
+      "size": 309,
+      "sha256": "dbb54aa70b3ebd514fbe47b3175ada102db72e9d597ff4bbeae0730fe920e652"
     },
     {
       "path": "calendar/eventos.json",
-      "size": 3621,
-      "sha256": "719f9ca86a34cf663e555599eb63fd492c899484e6f6c4b94e6a37ab1bc60f23"
+      "size": 3765,
+      "sha256": "22b42045ea0ed8e0ba3f7751ef3f4806c555178bacdb69a903c6c4c4962c5061"
     },
     {
       "path": "codes/codigos.json",
-      "size": 2688,
-      "sha256": "96acbb420687977b19495e5e1834a8793ae911a84668387282c88fc1a9e73487",
+      "size": 2753,
+      "sha256": "afa1fe906120daba4b943f814781369de1039fd4c596f211de50b36876316fe6",
       "minAppVersionCode": 37
     },
     {
       "path": "huerto/siembras.json",
-      "size": 8185,
-      "sha256": "875e019cef4c587a112e9688f5129d3f75585e33895ce6ecb1a4e6d44333d07f",
+      "size": 8505,
+      "sha256": "0886ef4c2cd8da440b493b21a677c53a61f27bbf7eddba348d296a40fe242018",
       "minAppVersionCode": 38
     },
     {
       "path": "huerto/flores.json",
-      "size": 35935,
-      "sha256": "49f9befb1568091f3c96e8e65173e6ad97a24d71ac1efa9d947c7b6435b4832b",
+      "size": 37144,
+      "sha256": "3ba6e72dd52fa6a4f97f614c2a5b695ac88464c8957190030b8fd2d4f41d27dc",
       "minAppVersionCode": 38
     },
     {
       "path": "cocina/recetas.json",
-      "size": 198340,
-      "sha256": "94cad135cb79ce0eb11422c464b2ef4617a6f23e042defe944637bc523eb219e",
+      "size": 206932,
+      "sha256": "037ca7ac3837549dc5e01da4bd2f9e831f3b5d15f20455c3c45706ac7711e3cd",
       "minAppVersionCode": 39
     },
     {
