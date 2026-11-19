@@ -1,5 +1,5 @@
 {
-  "contentVersion": 16,
+  "contentVersion": 17,
   "minAppVersionCode": 36,
   "publishedOn": "2026-11-19",
   "files": [
@@ -25,8 +25,8 @@
     },
     {
       "path": "codes/codigos.json",
-      "size": 2688,
-      "sha256": "96acbb420687977b19495e5e1834a8793ae911a84668387282c88fc1a9e73487",
+      "size": 2974,
+      "sha256": "b34ca96972f675b4e4848cec63dacb22cb7d6756514b39c0bd0d676929c9ca46",
       "minAppVersionCode": 37
     },
     {

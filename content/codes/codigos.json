@@ -1,12 +1,19 @@
 [
- {
+  {
+    "code": "letsgoall100",
+    "recompensa": "Estrellas de Deseos ×10, Ramo arcoiris ×1, Gacha ×2",
+    "fechaInicio": "2026-11-19",
+    "fechaVencimiento": "2026-12-03",
+    "fuente": "Cuenta oficial @MyHeartopia, 19 nov 2026. Caduca el 3 dic 2026 a las 12:59 (Chile)."
+  },
+  {
     "code": "m3r9k6a4q2n7",
     "recompensa": "Estrella de los deseos ×3, Cola de sirena ×3, Fertilizante ×10",
     "fechaInicio": "2026-11-16",
     "fechaVencimiento": "2026-12-03",
     "fuente": "Cuenta oficial @MyHeartopia, 16 nov 2026. Caduca el 3 dic 2026 a las 12:59 (Chile)."
   },
- {
+  {
     "code": "q8a2n7m5r3k9",
     "recompensa": "Estrella de los deseos ×3, Cola de sirena ×3, Fertilizante ×10",
     "fechaInicio": "2026-11-09",
