@@ -99,7 +99,7 @@ La ficha de la flor debe mostrar una fila por variante con su dibujo.
 | `ingredientesPendientes` | int | no | **nuevo**. Cuántos faltan |
 | `origen` | string | no | **nuevo**. Texto listo para mostrar cuando el plato no tiene ingredientes propios (Bebida extraña, Comida extraña: «Se obtiene al quemar o cocinar mal cualquier bebida/comida»). Con `origen`, `ingredientes` viene vacía y la receta está completa. Fuente: confirmado por el usuario en el juego, 15-11-2026. |
 | `categoria` | string | sí | `"Común"` o `"Evento"` |
-| `evento` | string | si es evento | nombre del evento como lo da Heartodex en español |
+| `evento` | string | si es evento | nombre del evento en español, tal como aparece en la guía |
 | `certificable` | bool | si es evento | siempre `false` en eventos |
 | `maestria` | string | no | `"Novato: 160 · Experto: 480 · Maestro: 960 veces"` |
 | `imagen` | string | sí | `cocina/images/<id>.webp` |
