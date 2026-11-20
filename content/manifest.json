@@ -1,22 +1,22 @@
 {
-  "contentVersion": 20,
+  "contentVersion": 21,
   "minAppVersionCode": 36,
   "publishedOn": "2026-11-20",
   "files": [
     {
       "path": "calendar/clima-2026.json",
-      "size": 788979,
-      "sha256": "a5a8a8320ea2b566504006b12117b65167aa3391cb02730ceb208f5c277cf348"
+      "size": 756553,
+      "sha256": "f80829197cd37974ff6b5c1fb7afa266263b18b402fd1109e728d97003c9a6bf"
     },
     {
       "path": "calendar/eventos.json",
-      "size": 3765,
-      "sha256": "22b42045ea0ed8e0ba3f7751ef3f4806c555178bacdb69a903c6c4c4962c5061"
+      "size": 3621,
+      "sha256": "719f9ca86a34cf663e555599eb63fd492c899484e6f6c4b94e6a37ab1bc60f23"
     },
     {
       "path": "catalog/CREDITOS.md",
-      "size": 309,
-      "sha256": "dbb54aa70b3ebd514fbe47b3175ada102db72e9d597ff4bbeae0730fe920e652"
+      "size": 304,
+      "sha256": "744067ac93fb1e6c6cb09ceef851edc2719519f60f7b7f6641f24a94bf8f2d1b"
     },
     {
       "path": "catalog/creatures.json",
@@ -3979,20 +3979,20 @@
     },
     {
       "path": "cocina/recetas.json",
-      "size": 206932,
-      "sha256": "037ca7ac3837549dc5e01da4bd2f9e831f3b5d15f20455c3c45706ac7711e3cd",
+      "size": 198340,
+      "sha256": "94cad135cb79ce0eb11422c464b2ef4617a6f23e042defe944637bc523eb219e",
       "minAppVersionCode": 39
     },
     {
       "path": "codes/codigos.json",
-      "size": 3046,
-      "sha256": "769f05a1c53a653ba92fd79a900b38e941ac7c7c63187d8e9c9eabbe9bf1c413",
+      "size": 2974,
+      "sha256": "b34ca96972f675b4e4848cec63dacb22cb7d6756514b39c0bd0d676929c9ca46",
       "minAppVersionCode": 37
     },
     {
       "path": "huerto/flores.json",
-      "size": 37144,
-      "sha256": "3ba6e72dd52fa6a4f97f614c2a5b695ac88464c8957190030b8fd2d4f41d27dc",
+      "size": 35935,
+      "sha256": "49f9befb1568091f3c96e8e65173e6ad97a24d71ac1efa9d947c7b6435b4832b",
       "minAppVersionCode": 38
     },
     {
@@ -4831,8 +4831,8 @@
     },
     {
       "path": "huerto/siembras.json",
-      "size": 8505,
-      "sha256": "0886ef4c2cd8da440b493b21a677c53a61f27bbf7eddba348d296a40fe242018",
+      "size": 8185,
+      "sha256": "875e019cef4c587a112e9688f5129d3f75585e33895ce6ecb1a4e6d44333d07f",
       "minAppVersionCode": 38
     }
   ]
