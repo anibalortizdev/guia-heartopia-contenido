@@ -1,5 +1,5 @@
 {
-  "contentVersion": 21,
+  "contentVersion": 22,
   "minAppVersionCode": 36,
   "publishedOn": "2026-11-20",
   "files": [
@@ -3006,12 +3006,6 @@
       "minAppVersionCode": 44
     },
     {
-      "path": "cocina/images/ingredientes/dulce--cualquier-color-.webp",
-      "size": 30498,
-      "sha256": "36253b941b58ed1bf4fb98489bc2058e0f8d7be1553ba53f6345c0c1eaf5f54e",
-      "minAppVersionCode": 44
-    },
-    {
       "path": "cocina/images/ingredientes/dulce-amarillo.webp",
       "size": 33866,
       "sha256": "ef90d1571e2521dca0cde07cbe752bce857e915783bd6b629d4392a088568511",
@@ -3027,6 +3021,12 @@
       "path": "cocina/images/ingredientes/dulce-cian.webp",
       "size": 32912,
       "sha256": "0577b090cfc14cea233338ddf1db777185b23fd71dba013f00b81f1a651b5bd3",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/dulce-cualquier-color.webp",
+      "size": 30498,
+      "sha256": "36253b941b58ed1bf4fb98489bc2058e0f8d7be1553ba53f6345c0c1eaf5f54e",
       "minAppVersionCode": 44
     },
     {
