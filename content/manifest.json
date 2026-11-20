@@ -1,22 +1,22 @@
 {
-  "contentVersion": 18,
+  "contentVersion": 19,
   "minAppVersionCode": 36,
-  "publishedOn": "2026-11-19",
+  "publishedOn": "2026-11-20",
   "files": [
     {
       "path": "calendar/clima-2026.json",
-      "size": 756553,
-      "sha256": "f80829197cd37974ff6b5c1fb7afa266263b18b402fd1109e728d97003c9a6bf"
+      "size": 788979,
+      "sha256": "a5a8a8320ea2b566504006b12117b65167aa3391cb02730ceb208f5c277cf348"
     },
     {
       "path": "calendar/eventos.json",
-      "size": 3621,
-      "sha256": "719f9ca86a34cf663e555599eb63fd492c899484e6f6c4b94e6a37ab1bc60f23"
+      "size": 3765,
+      "sha256": "22b42045ea0ed8e0ba3f7751ef3f4806c555178bacdb69a903c6c4c4962c5061"
     },
     {
       "path": "catalog/CREDITOS.md",
-      "size": 304,
-      "sha256": "744067ac93fb1e6c6cb09ceef851edc2719519f60f7b7f6641f24a94bf8f2d1b"
+      "size": 309,
+      "sha256": "dbb54aa70b3ebd514fbe47b3175ada102db72e9d597ff4bbeae0730fe920e652"
     },
     {
       "path": "catalog/creatures.json",
@@ -2892,6 +2892,102 @@
       "minAppVersionCode": 44
     },
     {
+      "path": "cocina/images/ingredientes/azucar-glace.webp",
+      "size": 28374,
+      "sha256": "505a3bc214b54ddf67d458725c04781243e83ae8e24a091a95f650600a55b598",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/cacao-en-polvo-con-canela.webp",
+      "size": 44566,
+      "sha256": "34330e1b36bddf06adb1cd8f4176176fecb2c04acb81348734d98ac8509cbdf5",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/carne.webp",
+      "size": 39742,
+      "sha256": "afb20d68939bf09766fcf961c537e5140d94130128a345c794e2701e2c266418",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/champinon.webp",
+      "size": 45832,
+      "sha256": "e448b614639f57d8040cfc4e34f818db2e70c28dc7fd6853f8482b5104ea99b9",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/dulce-azul.webp",
+      "size": 34234,
+      "sha256": "c4368d85ef41ebe4c87c7300476a15c6db1b3d531cb6c23939618e0fcf4b6676",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/dulce-rojo.webp",
+      "size": 34486,
+      "sha256": "aee329f57821ebd2ae521e2bdf22ec1d8c78ad1e2a20ac0f6e1a79002c2028e2",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/harina-de-arroz.webp",
+      "size": 47666,
+      "sha256": "04094ee842bb84605fbe051c97de7c2d8022115b4ca6fb7486e570ebbb93e48a",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/huevo.webp",
+      "size": 28606,
+      "sha256": "67cc1a8bd719bab0ec9664be8249eee807b1c3541daef78f520b059c42759809",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/leche.webp",
+      "size": 23458,
+      "sha256": "c074019482a9504b344f4d0693866bc63785a8aff98a54dd510448a7f6a16e1e",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/mantequilla.webp",
+      "size": 27938,
+      "sha256": "fa51ac54cd62aff6c9366651bb21bbf73fa6a388ae2fc138049ea10a39d2bb87",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/polvo-de-matcha.webp",
+      "size": 53276,
+      "sha256": "ca4c8b33b02fdfc2c43a2a651ca4b0e3a734f097c7f2f8a210015bad95b533c0",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/queso.webp",
+      "size": 37534,
+      "sha256": "0ed2a777846c07f2deb24c2496c61e0a09ab837c5f556426744e1d4d136732f8",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/salsa-de-osmanto.webp",
+      "size": 51464,
+      "sha256": "697a668126aab265e0ddee40ad15d28bf28aca6a8606d69689916446bec12978",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/te-negro.webp",
+      "size": 38076,
+      "sha256": "466aeb335bd9e9e00b02d064b7978d49197e8612559e64abc2f088325235d70f",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/trufa-negra.webp",
+      "size": 58132,
+      "sha256": "799a140b6f578675d2a0a45bd27ce8e2b0fcc3a77a6952be04da1537f62523d0",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/wakame.webp",
+      "size": 54976,
+      "sha256": "8019e931de072f0d2727bf38ff0cb67a4b68849bb6196f19ec30705e63b92f61",
+      "minAppVersionCode": 44
+    },
+    {
       "path": "cocina/images/latte-en-cubo-de-hielo.webp",
       "size": 125204,
       "sha256": "06977caa81cc6286c7cd6a037c7a5c0bdc33a94c7cbe3024f8e85c8614fdbaab",
@@ -3595,20 +3691,20 @@
     },
     {
       "path": "cocina/recetas.json",
-      "size": 198340,
-      "sha256": "94cad135cb79ce0eb11422c464b2ef4617a6f23e042defe944637bc523eb219e",
+      "size": 206932,
+      "sha256": "037ca7ac3837549dc5e01da4bd2f9e831f3b5d15f20455c3c45706ac7711e3cd",
       "minAppVersionCode": 39
     },
     {
       "path": "codes/codigos.json",
-      "size": 2974,
-      "sha256": "b34ca96972f675b4e4848cec63dacb22cb7d6756514b39c0bd0d676929c9ca46",
+      "size": 3046,
+      "sha256": "769f05a1c53a653ba92fd79a900b38e941ac7c7c63187d8e9c9eabbe9bf1c413",
       "minAppVersionCode": 37
     },
     {
       "path": "huerto/flores.json",
-      "size": 35935,
-      "sha256": "49f9befb1568091f3c96e8e65173e6ad97a24d71ac1efa9d947c7b6435b4832b",
+      "size": 37144,
+      "sha256": "3ba6e72dd52fa6a4f97f614c2a5b695ac88464c8957190030b8fd2d4f41d27dc",
       "minAppVersionCode": 38
     },
     {
@@ -4447,8 +4543,8 @@
     },
     {
       "path": "huerto/siembras.json",
-      "size": 8185,
-      "sha256": "875e019cef4c587a112e9688f5129d3f75585e33895ce6ecb1a4e6d44333d07f",
+      "size": 8505,
+      "sha256": "0886ef4c2cd8da440b493b21a677c53a61f27bbf7eddba348d296a40fe242018",
       "minAppVersionCode": 38
     }
   ]
