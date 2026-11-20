@@ -1,5 +1,5 @@
 {
-  "contentVersion": 22,
+  "contentVersion": 23,
   "minAppVersionCode": 36,
   "publishedOn": "2026-11-20",
   "files": [
@@ -3031,8 +3031,8 @@
     },
     {
       "path": "cocina/images/ingredientes/dulce-morado.webp",
-      "size": 46488,
-      "sha256": "349e7eb1be7d35f7db421382234000dcfd5597194356f6b79ecf7f10ce24d503",
+      "size": 45830,
+      "sha256": "5ab75ff3266cec32c9e0773aacbd892bc0735aa3ba52ca2bcd85d951ebf9c610",
       "minAppVersionCode": 44
     },
     {
