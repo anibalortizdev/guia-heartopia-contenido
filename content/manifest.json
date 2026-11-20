@@ -1,5 +1,5 @@
 {
-  "contentVersion": 19,
+  "contentVersion": 20,
   "minAppVersionCode": 36,
   "publishedOn": "2026-11-20",
   "files": [
@@ -2892,15 +2892,93 @@
       "minAppVersionCode": 44
     },
     {
+      "path": "cocina/images/ingredientes/aceite-comestible.webp",
+      "size": 27812,
+      "sha256": "921925934fe0f0f757e3dc4e87121115a5210150f60e7ecc00d1eee09100e9d7",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/ajo-mostaza-silvestre.webp",
+      "size": 70500,
+      "sha256": "f9f9a3a44b98c86887ae0446bc22b4f81e24f7f6ddce78cebd56bece04a62dcc",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/arandano.webp",
+      "size": 44018,
+      "sha256": "0e09cdd4c3c128377154ab3722fdd760bdfabc44661472f23a60a99d88a6669b",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/armillaria.webp",
+      "size": 62116,
+      "sha256": "c4db245fc69c420ecb7f7a710d0ba203b2a97906a2a36ef5025fd2e981edf968",
+      "minAppVersionCode": 44
+    },
+    {
       "path": "cocina/images/ingredientes/azucar-glace.webp",
       "size": 28374,
       "sha256": "505a3bc214b54ddf67d458725c04781243e83ae8e24a091a95f650600a55b598",
       "minAppVersionCode": 44
     },
     {
+      "path": "cocina/images/ingredientes/bardana-silvestre.webp",
+      "size": 41428,
+      "sha256": "9d07c1fa0b137aa852d4fa35290c26097fbae627952c202f66e9b156812481ad",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/boletales.webp",
+      "size": 51066,
+      "sha256": "22d3c7f26345228f2633845133afa73cc7a95522371076f06c762c2a6fbe4e2c",
+      "minAppVersionCode": 44
+    },
+    {
       "path": "cocina/images/ingredientes/cacao-en-polvo-con-canela.webp",
       "size": 44566,
       "sha256": "34330e1b36bddf06adb1cd8f4176176fecb2c04acb81348734d98ac8509cbdf5",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/calamar-del-pacifico.webp",
+      "size": 96488,
+      "sha256": "0e4cedb8ad78c4373720cf6eec87f98f06edb6c1b3abb83d5390d4f9dc29fc99",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/camaron-azul.webp",
+      "size": 51012,
+      "sha256": "386b4d438066790ef2e516914c3996116e67d89a196608719dd7762b7c8ae8b5",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/camaron-marino.webp",
+      "size": 84408,
+      "sha256": "14bcca4060e0b82fed4e029dcdbb170b5aff5b90f776b6cc86bf0d23fcbfed92",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/cangrejo-real.webp",
+      "size": 140380,
+      "sha256": "b316717c28659bed3364443cc1ef007b4a8b4dcd55cfb2e5b966f1ddabfdc23e",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/cangrejo-rey-de-cristal-nevado.webp",
+      "size": 133146,
+      "sha256": "a6555a441f1695c8cbed8e75b833a6598d39dd92039ab45daf6da8f8f666803f",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/cangrejo-rey-de-oro.webp",
+      "size": 148702,
+      "sha256": "ea52d71648caa351abb74b39c30f5d3710cfec561556acac993fb828b18b687e",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/carbon-vegetal.webp",
+      "size": 42814,
+      "sha256": "522b9040b3cf4550b42043e8b35085afb1024538d78d2dd39b32e0398c713c28",
       "minAppVersionCode": 44
     },
     {
@@ -2916,9 +2994,51 @@
       "minAppVersionCode": 44
     },
     {
+      "path": "cocina/images/ingredientes/cigala-azul-nordica.webp",
+      "size": 94436,
+      "sha256": "0f921e9ad35baa2e37395a94f86adae0b0d5d20cc58f7e3aea3c1f27b09d4861",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/cigala-noruega.webp",
+      "size": 78268,
+      "sha256": "944fda1c8199ecdcca98aaa1bce2eb0baeaeee62903a17885356cb164b82a0f1",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/dulce--cualquier-color-.webp",
+      "size": 30498,
+      "sha256": "36253b941b58ed1bf4fb98489bc2058e0f8d7be1553ba53f6345c0c1eaf5f54e",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/dulce-amarillo.webp",
+      "size": 33866,
+      "sha256": "ef90d1571e2521dca0cde07cbe752bce857e915783bd6b629d4392a088568511",
+      "minAppVersionCode": 44
+    },
+    {
       "path": "cocina/images/ingredientes/dulce-azul.webp",
       "size": 34234,
       "sha256": "c4368d85ef41ebe4c87c7300476a15c6db1b3d531cb6c23939618e0fcf4b6676",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/dulce-cian.webp",
+      "size": 32912,
+      "sha256": "0577b090cfc14cea233338ddf1db777185b23fd71dba013f00b81f1a651b5bd3",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/dulce-morado.webp",
+      "size": 46488,
+      "sha256": "349e7eb1be7d35f7db421382234000dcfd5597194356f6b79ecf7f10ce24d503",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/dulce-naranja.webp",
+      "size": 33830,
+      "sha256": "94eb15149d0b77a60f9b0a516fbef1df360d6df46c3a5223ea26e53f9b71b7dc",
       "minAppVersionCode": 44
     },
     {
@@ -2928,9 +3048,69 @@
       "minAppVersionCode": 44
     },
     {
+      "path": "cocina/images/ingredientes/dulce-verde.webp",
+      "size": 33934,
+      "sha256": "65b7122a9f6735541c83b108cce0b73709768a8135273616b8870b8844367944",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/esparrago-de-mar.webp",
+      "size": 75806,
+      "sha256": "959fd76eb6d1416b88a7cd6c23df5df9198325f89aa90ddcb19524b7fdbcda0a",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/frambuesa.webp",
+      "size": 53548,
+      "sha256": "7925a396d1c4a7f12b631f9a0c6ad0710d5db59edeca569c8ebda09ee8a04288",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/frijol-rojo.webp",
+      "size": 38416,
+      "sha256": "7d53d5458419ad6d45ac92f9f91aadf9f52ee22f46a13313384863a39c59ee11",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/grano-de-cafe.webp",
+      "size": 42404,
+      "sha256": "105b1bc697587337b70f3c836b9c24a12cae0b96b221eecbf0d87307424a0b55",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/hamburguesa-de-bloques.webp",
+      "size": 52808,
+      "sha256": "c8235cc27b40d99eb6e7f5f76635e8deb37c986087735bd25645ee9fd9d23837",
+      "minAppVersionCode": 44
+    },
+    {
       "path": "cocina/images/ingredientes/harina-de-arroz.webp",
       "size": 47666,
       "sha256": "04094ee842bb84605fbe051c97de7c2d8022115b4ca6fb7486e570ebbb93e48a",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/helecho-aguila-silvestre.webp",
+      "size": 73944,
+      "sha256": "879103aff871fb928fbf484e0257d36f20367f8f285bd5724a19ccb72f2189e4",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/hielo-de-bloques.webp",
+      "size": 48258,
+      "sha256": "0549574f54f387f9e731c438c3d088de8a2feaa79eeb66badf2c13ac65133706",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/hoja-de-zongzi.webp",
+      "size": 31306,
+      "sha256": "448e7bb631100ac531fa56d320ee456cd9c70a5d16a9e1ab2531cb19d5e49967",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/huevo-pasteurizado.webp",
+      "size": 24712,
+      "sha256": "3b7ed684a6ce0f29da8b56cf97963fab714cc9281547493a8eb2ac222de752e0",
       "minAppVersionCode": 44
     },
     {
@@ -2940,15 +3120,81 @@
       "minAppVersionCode": 44
     },
     {
+      "path": "cocina/images/ingredientes/leche-condensada.webp",
+      "size": 52016,
+      "sha256": "583c0dd03ea443acfabb1459f7d468a197782386f4b326ccca9d7a9dc6ea532a",
+      "minAppVersionCode": 44
+    },
+    {
       "path": "cocina/images/ingredientes/leche.webp",
       "size": 23458,
       "sha256": "c074019482a9504b344f4d0693866bc63785a8aff98a54dd510448a7f6a16e1e",
       "minAppVersionCode": 44
     },
     {
+      "path": "cocina/images/ingredientes/maleza.webp",
+      "size": 92100,
+      "sha256": "cb0e145433078a1d247180b00912eccf1a3a7ada6886d5c479706b4782c2f456",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/mandarina.webp",
+      "size": 43530,
+      "sha256": "f16305d1dce56b6ef1e947beea9be681feb8c941b32e20269f5adbe96188c0f2",
+      "minAppVersionCode": 44
+    },
+    {
       "path": "cocina/images/ingredientes/mantequilla.webp",
       "size": 27938,
       "sha256": "fa51ac54cd62aff6c9366651bb21bbf73fa6a388ae2fc138049ea10a39d2bb87",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/manzana.webp",
+      "size": 43816,
+      "sha256": "630763796f835c67629a19c9288743f1812655ee0b691f580410f7b2216e6dd2",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/margarita-blanca.webp",
+      "size": 101846,
+      "sha256": "77fb4244c27c652d46ed51f86b17508d119875174c154f20c583203996401d3e",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/matsutake.webp",
+      "size": 38328,
+      "sha256": "3c8f5fb70ffdcf26b343b4dd654c92fe840fa123155c576d09dd38e972bb3050",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/mostaza-silvestre.webp",
+      "size": 64624,
+      "sha256": "0065daeaff930b5275df005222b9920a7c2d6940b16399027775454d7ed5b48d",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/paquete-de-azucar-moreno-primaveral.webp",
+      "size": 43506,
+      "sha256": "c6da8f125cd2de0a3c0dc7427cb60610c0342bf201418825b0b77e8210cce341",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/pasta-concentrada-de-datiles.webp",
+      "size": 58518,
+      "sha256": "40bef15b4f33f7666c4a1c3b5ef513e7807878667010aca0b0075dc4246b4a8e",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/pollo-as.webp",
+      "size": 39616,
+      "sha256": "13ac33d867c1cf98c83610e7c50ad6863483db847ab5c7732d802eea13770dd2",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/polvo-de-alga-azul.webp",
+      "size": 60768,
+      "sha256": "6828ff16f6f7028e187ab9822531330d937efaba58a85eba596949d131af122d",
       "minAppVersionCode": 44
     },
     {
@@ -2964,9 +3210,45 @@
       "minAppVersionCode": 44
     },
     {
+      "path": "cocina/images/ingredientes/res-as.webp",
+      "size": 46990,
+      "sha256": "20f82238f2408fb5f7093a5af03303dc74449837c14ed78ed2f8658733503736",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/rosa-roja.webp",
+      "size": 143942,
+      "sha256": "4e803d5b27bac5c6c931f82fb446f40cddd906de32f388ed70806619fe7e8764",
+      "minAppVersionCode": 44
+    },
+    {
       "path": "cocina/images/ingredientes/salsa-de-osmanto.webp",
       "size": 51464,
       "sha256": "697a668126aab265e0ddee40ad15d28bf28aca6a8606d69689916446bec12978",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/salsa-tom-yum.webp",
+      "size": 62368,
+      "sha256": "6648c0dde75f816c630c42791685125d15c6a19949e35b6c306ce0b48ed834b6",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/salsa.webp",
+      "size": 51082,
+      "sha256": "2e9afeacd918fd1e84689896aea01ee978bcca8f4b6a83ec631098c240f79054",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/seta-ostra.webp",
+      "size": 58670,
+      "sha256": "c6e528e6cb42253fc27f18548d49dbf1c2d28dbfa426aeb845723f8314bc13a6",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/shiitake.webp",
+      "size": 48184,
+      "sha256": "c64b9575c169d5abdfc0c8b12075fe4742a4c8d86a8523433d5591a7cf3906e1",
       "minAppVersionCode": 44
     },
     {
@@ -2979,6 +3261,12 @@
       "path": "cocina/images/ingredientes/trufa-negra.webp",
       "size": 58132,
       "sha256": "799a140b6f578675d2a0a45bd27ce8e2b0fcc3a77a6952be04da1537f62523d0",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/ingredientes/uvas-de-mar.webp",
+      "size": 94648,
+      "sha256": "d23e808ac0456f1da106399987ff3b933d41114047b507dedcce957a822ef315",
       "minAppVersionCode": 44
     },
     {
