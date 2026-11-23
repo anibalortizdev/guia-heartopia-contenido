@@ -1,6 +1,182 @@
 {
   "items": [
     {
+      "id": "pastel-twilight-sparkle",
+      "nombre": "Pastel de Twilight Sparkle",
+      "nivelCocina": 1,
+      "ingredientes": [
+        {
+          "nombre": "Huevo",
+          "cantidad": 1
+        },
+        {
+          "nombre": "Leche",
+          "cantidad": 1
+        },
+        {
+          "idSiembra": "trigo",
+          "nombre": "Trigo",
+          "cantidad": 1
+        },
+        {
+          "idSiembra": "uva",
+          "nombre": "Uva",
+          "cantidad": 1
+        }
+      ],
+      "categoria": "Evento",
+      "evento": "Viaje de la amistad",
+      "certificable": false,
+      "origen": "Colaboración My Little Pony Fase 2 (21 nov 2026). Receta permanente del evento.",
+      "imagen": "cocina/images/pastel-twilight-sparkle.webp"
+    },
+    {
+      "id": "pastel-fluttershy",
+      "nombre": "Pastel de Fluttershy",
+      "nivelCocina": 1,
+      "ingredientes": [
+        {
+          "nombre": "Huevo",
+          "cantidad": 1
+        },
+        {
+          "nombre": "Leche",
+          "cantidad": 1
+        },
+        {
+          "idSiembra": "trigo",
+          "nombre": "Trigo",
+          "cantidad": 1
+        },
+        {
+          "idSiembra": "pina",
+          "nombre": "Piña",
+          "cantidad": 1
+        }
+      ],
+      "categoria": "Evento",
+      "evento": "Viaje de la amistad",
+      "certificable": false,
+      "origen": "Colaboración My Little Pony Fase 2 (21 nov 2026). Receta permanente del evento.",
+      "imagen": "cocina/images/pastel-fluttershy.webp"
+    },
+    {
+      "id": "pastel-rainbow-dash",
+      "nombre": "Pastel de Rainbow Dash",
+      "nivelCocina": 1,
+      "ingredientes": [
+        {
+          "nombre": "Huevo",
+          "cantidad": 1
+        },
+        {
+          "nombre": "Leche",
+          "cantidad": 1
+        },
+        {
+          "idSiembra": "trigo",
+          "nombre": "Trigo",
+          "cantidad": 1
+        },
+        {
+          "nombre": "Arándano",
+          "cantidad": 1
+        }
+      ],
+      "categoria": "Evento",
+      "evento": "Viaje de la amistad",
+      "certificable": false,
+      "origen": "Colaboración My Little Pony Fase 2 (21 nov 2026). Receta permanente del evento.",
+      "imagen": "cocina/images/pastel-rainbow-dash.webp"
+    },
+    {
+      "id": "pastel-pinkie-pie",
+      "nombre": "Pastel de Pinkie Pie",
+      "nivelCocina": 1,
+      "ingredientes": [
+        {
+          "nombre": "Huevo",
+          "cantidad": 1
+        },
+        {
+          "nombre": "Leche",
+          "cantidad": 1
+        },
+        {
+          "idSiembra": "trigo",
+          "nombre": "Trigo",
+          "cantidad": 1
+        },
+        {
+          "nombre": "Frambuesa",
+          "cantidad": 1
+        }
+      ],
+      "categoria": "Evento",
+      "evento": "Viaje de la amistad",
+      "certificable": false,
+      "origen": "Colaboración My Little Pony Fase 2 (21 nov 2026). Receta permanente del evento.",
+      "imagen": "cocina/images/pastel-pinkie-pie.webp"
+    },
+    {
+      "id": "pastel-applejack",
+      "nombre": "Pastel de Applejack",
+      "nivelCocina": 1,
+      "ingredientes": [
+        {
+          "nombre": "Huevo",
+          "cantidad": 1
+        },
+        {
+          "nombre": "Leche",
+          "cantidad": 1
+        },
+        {
+          "idSiembra": "trigo",
+          "nombre": "Trigo",
+          "cantidad": 1
+        },
+        {
+          "nombre": "Manzana",
+          "cantidad": 1
+        }
+      ],
+      "categoria": "Evento",
+      "evento": "Viaje de la amistad",
+      "certificable": false,
+      "origen": "Colaboración My Little Pony Fase 2 (21 nov 2026). Receta permanente del evento.",
+      "imagen": "cocina/images/pastel-applejack.webp"
+    },
+    {
+      "id": "pastel-rarity",
+      "nombre": "Pastel de Rarity",
+      "nivelCocina": 1,
+      "ingredientes": [
+        {
+          "nombre": "Huevo",
+          "cantidad": 1
+        },
+        {
+          "nombre": "Leche",
+          "cantidad": 1
+        },
+        {
+          "idSiembra": "trigo",
+          "nombre": "Trigo",
+          "cantidad": 1
+        },
+        {
+          "nombre": "Mandarina",
+          "cantidad": 1
+        }
+      ],
+      "categoria": "Evento",
+      "evento": "Viaje de la amistad",
+      "certificable": false,
+      "origen": "Colaboración My Little Pony Fase 2 (21 nov 2026). Receta permanente del evento.",
+      "imagen": "cocina/images/pastel-rarity.webp"
+    },
+    {
       "id": "chocolate-caliente-con-uchuva",
       "nombre": "Chocolate caliente con uchuva",
       "nivelCocina": 1,
