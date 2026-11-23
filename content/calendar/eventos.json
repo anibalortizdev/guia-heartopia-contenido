@@ -41,105 +41,60 @@
       "avisoMinAntes": 15
     },
     {
-      "id": "adivinacion-escarabajos",
-      "tipo": "aficion",
-      "categoria": "insectos",
-      "temporadaId": "festival-noche-adivinacion",
-      "nombre": "Mutación de escarabajo pelotero",
-      "repeticion": "diaria",
-      "horas": [
-        "13:00"
-      ],
-      "inicio": "2026-10-17T06:00",
-      "fin": "2026-11-21T05:59",
-      "duracionMin": 11,
-      "avisoMinAntes": 15
-    },
-    {
-      "id": "adivinacion-cuervos",
-      "tipo": "aficion",
-      "categoria": "aves",
-      "temporadaId": "festival-noche-adivinacion",
-      "nombre": "Provisiones de cuervo",
-      "repeticion": "diaria",
-      "horas": [
-        "16:00"
-      ],
-      "inicio": "2026-10-17T06:00",
-      "fin": "2026-11-21T05:59",
-      "duracionMin": 6,
-      "avisoMinAntes": 15
-    },
-    {
-      "id": "adivinacion-cardumen",
-      "tipo": "aficion",
-      "categoria": "pesca",
-      "temporadaId": "festival-noche-adivinacion",
-      "nombre": "Oleada de peces luminiscentes",
-      "repeticion": "diaria",
-      "horas": [
-        "18:00"
-      ],
-      "inicio": "2026-10-17T06:00",
-      "fin": "2026-11-21T05:59",
-      "duracionMin": 6,
-      "avisoMinAntes": 15
-    },
-    {
-      "id": "halloween-noche-grimkin",
+      "id": "mlp-viaje-amistad",
       "tipo": "temporada",
       "categoria": "temporada",
-      "nombre": "Truco o trato",
-      "inicio": "2026-10-30T06:00",
-      "fin": "2026-11-16T05:59"
+      "nombre": "Viaje de la amistad",
+      "inicio": "2026-11-14T06:00",
+      "fin": "2026-12-28T05:59"
     },
     {
-      "id": "halloween-tienda-dulces",
+      "id": "mlp-armonia-restaurada",
       "tipo": "temporada",
       "categoria": "temporada",
-      "nombre": "Canje de dulces",
-      "inicio": "2026-10-30T06:00",
-      "fin": "2026-11-23T05:59"
+      "nombre": "Armonía restaurada",
+      "inicio": "2026-11-21T06:00",
+      "fin": "2026-12-28T05:59"
     },
     {
-      "id": "festival-noche-adivinacion",
+      "id": "mlp-carrera-nubes",
       "tipo": "temporada",
       "categoria": "temporada",
-      "nombre": "Encuentros misteriosos",
+      "nombre": "Carrera de nubes",
+      "inicio": "2026-11-21T06:00",
+      "fin": "2026-12-28T05:59"
+    },
+    {
+      "id": "mlp-parque-ponis-arcoiris",
+      "tipo": "temporada",
+      "categoria": "temporada",
+      "nombre": "Parque de los ponis arcoíris",
+      "inicio": "2026-11-21T06:00",
+      "fin": "2027-01-04T05:59"
+    },
+    {
+      "id": "expo-viaje-estelar",
+      "tipo": "temporada",
+      "categoria": "temporada",
+      "nombre": "Exposición Viaje estelar",
+      "inicio": "2026-09-26T07:00",
+      "fin": "2026-11-28T05:59"
+    },
+    {
+      "id": "expo-bellota-dorada",
+      "tipo": "temporada",
+      "categoria": "temporada",
+      "nombre": "Exposición de la Bellota Dorada",
+      "inicio": "2026-10-31T07:00",
+      "fin": "2027-01-02T05:59"
+    },
+    {
+      "id": "adivinacion-pases",
+      "tipo": "temporada",
+      "categoria": "temporada",
+      "nombre": "Uso de pases: Noche de la Adivinación",
       "inicio": "2026-10-10T06:00",
-      "fin": "2026-11-21T05:59"
-    },
-    {
-      "id": "halloween-espectros-misteriosos",
-      "tipo": "temporada",
-      "categoria": "temporada",
-      "nombre": "Espectros misteriosos",
-      "inicio": "2026-10-30T06:00",
-      "fin": "2026-11-16T05:59"
-    },
-    {
-      "id": "halloween-paseo-nocturno",
-      "tipo": "temporada",
-      "categoria": "temporada",
-      "nombre": "Paseo nocturno misterioso",
-      "inicio": "2026-10-30T06:00",
-      "fin": "2026-11-16T05:59"
-    },
-    {
-      "id": "adivinacion-escuadron-buscadulces",
-      "tipo": "temporada",
-      "categoria": "temporada",
-      "nombre": "Escuadrón buscadulces",
-      "inicio": "2026-10-10T06:00",
-      "fin": "2026-11-21T05:59"
-    },
-    {
-      "id": "adivinacion-reportaje-pueblo",
-      "tipo": "temporada",
-      "categoria": "temporada",
-      "nombre": "Reportaje especial del pueblo",
-      "inicio": "2026-10-10T06:00",
-      "fin": "2026-11-21T05:59"
+      "fin": "2026-11-28T05:59"
     }
   ]
 }
