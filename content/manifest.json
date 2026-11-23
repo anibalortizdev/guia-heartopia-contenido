@@ -1,7 +1,7 @@
 {
-  "contentVersion": 23,
+  "contentVersion": 25,
   "minAppVersionCode": 36,
-  "publishedOn": "2026-11-20",
+  "publishedOn": "2026-11-23",
   "files": [
     {
       "path": "calendar/clima-2026.json",
@@ -10,8 +10,8 @@
     },
     {
       "path": "calendar/eventos.json",
-      "size": 3621,
-      "sha256": "719f9ca86a34cf663e555599eb63fd492c899484e6f6c4b94e6a37ab1bc60f23"
+      "size": 2421,
+      "sha256": "6ec5f69c291df2f59df7c9f4c20155b8ba641c088f79861b123cc60eaf80c3e6"
     },
     {
       "path": "catalog/CREDITOS.md",
@@ -3979,14 +3979,14 @@
     },
     {
       "path": "cocina/recetas.json",
-      "size": 198340,
-      "sha256": "94cad135cb79ce0eb11422c464b2ef4617a6f23e042defe944637bc523eb219e",
+      "size": 202754,
+      "sha256": "95a4cf469149f64267285ddb7442949381dcb90ac1ecf92fca0d35073adb3209",
       "minAppVersionCode": 39
     },
     {
       "path": "codes/codigos.json",
-      "size": 2974,
-      "sha256": "b34ca96972f675b4e4848cec63dacb22cb7d6756514b39c0bd0d676929c9ca46",
+      "size": 3349,
+      "sha256": "4e93b2009e74ba4c4c8783b5db9888476b8db611c5a2a2d007fe6d93639e4a3e",
       "minAppVersionCode": 37
     },
     {
