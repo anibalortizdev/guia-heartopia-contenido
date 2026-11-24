@@ -1,5 +1,5 @@
 {
-  "contentVersion": 25,
+  "contentVersion": 26,
   "minAppVersionCode": 36,
   "publishedOn": "2026-11-23",
   "files": [
@@ -3420,6 +3420,12 @@
       "minAppVersionCode": 44
     },
     {
+      "path": "cocina/images/pastel-applejack.webp",
+      "size": 49350,
+      "sha256": "6ae49d31246763729e562ad9f6c1d839a481c7c5974c59519e3079d25744426c",
+      "minAppVersionCode": 44
+    },
+    {
       "path": "cocina/images/pastel-de-boletales.webp",
       "size": 136704,
       "sha256": "f034764415daf2b4a942161b0ea2a355a17ea67b4e8281822f83c13adbc20b95",
@@ -3501,6 +3507,36 @@
       "path": "cocina/images/pastel-de-zanahoria.webp",
       "size": 156602,
       "sha256": "9fba446a7dfb81c97a152ffc3958a29556a3273a5d96077074351ee0cb12dee7",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/pastel-fluttershy.webp",
+      "size": 43450,
+      "sha256": "589caf9c822946ad09b7bc53519f206e9f49a8c10e2989031aa6058daa54fdb0",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/pastel-pinkie-pie.webp",
+      "size": 42778,
+      "sha256": "31b439dbccc3a99fb7073ea281252d8dcd2bcd02d9bf4028a626e7ac6bc39e63",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/pastel-rainbow-dash.webp",
+      "size": 41226,
+      "sha256": "30dc39d51a81006dd3ad734f8be475cf1c650e9565e88380fe6f6af878bddbab",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/pastel-rarity.webp",
+      "size": 35698,
+      "sha256": "d1568e34ff09a5fdac83a8dd1ed1e4c4ebf354714833f1a865badf5d8c3b3e1f",
+      "minAppVersionCode": 44
+    },
+    {
+      "path": "cocina/images/pastel-twilight-sparkle.webp",
+      "size": 43718,
+      "sha256": "cbff3254d57df4261b408a78ce65d0c196680cfff4f82c770c2cdd8f4910e5f1",
       "minAppVersionCode": 44
     },
     {
