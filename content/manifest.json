@@ -1,7 +1,7 @@
 {
-  "contentVersion": 28,
+  "contentVersion": 29,
   "minAppVersionCode": 36,
-  "publishedOn": "2026-11-24",
+  "publishedOn": "2026-11-27",
   "files": [
     {
       "path": "calendar/clima.json",
@@ -4022,8 +4022,8 @@
     },
     {
       "path": "codes/codigos.json",
-      "size": 3349,
-      "sha256": "4e93b2009e74ba4c4c8783b5db9888476b8db611c5a2a2d007fe6d93639e4a3e",
+      "size": 3528,
+      "sha256": "8f6c9cfdd2c7627986eb007bbfea1d735f28654e23adef916668dd40eee77de1",
       "minAppVersionCode": 37
     },
     {
